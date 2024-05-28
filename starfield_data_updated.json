@@ -3889,7 +3889,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "17 hours"
+            "planet_length": "11 hours"
         },
         "Agamon B": {
             "type": "Ice",
@@ -3936,7 +3936,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "17 hours"
+            "planet_length": "51 hours"
         },
         "Agamon D": {
             "type": "Ice",
@@ -3958,7 +3958,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "17 hours"
+            "planet_length": "72 hours"
         },
         "Akila": {
             "type": "Rock",
@@ -4018,7 +4018,7 @@
                 "Rainbow Agnathan (Solvent)"
             ],
             "hab_rank": "",
-            "planet_length": "17 hours"
+            "planet_length": "28 hours"
         },
         "Antharum": {
             "type": "Barren",
@@ -4045,7 +4045,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "17 hours"
+            "planet_length": "13 days"
         },
         "Bindi": {
             "type": "Barren",
@@ -4074,7 +4074,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "17 hours"
+            "planet_length": "95 hours"
         },
         "Codos": {
             "type": "Rock",
@@ -4123,7 +4123,7 @@
                 "Hornface (Sealant)"
             ],
             "hab_rank": "",
-            "planet_length": "17 hours"
+            "planet_length": "6 hours"
         },
         "Burran": {
             "type": "Barren",
@@ -4145,7 +4145,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "17 hours"
+            "planet_length": "19 hours"
         },
         "Grizzit": {
             "type": "Barren",
@@ -4168,7 +4168,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "17 hours"
+            "planet_length": "72 hours"
         },
         "Rell": {
             "type": "Barren",
@@ -4191,7 +4191,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "17 hours"
+            "planet_length": "13 days"
         },
         "Fenn": {
             "type": "Gas giant",
@@ -4208,7 +4208,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "17 hours"
+            "planet_length": "9 hours"
         },
         "Cragg": {
             "type": "Rock",
@@ -4241,7 +4241,7 @@
                 "Crag Sprinter (Cosmetic)"
             ],
             "hab_rank": "1",
-            "planet_length": "17 hours"
+            "planet_length": "6 days"
         },
         "Tahrnis": {
             "type": "Ice",
@@ -4263,7 +4263,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "17 hours"
+            "planet_length": "43 hours"
         },
         "Montara": {
             "type": "Gas giant",
@@ -4280,7 +4280,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "17 hours"
+            "planet_length": "4 hours"
         },
         "Heilo": {
             "type": "Ice",
@@ -4304,7 +4304,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "17 hours"
+            "planet_length": "5 days"
         },
         "Kalira": {
             "type": "Ice",
@@ -4328,7 +4328,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "17 hours"
+            "planet_length": "72 hours"
         },
         "Montara Luna": {
             "type": "Rock",
@@ -4392,7 +4392,7 @@
                 "Sunflower (Antimicrobial)"
             ],
             "hab_rank": "",
-            "planet_length": "17 hours"
+            "planet_length": "72 hours"
         },
         "Thren": {
             "type": "Ice",
@@ -4415,7 +4415,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "17 hours"
+            "planet_length": "9 days"
         },
         "Wellish": {
             "type": "Ice",
@@ -4438,7 +4438,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "17 hours"
+            "planet_length": "70 hours"
         },
         "Navaha": {
             "type": "Gas giant",
@@ -4455,7 +4455,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "17 hours"
+            "planet_length": "12 hours"
         },
         "Belwah": {
             "type": "Rock",
@@ -4486,7 +4486,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "17 hours"
+            "planet_length": "45 hours"
         },
         "Bismark": {
             "type": "Ice",
@@ -4509,7 +4509,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "17 hours"
+            "planet_length": "19 hours"
         },
         "Hardpoint": {
             "type": "Rock",
@@ -4540,7 +4540,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "17 hours"
+            "planet_length": "10 days"
         },
         "Laramie": {
             "type": "Ice",
@@ -4562,7 +4562,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "17 hours"
+            "planet_length": "72 hours"
         },
         "Olaran": {
             "type": "Ice",
@@ -4585,7 +4585,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "17 hours"
+            "planet_length": "72 hours"
         },
         "Skink": {
             "type": "Rock",
@@ -4621,7 +4621,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "17 hours"
+            "planet_length": "60 days"
         },
         "Stellis": {
             "type": "Gas giant",
@@ -4638,7 +4638,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "17 hours"
+            "planet_length": "22 hours"
         },
         "Stellis A": {
             "type": "Ice",
@@ -4667,7 +4667,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "17 hours"
+            "planet_length": "47 hours"
         },
         "Stellis B": {
             "type": "Ice",
@@ -4689,7 +4689,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "17 hours"
+            "planet_length": "67 hours"
         },
         "Stellis C": {
             "type": "Ice",
@@ -4712,7 +4712,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "17 hours"
+            "planet_length": "4 days"
         },
         "Stellis D": {
             "type": "Ice",
@@ -4737,7 +4737,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "17 hours"
+            "planet_length": "4 days"
         },
         "Washakie": {
             "type": "Rock",
@@ -4772,7 +4772,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "17 hours"
+            "planet_length": "41 hours"
         },
         "Smet": {
             "type": "Barren",
@@ -4796,7 +4796,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "17 hours"
+            "planet_length": "32 hours"
         }
     },
     "Piazzi": {
@@ -4834,7 +4834,7 @@
                 "Leaning Fireleaf (Toxin)"
             ],
             "hab_rank": "",
-            "planet_length": "29 hours"
+            "planet_length": "50 days"
         },
         "Piazzi II": {
             "type": "Rock",
@@ -4893,7 +4893,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "29 hours"
+            "planet_length": "26 hours"
         },
         "Piazzi III-a": {
             "type": "Barren",
@@ -4915,7 +4915,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "29 hours"
+            "planet_length": "5 days"
         },
         "Piazzi III-b": {
             "type": "Barren",
@@ -4939,7 +4939,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "29 hours"
+            "planet_length": "8 days"
         },
         "Piazzi IV": {
             "type": "Gas giant",
@@ -4956,7 +4956,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "29 hours"
+            "planet_length": "15 hours"
         },
         "Piazzi IV-a": {
             "type": "Barren",
@@ -4980,7 +4980,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "29 hours"
+            "planet_length": "32 hours"
         },
         "Piazzi IV-b": {
             "type": "Barren",
@@ -5002,7 +5002,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "29 hours"
+            "planet_length": "6 days"
         },
         "Piazzi IV-c": {
             "type": "Rock",
@@ -5056,7 +5056,7 @@
                 "Trapmaw (Toxin)"
             ],
             "hab_rank": "",
-            "planet_length": "29 hours"
+            "planet_length": "21 days"
         },
         "Piazzi V": {
             "type": "Barren",
@@ -5079,7 +5079,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "29 hours"
+            "planet_length": "47 hours"
         },
         "Piazzi V-a": {
             "type": "Barren",
@@ -5101,7 +5101,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "29 hours"
+            "planet_length": "23 hours"
         },
         "Piazzi V-b": {
             "type": "Barren",
@@ -5125,7 +5125,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "29 hours"
+            "planet_length": "43 hours"
         },
         "Piazzi V-c": {
             "type": "Barren",
@@ -5149,7 +5149,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "29 hours"
+            "planet_length": "38 hours"
         },
         "Piazzi VI": {
             "type": "Barren",
@@ -5171,7 +5171,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "29 hours"
+            "planet_length": "25 hours"
         },
         "Piazzi VI-a": {
             "type": "Barren",
@@ -5195,7 +5195,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "29 hours"
+            "planet_length": "30 hours"
         },
         "Piazzi VI-b": {
             "type": "Barren",
@@ -5218,7 +5218,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "29 hours"
+            "planet_length": "54 hours"
         },
         "Piazzi VI-c": {
             "type": "Ice",
@@ -5246,7 +5246,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "29 hours"
+            "planet_length": "4 days"
         },
         "Piazzi VII": {
             "type": "Gas giant",
@@ -5263,7 +5263,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "29 hours"
+            "planet_length": "5 hours"
         },
         "Piazzi VII-a": {
             "type": "Ice",
@@ -5285,7 +5285,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "29 hours"
+            "planet_length": "34 hours"
         },
         "Piazzi VII-b": {
             "type": "Ice",
@@ -5310,7 +5310,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "29 hours"
+            "planet_length": "6 days"
         },
         "Piazzi VII-c": {
             "type": "Ice",
@@ -5333,7 +5333,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "29 hours"
+            "planet_length": "7 hours"
         }
     },
     "Algorab": {
@@ -5408,7 +5408,7 @@
                 "Thorn (Ornamental Material)"
             ],
             "hab_rank": "",
-            "planet_length": "26 hours"
+            "planet_length": "10 hours"
         },
         "Algorab III": {
             "type": "Gas giant",
@@ -5425,7 +5425,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "26 hours"
+            "planet_length": "24 hours"
         },
         "Algorab III-a": {
             "type": "Rock",
@@ -5451,7 +5451,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "26 hours"
+            "planet_length": "53 hours"
         },
         "Algorab III-b": {
             "type": "Rock",
@@ -5507,7 +5507,7 @@
                 "Worm (Membrane)"
             ],
             "hab_rank": "3",
-            "planet_length": "26 hours"
+            "planet_length": "72 hours"
         },
         "Algorab III-c": {
             "type": "Ice",
@@ -5529,7 +5529,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "26 hours"
+            "planet_length": "89 hours"
         },
         "Algorab III-d": {
             "type": "Ice",
@@ -5551,7 +5551,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "26 hours"
+            "planet_length": "11 days"
         },
         "Algorab III-e": {
             "type": "Ice",
@@ -5574,7 +5574,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "26 hours"
+            "planet_length": "33 hours"
         }
     },
     "Alchiba": {
@@ -5659,7 +5659,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "38 hours"
+            "planet_length": "39 days"
         },
         "Alchiba III": {
             "type": "Gas giant",
@@ -5676,7 +5676,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "38 hours"
+            "planet_length": "72 hours"
         },
         "Alchiba III-a": {
             "type": "Ice",
@@ -5704,7 +5704,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "38 hours"
+            "planet_length": "83 hours"
         },
         "Alchiba III-b": {
             "type": "Ice",
@@ -5726,7 +5726,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "38 hours"
+            "planet_length": "6 days"
         },
         "Alchiba III-c": {
             "type": "Barren",
@@ -5755,7 +5755,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "38 hours"
+            "planet_length": "14 days"
         },
         "Alchiba IV": {
             "type": "Rock",
@@ -5787,7 +5787,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "38 hours"
+            "planet_length": "72 hours"
         },
         "Alchiba IV-a": {
             "type": "Rock",
@@ -5820,7 +5820,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "38 hours"
+            "planet_length": "40 hours"
         },
         "Alchiba IX": {
             "type": "Gas giant",
@@ -5837,7 +5837,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "38 hours"
+            "planet_length": "38"
         },
         "Alchiba IX-a": {
             "type": "Ice",
@@ -5859,7 +5859,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "38 hours"
+            "planet_length": "77 hours"
         },
         "Alchiba V": {
             "type": "Rock",
@@ -5887,7 +5887,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "38 hours"
+            "planet_length": "77 hours"
         },
         "Alchiba V-a": {
             "type": "Barren",
@@ -5911,7 +5911,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "38 hours"
+            "planet_length": "15 days"
         },
         "Alchiba VI": {
             "type": "Ice giant",
@@ -5928,7 +5928,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "38 hours"
+            "planet_length": "72 hours"
         },
         "Alchiba VI-a": {
             "type": "Ice",
@@ -5952,7 +5952,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "38 hours"
+            "planet_length": "9 days"
         },
         "Alchiba VI-b": {
             "type": "Ice",
@@ -5976,7 +5976,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "38 hours"
+            "planet_length": "10 days"
         },
         "Alchiba VI-c": {
             "type": "Ice",
@@ -5999,7 +5999,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "38 hours"
+            "planet_length": "42 days"
         },
         "Alchiba VII": {
             "type": "Ice giant",
@@ -6016,7 +6016,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "38 hours"
+            "planet_length": "72 hours"
         },
         "Alchiba VII-a": {
             "type": "Ice",
@@ -6038,7 +6038,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "38 hours"
+            "planet_length": "66 hours"
         },
         "Alchiba VII-b": {
             "type": "Rock",
@@ -6070,7 +6070,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "38 hours"
+            "planet_length": "9 days"
         },
         "Alchiba VII-c": {
             "type": "Ice",
@@ -6093,7 +6093,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "38 hours"
+            "planet_length": "12 days"
         },
         "Alchiba VII-d": {
             "type": "Ice",
@@ -6117,7 +6117,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "38 hours"
+            "planet_length": "13 days"
         },
         "Alchiba VIII": {
             "type": "Rock",
@@ -6141,7 +6141,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "4",
-            "planet_length": "38 hours"
+            "planet_length": "72 hours"
         },
         "Alchiba VIII-a": {
             "type": "Ice",
@@ -6165,7 +6165,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "38 hours"
+            "planet_length": "45 hours"
         },
         "Alchiba VIII-b": {
             "type": "Barren",
@@ -6187,7 +6187,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "38 hours"
+            "planet_length": "5 days"
         },
         "Alchiba X": {
             "type": "Gas giant",
@@ -6204,7 +6204,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "38 hours"
+            "planet_length": "72 hours"
         },
         "Alchiba X-a": {
             "type": "Ice",
@@ -6227,7 +6227,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "38 hours"
+            "planet_length": "47 hours"
         },
         "Alchiba X-b": {
             "type": "Rock",
@@ -6256,7 +6256,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "3",
-            "planet_length": "38 hours"
+            "planet_length": "5 days"
         }
     },
     "Al-Battani": {
@@ -6280,7 +6280,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "25 hours"
+            "planet_length": "27 days"
         },
         "Al-Battani I-a": {
             "type": "Barren",
@@ -6305,7 +6305,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "25 hours"
+            "planet_length": "9 days"
         },
         "Al-Battani I-b": {
             "type": "Barren",
@@ -6330,7 +6330,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "25 hours"
+            "planet_length": "22 days"
         },
         "Al-Battani I-c": {
             "type": "Barren",
@@ -6355,7 +6355,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "25 hours"
+            "planet_length": "31 days"
         },
         "Al-Battani II": {
             "type": "Rock",
@@ -6439,7 +6439,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "2",
-            "planet_length": "25 hours"
+            "planet_length": "21 hours"
         },
         "Al-Battani III-a": {
             "type": "Barren",
@@ -6461,7 +6461,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "25 hours"
+            "planet_length": "41 hours"
         },
         "Al-Battani III-b": {
             "type": "Barren",
@@ -6484,7 +6484,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "25 hours"
+            "planet_length": "5 days"
         },
         "Al-Battani IV": {
             "type": "Rock",
@@ -6516,7 +6516,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "25 hours"
+            "planet_length": "32 hours"
         },
         "Al-Battani IV-a": {
             "type": "Barren",
@@ -6538,7 +6538,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "25 hours"
+            "planet_length": "35 days"
         },
         "Al-Battani IV-b": {
             "type": "Asteroid",
@@ -6555,7 +6555,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "25 hours"
+            "planet_length": "-"
         },
         "Al-Battani V": {
             "type": "Barren",
@@ -6576,8 +6576,8 @@
             ],
             "domesticable": [],
             "gatherable": [],
-            "hab_rank": "",
-            "planet_length": "25 hours"
+            "hab_rank": "1",
+            "planet_length": "24 hours"
         },
         "Al-Battani V-a": {
             "type": "Barren",
@@ -6601,7 +6601,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "25 hours"
+            "planet_length": "11 days"
         },
         "Al-Battani VI": {
             "type": "Gas giant",
@@ -6617,8 +6617,8 @@
             "resources": [],
             "domesticable": [],
             "gatherable": [],
-            "hab_rank": "1",
-            "planet_length": "25 hours"
+            "hab_rank": "-",
+            "planet_length": "6 hours"
         },
         "Al-Battani VI-a": {
             "type": "Ice",
@@ -6639,8 +6639,8 @@
             ],
             "domesticable": [],
             "gatherable": [],
-            "hab_rank": "",
-            "planet_length": "25 hours"
+            "hab_rank": "1",
+            "planet_length": "35 hours"
         },
         "Al-Battani VI-b": {
             "type": "Ice",
@@ -6662,7 +6662,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "25 hours"
+            "planet_length": "6 days"
         },
         "Al-Battani VII": {
             "type": "Ice giant",
@@ -6678,8 +6678,8 @@
             "resources": [],
             "domesticable": [],
             "gatherable": [],
-            "hab_rank": "1",
-            "planet_length": "25 hours"
+            "hab_rank": "-",
+            "planet_length": "19 hours"
         },
         "Al-Battani VII-a": {
             "type": "Barren",
@@ -6701,8 +6701,8 @@
             ],
             "domesticable": [],
             "gatherable": [],
-            "hab_rank": "",
-            "planet_length": "25 hours"
+            "hab_rank": "1",
+            "planet_length": "33 hours"
         },
         "Al-Battani VIII": {
             "type": "Barren",
@@ -6725,7 +6725,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "25 hours"
+            "planet_length": "50 hours"
         },
         "Al-Battani VIII-a": {
             "type": "Ice",
@@ -6748,7 +6748,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "25 hours"
+            "planet_length": "40 days"
         }
     },
     "Aranae": {
