@@ -2110,7 +2110,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "46 hours"
+            "planet_length": "29 hours"
         },
         "Linnaeus V": {
             "type": "Barren",
@@ -2133,7 +2133,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "46 hours"
+            "planet_length": "8 hours"
         },
         "Linnaeus VI": {
             "type": "Ice",
@@ -2156,7 +2156,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "46 hours"
+            "planet_length": "48 hours"
         },
         "Linnaeus VII": {
             "type": "Barren",
@@ -2179,7 +2179,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "46 hours"
+            "planet_length": "18 hours"
         }
     },
     "Lunara": {
@@ -2203,7 +2203,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "18 hours"
+            "planet_length": "11 days"
         },
         "Cassini": {
             "type": "Ice giant",
@@ -2244,7 +2244,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "18 hours"
+            "planet_length": "12 days"
         },
         "Gasparis": {
             "type": "Ice",
@@ -2272,7 +2272,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "18 hours"
+            "planet_length": "87 hours"
         },
         "Lillius": {
             "type": "Ice",
@@ -2295,7 +2295,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "18 hours"
+            "planet_length": "55 hours"
         },
         "Coeus": {
             "type": "Barren",
@@ -2317,7 +2317,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "18 hours"
+            "planet_length": "5 days"
         },
         "Crius": {
             "type": "Barren",
@@ -2339,7 +2339,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "18 hours"
+            "planet_length": "10 days"
         },
         "Cthol": {
             "type": "Ice giant",
@@ -2356,7 +2356,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "18 hours"
+            "planet_length": "13 hours"
         },
         "Nyarloth": {
             "type": "Barren",
@@ -2378,7 +2378,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "18 hours"
+            "planet_length": "10 days"
         },
         "Uvhan": {
             "type": "Ice",
@@ -2400,7 +2400,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "18 hours"
+            "planet_length": "27 hours"
         },
         "Gaea": {
             "type": "Barren",
@@ -2423,7 +2423,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "18 hours"
+            "planet_length": "36 hours"
         },
         "Numitor": {
             "type": "Barren",
@@ -2450,7 +2450,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "18 hours"
+            "planet_length": "22 days"
         },
         "Remus": {
             "type": "Barren",
@@ -2473,7 +2473,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "18 hours"
+            "planet_length": "8 days"
         },
         "Romulus": {
             "type": "Barren",
@@ -2498,7 +2498,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "18 hours"
+            "planet_length": "65 hours"
         },
         "Okoro": {
             "type": "Gas giant",
@@ -2515,7 +2515,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "18 hours"
+            "planet_length": "21 hours"
         },
         "Okoro Alpha": {
             "type": "Ice",
@@ -2538,7 +2538,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "18 hours"
+            "planet_length": "64 hours"
         },
         "Okoro Beta": {
             "type": "Ice",
@@ -2562,7 +2562,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "18 hours"
+            "planet_length": "6 days"
         },
         "Okoro Delta": {
             "type": "Ice",
@@ -2585,7 +2585,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "18 hours"
+            "planet_length": "9 days"
         },
         "Okoro Epsilon": {
             "type": "Ice",
@@ -2607,7 +2607,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "18 hours"
+            "planet_length": "10 days"
         },
         "Okoro Gamma": {
             "type": "Ice",
@@ -2630,7 +2630,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "18 hours"
+            "planet_length": "7 days"
         },
         "Petria": {
             "type": "Rock",
@@ -2657,7 +2657,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "18 hours"
+            "planet_length": "32 hours"
         },
         "Earrach": {
             "type": "Barren",
@@ -2683,7 +2683,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "18 hours"
+            "planet_length": "13 days"
         },
         "Reva's World": {
             "type": "Barren",
@@ -2705,7 +2705,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "18 hours"
+            "planet_length": "20 hours"
         },
         "Vesta": {
             "type": "Rock",
@@ -2765,7 +2765,7 @@
                 "Gossamer (Sealant)"
             ],
             "hab_rank": "3",
-            "planet_length": "18 hours"
+            "planet_length": "43 hours"
         },
         "Vesta Lunaris": {
             "type": "Barren",
@@ -2789,7 +2789,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "18 hours"
+            "planet_length": "44 days"
         }
     },
     "Alpha Centauri": {
@@ -2848,7 +2848,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "16 hours"
+            "planet_length": "44 hours"
         },
         "Grissom": {
             "type": "Barren",
@@ -2870,7 +2870,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "16 hours"
+            "planet_length": "8 days"
         },
         "Gagarin": {
             "type": "Rock",
@@ -2924,7 +2924,7 @@
                 "Trilobite (Spice)"
             ],
             "hab_rank": "",
-            "planet_length": "16 hours"
+            "planet_length": "13 hours"
         },
         "Jemison": {
             "type": "Rock",
@@ -2985,7 +2985,7 @@
                 "Tuskfrog (Sedative)"
             ],
             "hab_rank": "",
-            "planet_length": "16 hours"
+            "planet_length": "50 hours"
         },
         "Kurtz": {
             "type": "Barren",
@@ -3007,7 +3007,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "16 hours"
+            "planet_length": "13 days"
         },
         "Olivas": {
             "type": "Gas giant",
@@ -3024,7 +3024,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "16 hours"
+            "planet_length": "9 hours"
         },
         "Chawla": {
             "type": "Ice",
@@ -3047,7 +3047,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "16 hours"
+            "planet_length": "16 days"
         },
         "Hawley": {
             "type": "Rock",
@@ -3076,7 +3076,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "16 hours"
+            "planet_length": "5 days"
         },
         "Lovell": {
             "type": "Ice",
@@ -3100,7 +3100,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "16 hours"
+            "planet_length": "17 hours"
         },
         "Voss": {
             "type": "Rock",
@@ -3134,7 +3134,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "16 hours"
+            "planet_length": "90 hours"
         },
         "Zamka": {
             "type": "Rock",
@@ -3169,7 +3169,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "16 hours"
+            "planet_length": "50 hours"
         }
     },
     "Sol": {
@@ -3193,8 +3193,8 @@
             ],
             "domesticable": [],
             "gatherable": [],
-            "hab_rank": "",
-            "planet_length": "24 hours"
+            "hab_rank": "1",
+            "planet_length": "83 days"
         },
         "Venus": {
             "type": "Rock",
@@ -3220,8 +3220,8 @@
             ],
             "domesticable": [],
             "gatherable": [],
-            "hab_rank": "1",
-            "planet_length": "24 hours"
+            "hab_rank": "3",
+            "planet_length": "243 days"
         },
         "Earth": {
             "type": "Rock",
@@ -3248,7 +3248,7 @@
             ],
             "domesticable": [],
             "gatherable": [],
-            "hab_rank": "1",
+            "hab_rank": "-",
             "planet_length": "24 hours"
         },
         "Luna": {
@@ -3271,7 +3271,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "24 hours"
+            "planet_length": "28 days"
         },
         "Mars": {
             "type": "Rock",
@@ -3300,7 +3300,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "24 hours"
+            "planet_length": "25 hours"
         },
         "Deimos": {
             "type": "Asteroid",
@@ -3317,7 +3317,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "24 hours"
+            "planet_length": "-"
         },
         "Phobos": {
             "type": "Asteroid",
@@ -3333,8 +3333,8 @@
             "resources": [],
             "domesticable": [],
             "gatherable": [],
-            "hab_rank": "1",
-            "planet_length": "24 hours"
+            "hab_rank": "-",
+            "planet_length": "-"
         },
         "Jupiter": {
             "type": "Gas giant",
@@ -3351,7 +3351,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "24 hours"
+            "planet_length": "10 hours"
         },
         "Callisto": {
             "type": "Ice",
@@ -3373,7 +3373,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "24 hours"
+            "planet_length": "17 days"
         },
         "Europa": {
             "type": "Ice",
@@ -3395,8 +3395,8 @@
             ],
             "domesticable": [],
             "gatherable": [],
-            "hab_rank": "1",
-            "planet_length": "24 hours"
+            "hab_rank": "-",
+            "planet_length": "85 hours"
         },
         "Ganymede": {
             "type": "Ice",
@@ -3419,7 +3419,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "24 hours"
+            "planet_length": "7 days"
         },
         "Io": {
             "type": "Barren",
@@ -3440,8 +3440,8 @@
             ],
             "domesticable": [],
             "gatherable": [],
-            "hab_rank": "1",
-            "planet_length": "24 hours"
+            "hab_rank": "-",
+            "planet_length": "43 hours"
         },
         "Saturn": {
             "type": "Gas giant",
@@ -3457,8 +3457,8 @@
             "resources": [],
             "domesticable": [],
             "gatherable": [],
-            "hab_rank": "1",
-            "planet_length": "24 hours"
+            "hab_rank": "-",
+            "planet_length": "11 hours"
         },
         "Dione": {
             "type": "Ice",
@@ -3480,8 +3480,8 @@
             ],
             "domesticable": [],
             "gatherable": [],
-            "hab_rank": "",
-            "planet_length": "24 hours"
+            "hab_rank": "1",
+            "planet_length": "66 hours"
         },
         "Enceladus": {
             "type": "Ice",
@@ -3504,8 +3504,8 @@
             ],
             "domesticable": [],
             "gatherable": [],
-            "hab_rank": "",
-            "planet_length": "24 hours"
+            "hab_rank": "1",
+            "planet_length": "33 hours"
         },
         "Iapetus": {
             "type": "Ice",
@@ -3528,8 +3528,8 @@
             ],
             "domesticable": [],
             "gatherable": [],
-            "hab_rank": "",
-            "planet_length": "24 hours"
+            "hab_rank": "1",
+            "planet_length": "79 days"
         },
         "Mimas": {
             "type": "Ice",
@@ -3552,7 +3552,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "24 hours"
+            "planet_length": "23 hours"
         },
         "Rhea": {
             "type": "Ice",
@@ -3576,8 +3576,8 @@
             ],
             "domesticable": [],
             "gatherable": [],
-            "hab_rank": "",
-            "planet_length": "24 hours"
+            "hab_rank": "1",
+            "planet_length": "5 days"
         },
         "Tethys": {
             "type": "Ice",
@@ -3599,7 +3599,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "24 hours"
+            "planet_length": "45 hours"
         },
         "Titan": {
             "type": "Rock",
@@ -3625,8 +3625,8 @@
             ],
             "domesticable": [],
             "gatherable": [],
-            "hab_rank": "",
-            "planet_length": "24 hours"
+            "hab_rank": "1",
+            "planet_length": "16 days"
         },
         "Uranus": {
             "type": "Ice giant",
@@ -3642,8 +3642,8 @@
             "resources": [],
             "domesticable": [],
             "gatherable": [],
-            "hab_rank": "1",
-            "planet_length": "24 hours"
+            "hab_rank": "-",
+            "planet_length": "17 hours"
         },
         "Ariel": {
             "type": "Ice",
@@ -3665,7 +3665,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "24 hours"
+            "planet_length": "61 hours"
         },
         "Miranda": {
             "type": "Ice",
@@ -3689,7 +3689,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "24 hours"
+            "planet_length": "34 hours"
         },
         "Oberon": {
             "type": "Ice",
@@ -3710,8 +3710,8 @@
             ],
             "domesticable": [],
             "gatherable": [],
-            "hab_rank": "",
-            "planet_length": "24 hours"
+            "hab_rank": "1",
+            "planet_length": "13 days"
         },
         "Titania": {
             "type": "Ice",
@@ -3733,7 +3733,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "24 hours"
+            "planet_length": "9 days"
         },
         "Umbriel": {
             "type": "Ice",
@@ -3756,7 +3756,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "24 hours"
+            "planet_length": "4 days"
         },
         "Neptune": {
             "type": "Ice giant",
@@ -3772,8 +3772,8 @@
             "resources": [],
             "domesticable": [],
             "gatherable": [],
-            "hab_rank": "1",
-            "planet_length": "24 hours"
+            "hab_rank": "-",
+            "planet_length": "16 hours"
         },
         "Triton": {
             "type": "Ice",
@@ -3796,7 +3796,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "24 hours"
+            "planet_length": "6 days"
         },
         "Pluto": {
             "type": "Ice",
@@ -3819,8 +3819,8 @@
             ],
             "domesticable": [],
             "gatherable": [],
-            "hab_rank": "",
-            "planet_length": "24 hours"
+            "hab_rank": "1",
+            "planet_length": "6 days"
         },
         "Charon": {
             "type": "Ice",
@@ -3842,7 +3842,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "24 hours"
+            "planet_length": "7 days"
         }
     },
     "Cheyenne": {
@@ -39682,7 +39682,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": null
+            "planet_length": "6 hours"
         }
     },
     "Proxima Ternion": {
