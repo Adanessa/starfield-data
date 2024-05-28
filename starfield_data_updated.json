@@ -1950,7 +1950,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "46 hours"
+            "planet_length": "54 days"
         },
         "Linnaeus III": {
             "type": "Rock",
@@ -1981,7 +1981,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "2",
-            "planet_length": "46 hours"
+            "planet_length": "41 hours"
         },
         "Linnaeus III-a": {
             "type": "Barren",
@@ -2004,7 +2004,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "46 hours"
+            "planet_length": "29 hours"
         },
         "Linnaeus IV": {
             "type": "Gas giant",
@@ -2021,7 +2021,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "46 hours"
+            "planet_length": "17 hours"
         },
         "Linnaeus IV-a": {
             "type": "Rock",
@@ -2053,7 +2053,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "46 hours"
+            "planet_length": "86 hours"
         },
         "Linnaeus IV-b": {
             "type": "Rock",
@@ -2087,7 +2087,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "46 hours"
+            "planet_length": "8 days"
         },
         "Linnaeus IV-c": {
             "type": "Ice",
