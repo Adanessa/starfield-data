@@ -853,7 +853,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "35 hours"
+            "planet_length": "38 hours"
         },
         "Volii Delta": {
             "type": "Asteroid",
@@ -892,7 +892,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "35 hours"
+            "planet_length": "16 hours"
         },
         "Volii Epsilon": {
             "type": "Rock",
@@ -932,7 +932,7 @@
             ],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "35 hours"
+            "planet_length": "39 hours"
         },
         "Volii Gamma": {
             "type": "Barren",
@@ -956,7 +956,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "35 hours"
+            "planet_length": "19 days"
         },
         "Volii Omega": {
             "type": "Gas giant",
@@ -973,7 +973,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "35 hours"
+            "planet_length": "13 hours"
         },
         "Volii Upsilon": {
             "type": "Ice",
@@ -995,7 +995,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "35 hours"
+            "planet_length": "66 hours"
         },
         "Volii Tau": {
             "type": "Rock",
@@ -1017,7 +1017,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "35 hours"
+            "planet_length": "41 hours"
         },
         "Volii Phi": {
             "type": "Barren",
@@ -1039,8 +1039,8 @@
             ],
             "domesticable": [],
             "gatherable": [],
-            "hab_rank": "",
-            "planet_length": "35 hours"
+            "hab_rank": "1",
+            "planet_length": "7 days"
         },
         "Volii Psi": {
             "type": "Barren",
@@ -1062,7 +1062,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "35 hours"
+            "planet_length": "6 days"
         }
     },
     "Olympus": {
@@ -1081,7 +1081,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "68 hours"
+            "planet_length": "7 hours"
         },
         "Cybele": {
             "type": "Barren",
@@ -1143,7 +1143,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "3",
-            "planet_length": "68 hours"
+            "planet_length": "6 days"
         },
         "Mithras": {
             "type": "Ice",
@@ -1169,7 +1169,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "68 hours"
+            "planet_length": "14 days"
         },
         "Orphius": {
             "type": "Barren",
@@ -1191,7 +1191,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "68 hours"
+            "planet_length": "6 days"
         },
         "Ananke": {
             "type": "Barren",
@@ -1214,7 +1214,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "68 hours"
+            "planet_length": "18 hours"
         },
         "Erebus": {
             "type": "Rock",
@@ -1240,7 +1240,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "68 hours"
+            "planet_length": "36 hours"
         },
         "Pontus": {
             "type": "Barren",
@@ -1263,7 +1263,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "68 hours"
+            "planet_length": "30 hours"
         },
         "Thalassa": {
             "type": "Barren",
@@ -1285,7 +1285,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "68 hours"
+            "planet_length": "13 days"
         },
         "Nesoi": {
             "type": "Rock",
@@ -1348,7 +1348,7 @@
                 "Vuvuzelisk (Ornamental Material)"
             ],
             "hab_rank": "",
-            "planet_length": "68 hours"
+            "planet_length": "20 hours"
         },
         "Ourea": {
             "type": "Rock",
@@ -1384,7 +1384,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "68 hours"
+            "planet_length": "29 hours"
         },
         "Thanatos": {
             "type": "Ice giant",
@@ -1401,7 +1401,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "68 hours"
+            "planet_length": "10 hours"
         },
         "Hypnos": {
             "type": "Ice",
@@ -1424,7 +1424,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "68 hours"
+            "planet_length": "5 days"
         }
     },
     "Narion": {
@@ -1514,7 +1514,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "24 hours"
+            "planet_length": "66 hours"
         },
         "Cruth": {
             "type": "Ice",
@@ -1539,7 +1539,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "24 hours"
+            "planet_length": "72 hours"
         },
         "Danra": {
             "type": "Barren",
@@ -1566,7 +1566,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "24 hours"
+            "planet_length": "47 hours"
         },
         "Gryphus": {
             "type": "Barren",
@@ -1590,7 +1590,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "24 hours"
+            "planet_length": "68 hours"
         },
         "Podius": {
             "type": "Barren",
@@ -1612,7 +1612,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "24 hours"
+            "planet_length": "25 hours"
         },
         "Deepala": {
             "type": "Gas giant",
@@ -1629,7 +1629,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "24 hours"
+            "planet_length": "21 hours"
         },
         "Dalvik": {
             "type": "Rock",
@@ -1654,7 +1654,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "24 hours"
+            "planet_length": "22 days"
         },
         "Grimsey": {
             "type": "Ice",
@@ -1681,7 +1681,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "24 hours"
+            "planet_length": "14 hours"
         },
         "Magreth": {
             "type": "Barren",
@@ -1705,7 +1705,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "24 hours"
+            "planet_length": "16 hours"
         },
         "Hyperia": {
             "type": "Barren",
@@ -1729,7 +1729,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "1",
-            "planet_length": "24 hours"
+            "planet_length": "91 hours"
         },
         "Niira": {
             "type": "Rock",
@@ -1776,7 +1776,7 @@
                 "Stalker (Metabolic Agent)"
             ],
             "hab_rank": "3",
-            "planet_length": "24 hours"
+            "planet_length": "48 hours"
         },
         "Sumati": {
             "type": "Rock",
@@ -1825,7 +1825,7 @@
                 "Cronosaurus (Cosmetic)"
             ],
             "hab_rank": "",
-            "planet_length": "24 hours"
+            "planet_length": "37 hours"
         },
         "Andraphon": {
             "type": "Barren",
@@ -1851,7 +1851,7 @@
             "domesticable": [],
             "gatherable": [],
             "hab_rank": "",
-            "planet_length": "24 hours"
+            "planet_length": "6 days"
         }
     },
     "Linnaeus": {
@@ -1925,7 +1925,7 @@
                 "Trident (Nutrient)"
             ],
             "hab_rank": "",
-            "planet_length": "46 hours"
+            "planet_length": "28 hours"
         },
         "Linnaeus II-a": {
             "type": "Barren",
