@@ -54,7 +54,7 @@ Feel free to explore and use this data for your own projects or contributions. Y
 
 I welcome contributions! If you have additional data, improvements, or corrections, please feel free to open an issue or submit a pull request.
 
-Thank you mindfilleter for adding and improving the content.
+Thank you <h3>___mindfilleter___</h3> for adding and improving the content.
 
 
 ---
