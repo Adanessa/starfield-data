@@ -1,0 +1,337 @@
+[{
+    "name": "Adaptive Frame",
+    "requires": [{
+	"name": "Aluminum",
+	"quantity": 1
+    }, {
+	"name": "Iron",
+	"quantity": 1
+    }]
+}, {
+    "name": "Aldumite Drilling Rig",
+    "requires": [{
+	"name": "Aldumite",
+	"quantity": 4
+    }, {
+	"name": "Caesium",
+	"quantity": 2
+    }, {
+	"name": "Drilling Rig",
+	"quantity": 1
+    }, {
+	"name": "Microsecond Regulator",
+	"quantity": 1
+    }]
+}, {
+    "name": "Austenitic Manifold",
+    "requires": [{
+	"name": "Iron",
+	"quantity": 2
+    }, {
+	"name": "Nickel",
+	"quantity": 2
+    }, {
+	"name": "Reactive Gauge",
+	"quantity": 1
+    }]
+}, {
+    "name": "Comm Relay",
+    "requires": [{
+	"name": "Isocentered Magnet",
+	"quantity": 1
+    }, {
+	"name": "Tau Grade Rheostat",
+	"quantity": 1
+    }]
+}, {
+    "name": "Control Rod",
+    "requires": [{
+	"name": "Austenitic Manifold",
+	"quantity": 1
+    }, {
+	"name": "Dysprosium",
+	"quantity": 3
+    }, {
+	"name": "Isotopic Coolant",
+	"quantity": 1
+    }]
+}, {
+    "name": "Drilling Rig",
+    "requires": [{
+	"name": "Lubricant",
+	"quantity": 2
+    }, {
+	"name": "Reactive Gauge",
+	"quantity": 1
+    }, {
+	"name": "Tungsten",
+	"quantity": 3
+    }]
+}, {
+    "name": "Isocentered Magnet",
+    "requires": [{
+	"name": "Cobalt",
+	"quantity": 1
+    }, {
+	"name": "Nickel",
+	"quantity": 1
+    }]
+}, {
+    "name": "Isotopic Coolant",
+    "requires": [{
+	"name": "Ionic Liquids",
+	"quantity": 1
+    }, {
+	"name": "Tetrafluorides",
+	"quantity": 1
+    }]
+}, {
+    "name": "Mag Pressure Tank",
+    "requires": [{
+	"name": "Aluminum",
+	"quantity": 2
+    }, {
+	"name": "Nickel",
+	"quantity": 1
+    }]
+}, {
+    "name": "Microsecond Regulator",
+    "requires": [{
+	"name": "Europium",
+	"quantity": 4
+    }, {
+	"name": "Lithium",
+	"quantity": 2
+    }, {
+	"name": "Supercooled Magnet",
+	"quantity": 1
+    }, {
+	"name": "Tau Grade Rheostat",
+	"quantity": 1
+    }]
+}, {
+    "name": "Molecular Sieve",
+    "requires": [{
+	"name": "Ionic Liquids",
+	"quantity": 2
+    }, {
+	"name": "Mag Pressure Tank",
+	"quantity": 1
+    }, {
+	"name": "Membrane",
+	"quantity": 2
+    }]
+}, {
+    "name": "Monopropellant",
+    "requires": [{
+	"name": "Alkanes",
+	"quantity": 2
+    }, {
+	"name": "Mag Pressure Tank",
+	"quantity": 1
+    }, {
+	"name": "Reactive Gauge",
+	"quantity": 1
+    }]
+}, {
+    "name": "Nuclear Fuel Rod",
+    "requires": [{
+	"name": "Semimetal Wafer",
+	"quantity": 1
+    }, {
+	"name": "Solvent",
+	"quantity": 2
+    }, {
+	"name": "Uranium",
+	"quantity": 3
+    }]
+}, {
+    "name": "Paramagnon Conductor",
+    "requires": [{
+	"name": "Gold",
+	"quantity": 1
+    }, {
+	"name": "Neodymium",
+	"quantity": 1
+    }, {
+	"name": "Zero Wire",
+	"quantity": 3
+    }]
+}, {
+    "name": "Positron Battery",
+    "requires": [{
+	"name": "Antimony",
+	"quantity": 2
+    }, {
+	"name": "Tau Grade Rheostat",
+	"quantity": 1
+    }, {
+	"name": "Vanadium",
+	"quantity": 2
+    }]
+}, {
+    "name": "Power Circuit",
+    "requires": [{
+	"name": "Palladium",
+	"quantity": 4
+    }, {
+	"name": "Paramagnon Conductor",
+	"quantity": 1
+    }, {
+	"name": "Polymer",
+	"quantity": 2
+    }, {
+	"name": "Positron Battery",
+	"quantity": 1
+    }]
+}, {
+    "name": "Reactive Gauge",
+    "requires": [{
+	"name": "Alluminum",
+	"quantity": 2
+    }, {
+	"name": "Copper",
+	"quantity": 1
+    }]
+}, {
+    "name": "Rothicite Magnet",
+    "requires": [{
+	"name": "Lithium",
+	"quantity": 2
+    }, {
+	"name": "Rothicite",
+	"quantity": 4
+    }, {
+	"name": "Semimetal Wafer",
+	"quantity": 1
+    }, {
+	"name": "Supercooled Magnet",
+	"quantity": 1
+    }]
+}, {
+    "name": "Semimetal Wafer",
+    "requires": [{
+	"name": "Antimony",
+	"quantity": 2
+    }, {
+	"name": "Gold",
+	"quantity": 2
+    }, {
+	"name": "Zero Wire",
+	"quantity": 1
+    }]
+}, {
+    "name": "Sterile Nanotubes",
+    "requires": [{
+	"name": "Molecular Sieve",
+	"quantity": 1
+    }, {
+	"name": "Solvent",
+	"quantity": 2
+    }, {
+	"name": "Vanadium",
+	"quantity": 2
+    }]
+}, {
+    "name": "Substrate Molecule Sieve",
+    "requires": [{
+	"name": "Biosuppressant",
+	"quantity": 2
+    }, {
+	"name": "Memory Substrate",
+	"quantity": 3
+    }, {
+	"name": "Molecular Sieve",
+	"quantity": 1
+    }, {
+	"name": "Sterile Nanotubes",
+	"quantity": 2
+    }]
+}, {
+    "name": "Supercooled Magnet",
+    "requires": [{
+	"name": "Isocentered Magnet",
+	"quantity": 1
+    }, {
+	"name": "Isotopic Coolant",
+	"quantity": 1
+    }, {
+	"name": "Neodymium",
+	"quantity": 3
+    }]
+}, {
+    "name": "Tasine Superconductor",
+    "requires": [{
+	"name": "Palladium",
+	"quantity": 2
+    }, {
+	"name": "Paramagnon Conductor",
+	"quantity": 1
+    }, {
+	"name": "Polymer",
+	"quantity": 2
+    }, {
+	"name": "Tasine",
+	"quantity": 4
+    }]
+}, {
+    "name": "Tau Grade Rheostat",
+    "requires": [{
+	"name": "Beryllium",
+	"quantity": 1
+    }, {
+	"name": "Copper",
+	"quantity": 1
+    }]
+}, {
+    "name": "Veryl-Treated Manifold",
+    "requires": [{
+	"name": "Austenitic Manifold",
+	"quantity": 1
+    }, {
+	"name": "Lubricant",
+	"quantity": 2
+    }, {
+	"name": "Veryl",
+	"quantity": 4
+    }, {
+	"name": "Ytterbium",
+	"quantity": 2
+    }]
+}, {
+    "name": "Vytinium Fuel Rod",
+    "requires": [{
+	"name": "Indicite Wafer",
+	"quantity": 1
+    }, {
+	"name": "Nuclear Fuel Rod",
+	"quantity": 2
+    }, {
+	"name": "Plutonium",
+	"quantity": 4
+    }, {
+	"name": "Vytinium",
+	"quantity": 2
+    }]
+}, {
+    "name": "Zero Wire",
+    "requires": [{
+	"name": "Copper",
+	"quantity": 1
+    }, {
+	"name": "Silver",
+	"quantity": 1
+    }]
+}, {
+    "name": "Zero-G Gimbal",
+    "requires": [{
+	"name": "Isocentered Magnet",
+	"quantity": 1
+    }, {
+	"name": "Lubricant",
+	"quantity": 2
+    }, {
+	"name": "Tanalum",
+	"quantity": 2
+    }]
+}]
