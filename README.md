@@ -66,6 +66,11 @@ Detailed attributes are provided for items such as apparel, armor, weapons, and 
 ## Data Sources
 
 Data is sourced from:
+- https://game8.co/games/Starfield/
+- https://starfield.fandom.com/wiki/Starfield
+- https://starfield.wiki.fextralife.com/
+- https://inara.cz/starfield
+- https://starfieldwiki.net/wiki/Home
 - Game data and in-game observations
 - Official Starfield documentation
 - Community contributions and fan sites
