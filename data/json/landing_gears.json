@@ -1,0 +1,20 @@
+[
+    {
+        "name": "220CB Landing Gear - Port",
+        "brand": "Deimos",
+        "lander Thrust": "1",
+        "hull": "2",
+        "mass": "3",
+        "value": "617",
+        "requires": "None"
+    },
+    {
+        "name": "NG-10 Landing Gear - Port Fore",
+        "brand": "Nova Galactic",
+        "lander Thrust": "1",
+        "hull": "2",
+        "mass": "2",
+        "value": "712",
+        "requires": "None"
+    }
+]

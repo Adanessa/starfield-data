@@ -1,0 +1,1269 @@
+[
+    {
+        "name": "Addichrone",
+        "mass": " 0.10",
+        "value": "380",
+        "description": "Use to fight symptoms of withdrawal until a cure can be administered.",
+        "effect": "Suppresses Addiction symptoms for 10m"
+    },
+    {
+        "name": "Alien Genetic Material",
+        "mass": " 1.00",
+        "value": "1375",
+        "description": "Can be consumed to greatly increase",
+        "effect": "+500 Damage Resistance for 30s +500 Energy Resistance for 30s"
+    },
+    {
+        "name": "Alien Jerky",
+        "mass": " 0.30",
+        "value": "50",
+        "description": "A strip of alien meat that's been dehydrated, salted, and flavored with a mild teriyaki sauce.",
+        "effect": "Restores 3 Health"
+    },
+    {
+        "name": "Alien Kebab",
+        "mass": " 0.30",
+        "value": "105",
+        "description": "Cubes of roasted alien meat, served skewered on a wooden stick, kebab style.",
+        "effect": "Restores 12 Health +60 Energy Resistance for 8m"
+    },
+    {
+        "name": "Alien Liquor",
+        "mass": " 0.30",
+        "value": "165",
+        "description": "Distilled alcohol, formed by fermenting certain alien plants.",
+        "effect": "+8 Carry Capacity for 5m -25% 02 Recovery for 5m"
+    },
+    {
+        "name": "Alien Sandwich",
+        "mass": " 0.30",
+        "value": "155",
+        "description": "A sandwich made from alien-sourced ingredients.",
+        "effect": "Restores 4 Health +60 Energy Resistance for 5m"
+    },
+    {
+        "name": "Alien Scramble",
+        "mass": " 0.50",
+        "value": "185",
+        "description": "A breakfast dish made from alien eggs and diced vegetables.",
+        "effect": "Restores 4 Health +60 Damage Resistance for 5m"
+    },
+    {
+        "name": "Alien Tea",
+        "mass": " 0.30",
+        "value": "105",
+        "description": "A strong tea made from a steeped alien plant.",
+        "effect": "Restores 2 Health +1% XP Gain for 15m"
+    },
+    {
+        "name": "Alien Tonic",
+        "mass": " 0.30",
+        "value": "10.5",
+        "description": "Carbonated water flavored with an alien extract of unknown origin.",
+        "effect": "Restores 2 Health +8% 02 Recovery for 3m"
+    },
+    {
+        "name": "AMP",
+        "mass": " 0.10",
+        "value": "100",
+        "description": "A steroid-based performance enhancer designed to temporarily boost leg strength.",
+        "effect": "+35% Movement Speed for 2m 2x Jump Height for 2m"
+    },
+    {
+        "name": "Analgesic Poultice",
+        "mass": "0.10",
+        "value": "450",
+        "description": "Combines the effects of antibiotics, heal paste, and bandages. Used for treating afflictions.",
+        "effect": "Treats Burns, Contusions, Frostbite, Infections, Lacerations, and Puncture Wounds."
+    },
+    {
+        "name": "Anchored Immobilizers",
+        "mass": " 0.10",
+        "value": "400",
+        "description": "A reinforced immobilizer, for particularly bad injuries. Used for treating afflictions.",
+        "effect": "+150 Damage Resistance for 5m Treats Dislocated Limb, Fractured Limb, Fractured Skull, Sprain, and Torn Muscle."
+    },
+    {
+        "name": "Antibiotic Paste",
+        "mass": "0.10",
+        "value": "430",
+        "description": "Combines the effects of antibiotics and heal paste. Used for treating afflictions.",
+        "effect": "Treats Burns, Frostbite, and Infections."
+    },
+    {
+        "name": "Antibiotics",
+        "mass": " 0.10",
+        "value": "75",
+        "description": "Tried and true medicine, used to treat afflictions.",
+        "effect": "Treats infections"
+    },
+    {
+        "name": "Antibiotic Cocktail",
+        "mass": " 0.10",
+        "value": "415",
+        "description": "A mix of multiple antibiotics. Used for treating afflictions.",
+        "effect": "+20% 02 Recovery for 5m Treats Infections"
+    },
+    {
+        "name": "Baguette",
+        "mass": " 0.20",
+        "value": "55",
+        "description": "A classic loaf of French bread.",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "Bandages",
+        "mass": " 0.10",
+        "value": "40",
+        "description": "Wrapping for cuts and wounds. Used for treating afflictions.",
+        "effect": "Treats Contusions, Lacerations, and Puncture Wounds."
+    },
+    {
+        "name": "Battlestim",
+        "mass": " 0.10",
+        "value": "525",
+        "description": "A chem designed to improve pain",
+        "effect": "+250 Damage Resistance for 5m"
+    },
+    {
+        "name": "Beertini",
+        "mass": " 0.30",
+        "value": "265",
+        "description": "A mixture of beer and vodka. Definitely an acquired test.",
+        "effect": "+60 Damage Resistance for 3m +4 Carry Capacity for 5m -15% 02 Recovery for 3m"
+    },
+    {
+        "name": "Bitten Sandwich",
+        "mass": " 0.20",
+        "value": "75",
+        "description": "A salami and cheese sandwich. Clearly delicious, as evidenced by the large bite taken out of it.",
+        "effect": "Restores 3 Health"
+    },
+    {
+        "name": "Blend",
+        "mass": " 0.50",
+        "value": "380",
+        "description": "A carbonated alcoholic beverage blended with caffeine and a potent secret ingredient.",
+        "effect": "Slows time by 16% for 10s +60 Damage Resistance for 3m -20% 02 Recovery for 3m"
+    },
+    {
+        "name": "Boba Alien Tea",
+        "mass": " 0.30",
+        "value": "105",
+        "description": "Tea made from steeped alien leaves, with synthetic tapioca pearls.",
+        "effect": "Restores 2 Health +8 02 for 5m +1% XP Gain for 15m"
+    },
+    {
+        "name": "Boom Pop! Black Licorice",
+        "mass": " 0.30",
+        "value": "75",
+        "description": "Black licorice-flavored Boom Pop! soda.",
+        "effect": "Restores 2 Health +8% 02 Recovery for 3m"
+    },
+    {
+        "name": "Boom Pop! Orange",
+        "mass": " 0.30",
+        "value": "75",
+        "description": "Orange-flavored Boom Pop! soda.",
+        "effect": "Restores 2 Health +8% 02 Recovery for 3m"
+    },
+    {
+        "name": "Boom Pop! Rhubarb",
+        "mass": " 0.30",
+        "value": "75",
+        "description": "Rhubarb-flavored Boom Pop! soda.",
+        "effect": "Restores 2 Health +8% 02 Recovery for 3m"
+    },
+    {
+        "name": "Boosted Injector",
+        "mass": " 0.10",
+        "value": "450",
+        "description": "An improved injector. Used for treating afflictions.",
+        "effect": "+20% 02 Recovery for 5m Treats Brain Injury, Concussion, Heatstroke, Hernia, Hypothermia, Lung Damage, Poisoning, and Radiation Poisoning."
+    },
+    {
+        "name": "Boudicca",
+        "mass": " 0.10",
+        "value": "560",
+        "description": "Grants increased resistance to damage and fortifies oxygen.",
+        "effect": "+30 02 for 3m +300 Damage Resistance for 3m"
+    },
+    {
+        "name": "Bourbon",
+        "mass": " 0.30",
+        "value": "240",
+        "description": "A strong bourbon whiskey, supposedly brewed using techniques from a place called \"Kentucky\" on Old Earth.",
+        "effect": "+6 Carry Capacity for 5m -25% 02 Recovery for 5m"
+    },
+    {
+        "name": "Butter",
+        "mass": " 0.30",
+        "value": "55",
+        "description": "Bostaurus Laboratories' finest butter, unsalted.",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "Carrot",
+        "mass": " 0.20",
+        "value": "35",
+        "description": "The nutritious, delicious carrot. Long considered the favorite food of Earth rabbits.",
+        "effect": "Restores 1 Health"
+    },
+    {
+        "name": "Can-uck! Bacon",
+        "mass": " 0.50",
+        "value": "105",
+        "description": "CAN-uck! brand bacon, sold in their distinct and trademark can.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Can-uck! Pancakes Plus",
+        "mass": " 0.50",
+        "value": "105",
+        "description": "CAN-uck! brand pancakes, with syrup, sold in their distinct and trademarked can.",
+        "effect": "Restore 4 Health"
+    },
+    {
+        "name": "Can-uck! Pilsner",
+        "mass": " 0.50",
+        "value": "155",
+        "description": "CAN-uck! brand pilsner beer, sold in their distinct cooler can.",
+        "effect": "+40 Damage Resistance for 3m -10% 02 Recovery for 3m"
+    },
+    {
+        "name": "Can-uck! Tourtiere",
+        "mass": " 0.50",
+        "value": "105",
+        "description": "CAN-uck! brand tourtiere, sold in their distinct and trademarked can.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Celery",
+        "mass": " 0.20",
+        "value": "35",
+        "description": "A stalk of celery. Especially delicious when paired with synthetic peanut butter.",
+        "effect": "Restores 1 Health"
+    },
+    {
+        "name": "Chandra Cabernet Sauvignon",
+        "mass": " 0.50",
+        "value": "380",
+        "description": "Chandra Vineyards' dark red wine, with notes of blackberry and cedar.",
+        "effect": "+9% Persuasion chance for 5m -15% 02 Recovery for 5m"
+    },
+    {
+        "name": "Chandra Merlot",
+        "mass": " 0.50",
+        "value": "380",
+        "description": "Chandra Vineyards' sweet red wine, with notes of vanilla and black cherries.",
+        "effect": "+9% Persuasion chance for 5m -15% 02 Recovery for 5m"
+    },
+    {
+        "name": "Chandra Pinot Noir",
+        "mass": " 0.50",
+        "value": "380",
+        "description": "Changra Vineyards' medium-bodied red wine, with notes of cranberry and licorice.",
+        "effect": "+9% Persuasion chance for 5m -15% 02 Recovery for 5m"
+    },
+    {
+        "name": "Chandra Port",
+        "mass": " 0.50",
+        "value": "380",
+        "description": "Chandra Vineyards' strong red wine, with notes of caramel and cinnamon. Best enjoyed as a digestif.",
+        "effect": "+9% Persuasion chance for 5m -15% 02 Recovery for 5m"
+    },
+    {
+        "name": "Chandra Riesling",
+        "mass": " 0.50",
+        "value": "380",
+        "description": "Chandra Vineyards' sweet white wine, with notes of pineapple and lemon. Commonly enjoyed as an aperitif.",
+        "effect": "+9% Persuasion chance for 5m -15% 02 Recovery for 5m"
+    },
+    {
+        "name": "Chandra Sauvignon Blanc",
+        "mass": " 0.50",
+        "value": "280",
+        "description": "Chandra Vineyards' light white wine, with notes of passion fruit and freshly cut grass.",
+        "effect": "+9% Persuasion chance for 5m -15% 02 Recovery for 5m"
+    },
+    {
+        "name": "Cheddar Snack Crackers",
+        "mass": " 0.30",
+        "value": "90",
+        "description": "Centauri Mills' cheddar cheese-flavored snack crackers.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Cheese",
+        "mass": " 0.30",
+        "value": "55",
+        "description": "Bostaurus Laboratories' finest cheese. Extra sharp.",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "Chunks Apple",
+        "mass": " 0.20",
+        "value": "75",
+        "description": "An apple-flavored Chunks food cube.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Chunks Apple - Packaged",
+        "mass": " 0.20",
+        "value": "105",
+        "description": "An apple-flavored Chunks food cube. Packaged for freshness.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Chunks Beef",
+        "mass": " 0.20",
+        "value": "75",
+        "description": "A beef-flavored Chunks food cube.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Chunks Cake - Packaged",
+        "mass": " 0.20",
+        "value": "105",
+        "description": "A cake-flavored Chinks food cube. Packaged for freshness",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Chunks Choco",
+        "mass": " 0.20",
+        "value": "75",
+        "description": "A chocolate-flavored Chunks food cube.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Chunks Pie - Packaged",
+        "mass": " 0.20",
+        "value": "105",
+        "description": "A pumpkin pie-flavored Chunks food cube. Sealed for freshness.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Chunks Wine - Packaged",
+        "mass": " 0.20",
+        "value": "265",
+        "description": "A red wine-flavored Chunks food cube. Packaged for freshness.",
+        "effect": "+6% Persuasion chance for 3m -15% 02 Recovery for 3m"
+    },
+    {
+        "name": "Codos Crater",
+        "mass": " 0.50",
+        "value": "210",
+        "description": "A  filburn Agriculture beer, popular throughout the Freestar Collective.",
+        "effect": "+80 Damage Resistance for 3m -15% 02 Recovery for 3m"
+    },
+    {
+        "name": "Container of Cereal",
+        "mass": " 0.30",
+        "value": "70",
+        "description": "A plastic container full of delicious, nutritious breakfast cereal.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "CQB-X",
+        "mass": " 0.10",
+        "value": "525",
+        "description": "A chem used to enhance close quarters combat effectiveness.",
+        "effect": "+25% Melee Damage for 5m"
+    },
+    {
+        "name": "Dark Lager",
+        "mass": " 0.50",
+        "value": "155",
+        "description": "Mass-produced generic beer.",
+        "effect": "+40 Damage Resistance for 3m -10% 02 Recovery for 3m"
+    },
+    {
+        "name": "Dawn's Roost Strip",
+        "mass": " 0.50",
+        "value": "380",
+        "description": "A grilled steak with mixed vegetables and mashed potatoes on the side.",
+        "effect": "Restores 12 Health +11 02 for 10m"
+    },
+    {
+        "name": "Distilled Water",
+        "mass": " 0.30",
+        "value": "45",
+        "description": "Water purified by reverse osmosis.",
+        "effect": "Restores 2 Health Actions use -16% 02 for 3m"
+    },
+    {
+        "name": "Drink Pack: Beer",
+        "mass": " 0.30",
+        "value": "155",
+        "description": "Advanced Nutrition's standard pack of beer.",
+        "effect": "+40 Damage Resistance for 3m -10% 02 Recovery for 3m."
+    },
+    {
+        "name": "Drink Pack: Orange Juice",
+        "mass": " 0.30",
+        "value": "75",
+        "description": "Advanced Nutrition's standard pack of orange juice.",
+        "effect": "Restores 2 Health +5 02 for 5m"
+    },
+    {
+        "name": "Drink Pack: Red Wine",
+        "mass": " 0.30",
+        "value": "240",
+        "description": "Advanced Nutrition's standard pack of red wine.",
+        "effect": "+8% Persuasion chance for 3m -15% 02 Recovery for 3m"
+    },
+    {
+        "name": "Drink Pack: Vodka",
+        "mass": " 0.30",
+        "value": "240",
+        "description": "Advanced Nutrition's standard pack of vodka.",
+        "effect": "+6 Carry Capacity for 5m -25% 02 Recovery for 5m"
+    },
+    {
+        "name": "Drink Pack: Water",
+        "mass": " 0.30",
+        "value": "55",
+        "description": "Advanced Nutrition's standard pack of purified water.",
+        "effect": "Restores 2 Health Actions use -16% 02 for 3m"
+    },
+    {
+        "name": "Drink Pack: Whiskey",
+        "mass": " 0.30",
+        "value": "240",
+        "description": "Advanced Nutrition's standard pack of whiskey,",
+        "effect": "+6 Carry Capacity for 5m -25% 02 Recovery for 5m"
+    },
+    {
+        "name": "Drink Pack: White Wine",
+        "mass": " 0.30",
+        "value": "240",
+        "description": "Advanced Nutrition's standard pack of white wine.",
+        "effect": "+8% Persuasion chance for 3m -15% 02 Recovery for 3m"
+    },
+    {
+        "name": "Erdebrau Dark Can",
+        "mass": " 0.50",
+        "value": "155",
+        "description": "Erdebrau's dark lager, brewed with imitation wheat cultures and roasted malt.",
+        "effect": "+60 Damage Resistance for 3m -10% 02 recovery for 3m"
+    },
+    {
+        "name": "Erdebrau Lager Can",
+        "mass": " 0.50",
+        "value": "155",
+        "description": "Erdebrau's lager, brewed with imitation wheat cultures and simulated hops.",
+        "effect": "+60 Damage Resistance for 3m -10% 02 Recovery for 3m"
+    },
+    {
+        "name": "Erdebrau Light Can",
+        "mass": " 0.50",
+        "value": "155",
+        "description": "Erdebrau's light beer, brewed with imitation wheat cultures and simulated hopes. Half of the calories of Erdebrau Ale.",
+        "effect": "+60 Damage Resistance for 3m -10% 02 Recovery for 3m"
+    },
+    {
+        "name": "Erdebrau Pils Can",
+        "mass": " 0.50",
+        "value": "155",
+        "description": "Erdenbrau's pilsner beer, brewed with imitation wheat cultures and simulated hops.",
+        "effect": "+60 Damage Resistance for 3m -10% 02 Recovery for 3m"
+    },
+    {
+        "name": "Fried Pickles",
+        "mass": " 0.50",
+        "value": "185",
+        "description": "Dill pickles rolled in beer batter and fried.",
+        "effect": "Restores 8 Health"
+    },
+    {
+        "name": "Frostwolf",
+        "mass": " 0.10",
+        "value": "525",
+        "description": "A cocktail of the combat enhancer whiteout and the military performance chem Reconstim.",
+        "effect": "+40% Damage for 2m +50% Movement Speed for 2m -50% Movement Noise for 2m"
+    },
+    {
+        "name": "Fullfood Spiced Worms",
+        "mass": " 0.30",
+        "value": "75",
+        "description": "Fried and spiced alien worms. Guaranteed safe, and loaded with protein.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Grapes",
+        "mass": " 0.20",
+        "value": "35",
+        "description": "Sweet red grapes. Enjoyed as a healthy snack, or fermented to make red wine.",
+        "effect": "Restores 1 Health"
+    },
+    {
+        "name": "Grilled Cheese Sandwich",
+        "mass": " 0.30",
+        "value": "75",
+        "description": "A classic grilled cheese sandwich.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Ham and Cheese Sandwich",
+        "mass": " 0.30",
+        "value": "75",
+        "description": "A ham and cheese sandwich on toasted bread. Sliced diagonally.",
+        "effect": "Restores 4 Health +6 02 for 5m"
+    },
+    {
+        "name": "Heal Gel",
+        "mass": " 0.10",
+        "value": "510",
+        "description": "A medicated gel for treating severe burns and frostbite. Used for treating afflictions.",
+        "effect": "+150 Damage Resistance for 5m Treat Burns and Frostbite"
+    },
+    {
+        "name": "Heal Paste",
+        "mass": " 0.10",
+        "value": "80",
+        "description": "A medicated cream for treating burns and frostbite. Used for treating afflictions.",
+        "effect": "Treats Burns and Frostbite"
+    },
+    {
+        "name": "Heart +",
+        "mass": " 0.10",
+        "value": "450",
+        "description": "Improves fortitude and pain tolerance.",
+        "effect": "+20% Health for 2m +200 Damage Resistance for 2m"
+    },
+    {
+        "name": "Hippolyta",
+        "mass": " 0.10",
+        "value": "350",
+        "description": "A chem that lowers inhibitions and improves articulation, theoretically making the user more charming.",
+        "effect": "+20% Persuasion chance for 5m"
+    },
+    {
+        "name": "Immobilizer",
+        "mass": " 0.1",
+        "value": "50",
+        "description": "Designed to provide rigid support to injured limbs. Used to treat afflictions.",
+        "effect": "Treats Dislocated Limb, Fractured Limb, Fractured Skill, Sprain, and Torn Muscle."
+    },
+    {
+        "name": "Infused Bandages",
+        "mass": "0.10",
+        "value": "330",
+        "description": "Bandages saturated with heal paste. Used for treating afflictions.",
+        "effect": "Treats Burns, Contusions, Frostbite, Lacerations, and Puncture Wounds."
+    },
+    {
+        "name": "Injector",
+        "mass": " 0.10",
+        "value": "55",
+        "description": "Used to administer medication that treats afflictions.",
+        "effect": "Treats Brain Injury, Concussion, Heatstroke, Hernia, Hypothermia, Lung Damage, Poisoning, and Radiation Poisoning."
+    },
+    {
+        "name": "Instant Oatmeal",
+        "mass": " 0.30",
+        "value": "90",
+        "description": "Centauri Mills' steel-cut Irish oatmeal.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Jemison Wellington",
+        "mass": " 0.50",
+        "value": "1055",
+        "description": "Beef tenderloin and prosciutto, baked in a pastry shell. Served with cream sauce.",
+        "effect": "Restores 12 Health +4 Carry Capacity for 5m"
+    },
+    {
+        "name": "Junk Flesh",
+        "mass": " 0.10",
+        "value": "665",
+        "description": "Purges the body of addictions.",
+        "effect": "Cures all Addictions"
+    },
+    {
+        "name": "Kefir",
+        "mass": " 0.30",
+        "value": "140",
+        "description": "A fermented milk drink with the consistency of a thin yogurt.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Latkes",
+        "mass": " 0.50",
+        "value": "185",
+        "description": "Fritters made from a batter of potatoes, eggs, onions and either flour or matzo meal.",
+        "effect": "Restores 8 Health +11 02 for 8m"
+    },
+    {
+        "name": "Lemon",
+        "mass": " 0.20",
+        "value": "35",
+        "description": "A fresh lemon, grown from seeds native to Earth.",
+        "effect": "Restores 1 Health"
+    },
+    {
+        "name": "Lettuce",
+        "mass": " 0.20",
+        "value": "35",
+        "description": "A head of leafy green lettuce. Commonly used as the base for salads or added to a sandwich.",
+        "effect": "Restores 1 Health"
+    },
+    {
+        "name": "Lime",
+        "mass": "0.2",
+        "value": "35",
+        "description": "Description",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "Liver Pate",
+        "mass": " 0.50",
+        "value": "1160",
+        "description": "Several liver pate tartlets, served with a rich pea soup.",
+        "effect": "Restore 12 Health +8% 02 Recovery for 10m"
+    },
+    {
+        "name": "Marshmallow Treat Cereal",
+        "mass": " 0.30",
+        "value": "90",
+        "description": "Centauri Mills' most popular children's breakfast cereal.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Meal Pack - Chicken",
+        "mass": " 0.50",
+        "value": "75",
+        "description": "Advanced Nutrition's standard chicken meal.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Meal Pack - Eggs",
+        "mass": " 0.50",
+        "value": "75",
+        "description": "Advanced Nutrition's standard portion of hard-boiled eggs.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Meal Pack - Ramen",
+        "mass": " 0.50",
+        "value": "75",
+        "description": "Advanced Nutrition's standard noodle meal.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Meal Pack - Shrimp",
+        "mass": " 0.50",
+        "value": "75",
+        "description": "Advanced Nutrition's standard shrimp meal.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Meal Pack - Sushi",
+        "mass": " 0.50",
+        "value": "75",
+        "description": "Advanced Nutrition's standard sushi meal.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Meal Pack - Tofu",
+        "mass": " 0.50",
+        "value": "75",
+        "description": "Advanced Nutrition's standard tofu meal.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Meatloaf",
+        "mass": " 0.50",
+        "value": "185",
+        "description": "Glazed meatloaf, made with ground beef, onions, and a tomato based-sauce.",
+        "effect": "Restores 8 Health +9 02 for 10m"
+    },
+    {
+        "name": "Med Pack",
+        "mass": " 0.00",
+        "value": "525",
+        "description": "The standard emergency medical kit of the Settled Systems.",
+        "effect": "Restores 4% Health/s for 9s"
+    },
+    {
+        "name": "Midnight Delight",
+        "mass": " 0.30",
+        "value": "55",
+        "description": "A snack made from a smattering of available ingredients.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Milk",
+        "mass": " 0.30",
+        "value": "75",
+        "description": "Milk that has been ultra-pasteurized for maximum freshness",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "Miso Soup Minislurp",
+        "mass": " 0.30",
+        "value": "75",
+        "description": "Oishii brand miso soup. Snack-sized.",
+        "effect": "Restore 2 Health"
+    },
+    {
+        "name": "Miso Soup Multipack",
+        "mass": " 1.50",
+        "value": "155",
+        "description": "Oishii brand muso soup. Packaged in bulk.",
+        "effect": "Restores 8 Health"
+    },
+    {
+        "name": "Mochi",
+        "mass": " 0.50",
+        "value": "105",
+        "description": "Oishii brand marumochi snacks, made from sweetened rice. Single serving size.",
+        "effect": "Restore 4 Health"
+    },
+    {
+        "name": "Neurajack",
+        "mass": " 0.10",
+        "value": "450",
+        "description": "An enhancement to the chem Synapse Alpha, known to improve cognition.",
+        "effect": "Research Projects require fewer resources for 10m +50% chance of Research Sudden Developments for 10m"
+    },
+    {
+        "name": "Onion",
+        "mass": " 0.20",
+        "value": "35",
+        "description": "A common yellow onion. Delicious sauteed and in soups.",
+        "effect": "Restores 1 Health"
+    },
+    {
+        "name": "Orange",
+        "mass": "??",
+        "value": "??",
+        "description": "Sweet and delicious. Grown from seeds originally harvested from Earth.",
+        "effect": "Restores 1 Health"
+    },
+    {
+        "name": "Opened Superfood Paste Kit",
+        "mass": " 0.50",
+        "value": "140",
+        "description": "An opened container of nutritious vegetable superfood paste. Not known for its taste...",
+        "effect": "Restore 4 Health"
+    },
+    {
+        "name": "Pale Ale",
+        "mass": " 0.50",
+        "value": "155",
+        "description": "Mass-produced generic beer.",
+        "effect": "+40 Damage Resistance for 3m -10% 02 Recovery for 3m"
+    },
+    {
+        "name": "Panache",
+        "mass": " 0.50",
+        "value": "885",
+        "description": "A flamboyant array of four different foods, prepared as formed balls and dusted with red pepper.",
+        "effect": "Restores 8 Health +8% 02 Recovery for 5m"
+    },
+    {
+        "name": "Patty Melt",
+        "mass": " 0.50",
+        "value": "295",
+        "description": "A hamburger patty smothered in cheese and grilled on toast, usually served with a side of chopped potatoes.",
+        "effect": "Restores 12 Health"
+    },
+    {
+        "name": "Peach",
+        "mass": " 0.20",
+        "value": "35",
+        "description": "The Settled Systems has many varieties of peach - alien, synthetic and grown from Earth seeds. All are sweet and delicious.",
+        "effect": "Restores 1 Health"
+    },
+    {
+        "name": "Pear",
+        "mass": " 0.20",
+        "value": "35",
+        "description": "Explorers were shocked when they discovered an alien fruit with the exact shape and flavor of an Earth pear.",
+        "effect": "Restores 1 Health"
+    },
+    {
+        "name": "Penicillin X",
+        "mass": " 0.10",
+        "value": "145",
+        "description": "A high-intensity antibiotic, designed to purge the body of infection. Used for treating afflictions.",
+        "effect": "+20 02 for 2m Treats Infections"
+    },
+    {
+        "name": "Pick-Me-Up",
+        "mass": "0.10",
+        "value": "450",
+        "description": "A Trade Authority-licensed chem enhancing sustained muscular action, such as lifting and carrying. Created from Aqueous Hematite.",
+        "effect": "+50 Carry Capacity for 15m"
+    },
+    {
+        "name": "Pierogis",
+        "mass": " 0.50",
+        "value": "350",
+        "description": "Potato-and-cheese pierogis, parboiled and fried.",
+        "effect": "Restores 12 Health"
+    },
+    {
+        "name": "Pizza Square",
+        "mass": " 0.50",
+        "value": "90",
+        "description": "Centauri Mills' classic square-sliced pizza.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Potato",
+        "mass": " 0.20",
+        "value": "35",
+        "description": "Can be prepared many ways. Boiled, mashed, used in a stew - the recipes are nearly limitless.",
+        "effect": "Restores 1 Health"
+    },
+    {
+        "name": "Raisin Bran Cereal",
+        "mass": " 0.30",
+        "value": "90",
+        "description": "Centauri Mills' raisin bran cereal. A breakfast classic.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Ramen",
+        "mass": " 0.50",
+        "value": "105",
+        "description": "Oishii brand ramen noodles. Single serving size.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Ramen Minibite",
+        "mass": " 0.30",
+        "value": "75",
+        "description": "Oishii brand ramen noodles. Snack sized.",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "Reconstim",
+        "mass": " 0.10",
+        "value": "525",
+        "description": "Refines muscular control and flexibility, improving low posture and quieting footfalls.",
+        "effect": "-30% Movement Noise for 10m"
+    },
+    {
+        "name": "Red Ale",
+        "mass": " 0.50",
+        "value": "155",
+        "description": "Mass-produced generic beer.",
+        "effect": "+40 Damage Resistance for 3m -10% 02 Recovery for 3m"
+    },
+    {
+        "name": "Red Harvest Amber Ale",
+        "mass": " 0.30",
+        "value": "155",
+        "description": "A delicious, synthetically-cratted amber ale.",
+        "effect": "+60 Damage Resistance for 3m -10% 02 Recovery for 3m"
+    },
+    {
+        "name": "Red Harvest Double Malt Whiskey",
+        "mass": " 0.30",
+        "value": "240",
+        "description": "A popular and powerful double malt whiskey, brewed by Red Harvest.",
+        "effect": "+6 Carry Capacity for 5m -25% 02 Recovery for 5m"
+    },
+    {
+        "name": "Red Harvest Lentils",
+        "mass": " 0.30",
+        "value": "55",
+        "description": "Red Harvest brand lentil beans. Manufactured using the company's propriety genetic modification technology.",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "Red Harvest Milk Stout",
+        "mass": " 0.30",
+        "value": "155",
+        "description": "A delicious, synthetically-crafted milk stout.",
+        "effect": "+60 Damage Resistance for 3m -10% 02 Recovery for 3m"
+    },
+    {
+        "name": "Red Harvest Naan",
+        "mass": " 0.30",
+        "value": "55",
+        "description": "Red Harvest brand naan bread. Manufactured using the company's proprietary genetic modification technology.",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "Red Harvest Pale Ale",
+        "mass": " 0.30",
+        "value": "155",
+        "description": "A delicious, synthetically-crafted pale ale",
+        "effect": "+60 Damage Resistance for 3m -10% 02 Recovery for 3m"
+    },
+    {
+        "name": "Red Harvest Rye",
+        "mass": " 0.30",
+        "value": "55",
+        "description": "Red Harvest brand rye bread, Manufactured using the company's proprietary genetic modification technology.",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "Red Harvest Single Malt Whiskey",
+        "mass": " 0.30",
+        "value": "240",
+        "description": "A smooth, sophisticated single malt whiskey, brewed by Red Harvest.",
+        "effect": "+4 Carry Capacity for 5m -25% 02 Recovery for 5m"
+    },
+    {
+        "name": "Red Harvest Wheat",
+        "mass": " 0.30",
+        "value": "55",
+        "description": "Red Harvest brand wheat bread. Manufactured using the company's proprietary genetic modification technology.",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "Red Harvest White",
+        "mass": " 0.30",
+        "value": "55",
+        "description": "Red Harvest brand white bread. Manufactured using the company's propriety genetic modification technology.",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "Red Trench",
+        "mass": "0.10",
+        "value": "380",
+        "description": "Improves pain tolerance and adrenaline production. Made by combining CQB-X and BattleStim.",
+        "effect": "+40% Melee Damage for 3m +300 Damage Resistance for 3m"
+    },
+    {
+        "name": "Ruben",
+        "mass": " 0.50",
+        "value": "140",
+        "description": "A sandwich that combines corned beef, cheese, sauerkraut, and other ingredients. Typically served on rye bread.",
+        "effect": "Restores 8 Health +8 02 for 8m"
+    },
+    {
+        "name": "Sandwich",
+        "mass": " 0.30",
+        "value": "75",
+        "description": "A delicious salami and cheese sandwich. Made fresh.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Seaweed Minibite",
+        "mass": " 0.30",
+        "value": "75",
+        "description": "A snack of dried alien seaweed. Seasoned and dusted with sesame seeds. Snack-sized.",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "Ship Parts",
+        "mass": " 10.00",
+        "value": "1250",
+        "description": "Used to repair spaceship hull damage",
+        "effect": "Repairs 4% Ship Hull/s for 10s"
+    },
+    {
+        "name": "Smoked Salmon Fillet",
+        "mass": " 0.50",
+        "value": "75",
+        "description": "A packaged portion of smoked alien",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Snack Pack - Choco Bites",
+        "mass": " 0.20",
+        "value": "75",
+        "description": "Advanced Nutrition's standard chocolate dessert.",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "Snack Pack - Gummi Bugs",
+        "mass": " 0.20",
+        "value": "75",
+        "description": "Advanced Nutrition's standard gummi snack chews,",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "Snack Pack - Protein Bar",
+        "mass": " 0.20",
+        "value": "75",
+        "description": "Advanced Nutrition's standard energy bar.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Snake Oil",
+        "mass": " 0.10",
+        "value": "125",
+        "description": "Used to purge the body of toxins. (Initially developed as a hangover preventative.)",
+        "effect": "+20% 02 Recovery 2m Treats Brain injury. Concussion, Heatstroke, Hernia, Hypothermia, Lung Damage, Poisoning, and Radiation Poisoning."
+    },
+    {
+        "name": "Soba",
+        "mass": " 0.50",
+        "value": "105",
+        "description": "Oishii brand soba noodles. Single serving size.",
+        "effect": "Restores 4 Health"
+    },
+    {
+        "name": "Soba Minibite",
+        "mass": " 0.30",
+        "value": "75",
+        "description": "Oishii brand soba noodles. Snack-size.",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "Solomon's Reserve",
+        "mass": " 0.50",
+        "value": "210",
+        "description": "A Filburn Agriculture brew for distribution throughout Freestar collective space.",
+        "effect": "+80 Damage Resistance for 3m -15% 02 Recovery for 3m"
+    },
+    {
+        "name": "Spaghetti Carbonara",
+        "mass": " 0.50",
+        "value": "185",
+        "description": "A pasta dish containing eggs, ground pepper, and some kind of alien pork equivalent.",
+        "effect": "Restores 12 Health +9 02 for 8m"
+    },
+    {
+        "name": "Sparkling Water",
+        "mass": " 0.30",
+        "value": "75",
+        "description": "Clear sparkling water.",
+        "effect": "Restores 2 Health Actions use -16% 02 for 3m"
+    },
+    {
+        "name": "Sparkling Wine",
+        "mass": " 0.50",
+        "value": "265",
+        "description": "Sparkling white wine. Bracing and effervescent with a hint of tropical fruits.",
+        "effect": "+8% Persuasion chance for 5m -15% 02 Recovery for 5m"
+    },
+    {
+        "name": "Squall",
+        "mass": " 0.10",
+        "value": "350",
+        "description": "A powerful combat enhancer. Dangerously addictive, and rumored to have been developed by the Crimson Fleet",
+        "effect": "+20% Damage for 2m +20% Movement Speed for 2m"
+    },
+    {
+        "name": "Superfood Paste Kit",
+        "mass": " 0.50",
+        "value": "140",
+        "description": "A sealed container of nutritious, but definitely not delicious, superfood paste.",
+        "effect": "Restores 8 Health"
+    },
+    {
+        "name": "Superfood Paste Set",
+        "mass": " 0.40",
+        "value": "140",
+        "description": "A full pack of various superfood paste items. Will sustain life, but known to taste like sewage.",
+        "effect": "Restores 8 Health"
+    },
+    {
+        "name": "Supernova",
+        "mass": " 0.30",
+        "value": "525",
+        "description": "A liqueur slush floated over a sour punch of exotic alien fruits.",
+        "effect": "+9% Persuasion chance for 5m +16 02 for 5m -25% O2 Recovery for 5m"
+    },
+    {
+        "name": "Sushi Rolls Minibite",
+        "mass": " 0.30",
+        "value": "75",
+        "description": "Oishii brand sushi rolls. Snack-sized.",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "Synapse Alpha",
+        "mass": " 0.10",
+        "value": "525",
+        "description": "Enhance reasoning and reflexes, improving problem-the Sol ving skills.",
+        "effect": "Research Project require fewer resources for 10m"
+    },
+    {
+        "name": "Synthameat Chicken",
+        "mass": " 0.30",
+        "value": "140",
+        "description": "Butcher's Best chicken. Made from Synthameat, the Settled Systems premier synthetic meat product.",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "Synthameat Ham",
+        "mass": "??",
+        "value": "??",
+        "description": "Descriotion",
+        "effect": "Effect/s"
+    },
+    {
+        "name": "Synthameat Multi",
+        "mass": " 0.30",
+        "value": "140",
+        "description": "Butcher's Best animal protein blend. Made from Synthameat, the Settled Systems premiere synthetic meat product.",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "Synthameat Steak",
+        "mass": " 0.30",
+        "value": "155",
+        "description": "Butcher's Best steak. Made from Synthameat, the Settled Systems premiere synthetic meat product.",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "Synthameat Turkey",
+        "mass": " 0.30",
+        "value": "140",
+        "description": "Butcher's Best turkey. Made from Synthameat, the Settled Systems premiere synthetic meat product.",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "Synthameat Veal",
+        "mass": " 0.30",
+        "value": "155",
+        "description": "Butcher's Best veal. Made from Synthameat, the Settled Systems premiere synthetic meat product.",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "UC Battlemeal",
+        "mass": " 0.50",
+        "value": "210",
+        "description": "A standard United Colonies field ration.",
+        "effect": "Restores 12 Health +4 Carry Capacity for 5m"
+    },
+    {
+        "name": "UC Battlemeal Multipack",
+        "mass": " 1.50",
+        "value": "350",
+        "description": "Standard United Colonies field rations Packaged in bulk.",
+        "effect": "Restores 16 Health +5 Carry Capacity for 8m"
+    },
+    {
+        "name": "Udon Multipack",
+        "mass": " 1.50",
+        "value": "155",
+        "description": "Oishii brand udon noodles. Packaged in bulk.",
+        "effect": "Restores 8 Health"
+    },
+    {
+        "name": "Ta'Ameya Pita",
+        "mass": " 0.50",
+        "value": "295",
+        "description": "Two falafel-stuffed flatbreads, drizzled with yogurt sauce.",
+        "effect": "Restore 12 Health"
+    },
+    {
+        "name": "TerraBrew Classic",
+        "mass": "??",
+        "value": "75",
+        "description": "TerraBrew's original, medium roast",
+        "effect": "Restores 2 Health +14% 02 Recovery for 3m"
+    },
+    {
+        "name": "TerraBrew Cappuccino",
+        "mass": "??",
+        "value": "75",
+        "description": "Description",
+        "effect": "Effect/s"
+    },
+    {
+        "name": "TerraBrew Latte",
+        "mass": " 0.30",
+        "value": "75",
+        "description": "TerraBrew's original cafe latte.",
+        "effect": "Restores 2 Health +14% 02 Recovery for 3m"
+    },
+    {
+        "name": "TerraBrew Espresso",
+        "mass": "??",
+        "value": "75",
+        "description": " TerraBrew's strong, Italian-style coffee.",
+        "effect": "Restores 2 Health +16% O2 Recovery for 3m"
+    },
+    {
+        "name": "The Deep",
+        "mass": " 0.50",
+        "value": "1055",
+        "description": "Grilled pieces of alien salmon, served alongside mixed vegetables and mashed potatoes.",
+        "effect": "Restores 16 Health"
+    },
+    {
+        "name": "Toast",
+        "mass": " 0.10",
+        "value": "35",
+        "description": "A slice of toasted white bread. Best enjoyed when buttered or jellied, but can be eaten \"as is\" in a pinch.",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "Tomato",
+        "mass": " 0.20",
+        "value": "35",
+        "description": "A ripe tomato, of Earth origin",
+        "effect": "Restores 1 Health"
+    },
+    {
+        "name": "Tranquilitea lotus",
+        "mass": " 0.30",
+        "value": "75",
+        "description": "Tranquilitea's lotus flower tea.",
+        "effect": "Restore 2 Health +1% XP Gain for 15m"
+    },
+    {
+        "name": "Trauma Pack",
+        "mass": " 0.10",
+        "value": "595",
+        "description": "An experimental trauma kit, incorporating strong general anesthetic and anti-fatigue medicines.",
+        "effect": "Restores 8% Health/s for 4s"
+    },
+    {
+        "name": "Trilo Bites",
+        "mass": " 0.50",
+        "value": "740",
+        "description": "Small alien arthopods, sauteed and served with whipped bitter.",
+        "effect": "Restores 12 Health"
+    },
+    {
+        "name": "Udon Minibite",
+        "mass": "??",
+        "value": "??",
+        "description": "Oishii brand udon noodles. Snack-",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "Veggie Grinder",
+        "mass": " 0.50",
+        "value": "265",
+        "description": "A hearty hoagie of roast vegetables and mushrooms.",
+        "effect": "Restore 12 Health"
+    },
+    {
+        "name": "Watermelon",
+        "mass": " 0.50",
+        "value": "35",
+        "description": "Once a favorite of Earth summertime barbecues. Now synthetically grown.",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "Yellow Giant Splash",
+        "mass": " 0.30",
+        "value": "140",
+        "description": "Peaches, oranges, and spices blended until smooth. Served chilled.",
+        "effect": "Restored 4 Health +20 02 for 5m"
+    },
+    {
+        "name": "Yogurt",
+        "mass": " 0.30",
+        "value": "55",
+        "description": "Fullfood brand yogurt, served in a convenient foil pouch.",
+        "effect": "Restores 2 Health"
+    },
+    {
+        "name": "Yuko's Coffee",
+        "mass": " 0.30",
+        "value": "75",
+        "description": "TerraBrew's original rich, creamy cappuccino... with a bit of extra \"punch\"",
+        "effect": "Restores 2 Health +20% 02 Recovery for 3m"
+    },
+    {
+        "name": "Zipper Bandages",
+        "mass": " 0.10",
+        "value": "360",
+        "description": "Stronger and more effective bandages. Used for treating afflictions.",
+        "effect": "+150 Damage Resistance for 5m Treats Contusions, Lacerations, and Puncture Wounds."
+    }
+]

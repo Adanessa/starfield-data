@@ -1,0 +1,170 @@
+[
+    {
+        "name": "Alien Reanimation",
+        "effect": "Life, gift of the cosmos granted once more to a fallen alien beast, so that it may serve thankfully",
+        "cost": "35 Power",
+        "total": "60 Power",
+        "location": "Temple Phi"
+    },
+    {
+        "name": "Anti-Gravity Field",
+        "effect": "Generate a localized field of intense low gravity, and behold a planet's true power.",
+        "cost": "45 Power",
+        "total": "60 Power",
+        "location": "Temple Eta"
+    },
+    {
+        "name": "Create Vacuum",
+        "effect": "Gut the O2 supply of targets in the area for a duration",
+        "cost": "25 Power",
+        "total": "60 Power",
+        "location": "Temple Gamma"
+    },
+    {
+        "name": "Creators' Peace",
+        "effect": "Fill your foes with the silent calm of the universe, compelling them to temporarily abandon their weapons",
+        "cost": "25 Power",
+        "total": "60 Power",
+        "location": "Temple Nu"
+    },
+    {
+        "name": "Earthbound",
+        "effect": "Change the gravity around you to Earth gravity levels for a duration",
+        "cost": "15 Power",
+        "total": "60 Power",
+        "location": "Temple Epsilon"
+    },
+    {
+        "name": "Elemental Pull",
+        "effect": "Elements, the true treasure of planet and moon, are drawn to your being",
+        "cost": "25 Power",
+        "total": "60 Power",
+        "location": "Temple Psi"
+    },
+    {
+        "name": "Eternal Harvest",
+        "effect": "Regrows flora that has been harvested in a large area around you",
+        "cost": "25 Power",
+        "total": "60 Power",
+        "location": "Temple Lambda"
+    },
+    {
+        "name": "Grav Dash",
+        "effect": "Manipulate gravity to propel yourself forward, and briefly increase any damage you inflict",
+        "cost": "15 Power",
+        "total": "60 Power",
+        "location": "Temple Zeta"
+    },
+    {
+        "name": "Gravity Wave",
+        "effect": "Emit a gravitational force strong enough to propel almost anything... or anyone",
+        "cost": "25 Power",
+        "total": "60 Power",
+        "location": "Temple Beta"
+    },
+    {
+        "name": "Gravity Well",
+        "effect": "Create an area of dense gravity that pulls in and crushes everything and everyone in around it",
+        "cost": "45 Power",
+        "total": "60 Power",
+        "location": "Temple Delta"
+    },
+    {
+        "name": "Inner Demon",
+        "effect": "Force an enemy to confront their inner demons, creating a mirror image of themselves that attacks them",
+        "cost": "35 Power",
+        "total": "60 Power",
+        "location": "Temple Upsilon"
+    },
+    {
+        "name": "Life Forced",
+        "effect": "Drain the life force out of a living being and transfer it to yourself",
+        "cost": "25 Power",
+        "total": "60 Power",
+        "location": "Temple Pi"
+    },
+    {
+        "name": "Moon Form",
+        "effect": "Become as strong as stone, rooting yourself in place and increasing your resistance to all damages greatly",
+        "cost": "35 Power",
+        "total": "60 Power",
+        "location": "Temple Rho"
+    },
+    {
+        "name": "Parallel Self",
+        "effect": "From across the vast multiverse, a friendly version of yourself arrives, armed and ready to lend aid",
+        "cost": "45 Power",
+        "total": "60 Power",
+        "location": "Temple Sigma"
+    },
+    {
+        "name": "Particle Beam",
+        "effect": "Shoot a beam of pure particle energy that deals high amounts of damage to enemies in front of you",
+        "cost": "15 Power",
+        "total": "60 Power",
+        "location": "Temple Omega"
+    },
+    {
+        "name": "Personal Atmosphere",
+        "effect": "Oxygen, pure and clean, brought forth to breathe deep and counteract harmful carbon dioxide",
+        "cost": "45 Power",
+        "total": "60 Power",
+        "location": "Temple Alpha"
+    },
+    {
+        "name": "Phased Time",
+        "effect": "Phase through the normal flow of time and slow down the universe for a duration",
+        "cost": "45 Power",
+        "total": "60 Power",
+        "location": "(Mu)"
+    },
+    {
+        "name": "Precognition",
+        "effect": "Bend time and glimpse the future, seeing the path someone will walk and the words they may say",
+        "cost": "35 Power",
+        "total": "60 Power",
+        "location": "Temple Iota"
+    },
+    {
+        "name": "Reactive Shield",
+        "effect": "Form a shield of pure cosmic light that can weaken and even reflect enemy projectiles",
+        "cost": "35 Power",
+        "total": "60 Power",
+        "location": "Temple Tau"
+    },
+    {
+        "name": "Sense Star Stuff",
+        "effect": "Bind yourself to the particles of creation, sensing the life force of any human, alien, or Starborn",
+        "cost": "15 Power",
+        "total": "60 Power",
+        "location": "Temple Chi"
+    },
+    {
+        "name": "Solar Flare",
+        "effect": "Tap into the power of a sun and release a directed orb of searing hot plasma",
+        "cost": "25 Power",
+        "total": "60 Power",
+        "location": "Temple Theta"
+    },
+    {
+        "name": "Sunless Space",
+        "effect": "Shoot a ball of ice as cold as space into an area, freezing any living being caught in the blast for a duration",
+        "cost": "35 Power",
+        "total": "60 Power",
+        "location": "Temple Kappa"
+    },
+    {
+        "name": "Supernova",
+        "effect": "Explode with the power of a supernova in an area around you, dealing massive damage",
+        "cost": "45 Power",
+        "total": "60 Power",
+        "location": "Temple Xi"
+    },
+    {
+        "name": "Void Form",
+        "effect": "Warp the light around you, becoming nearly invisible for a duration",
+        "cost": "45 Power",
+        "total": "60 Power",
+        "location": "Temple Omicron"
+    }
+]

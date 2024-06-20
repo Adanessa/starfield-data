@@ -1,0 +1,338 @@
+[
+    {
+        "name": "Aldumite",
+        "symbol": "Ad",
+        "rarity": "Unique",
+        "how to acquire": "Can be purchased from Vendors (Wen Tseng, Dietrich Sieghart) Found only on Schrödinger II in the Schrödinger System",
+        "mass": "1.9",
+        "value": "84"
+    },
+    {
+        "name": "Alkanes",
+        "symbol": "(HnCn)",
+        "rarity": "n/a",
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart ) Found in Kreet (Moon of Anselon )",
+        "mass": ".60",
+        "value": "13"
+    },
+    {
+        "name": "Aluminum",
+        "symbol": "(Al)",
+        "rarity": "n/a",
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Saburo Okadugbo) Found in Vectera (Moon of Anselon )",
+        "mass": ".50",
+        "value": "7"
+    },
+    {
+        "name": "Amino Acids (Carapace)",
+        "symbol": "(NH2)",
+        "rarity": null,
+        "how to acquire": "Found in ???",
+        "mass": "0.30",
+        "value": "10"
+    },
+    {
+        "name": "Amino Acids (Hide)",
+        "symbol": "(NH2)",
+        "rarity": null,
+        "how to acquire": "Found in ???",
+        "mass": "0.50",
+        "value": "10"
+    },
+    {
+        "name": "Amino Acids",
+        "symbol": "(NH2)",
+        "rarity": null,
+        "how to acquire": "Found in ???",
+        "mass": "0.50",
+        "value": "10"
+    },
+    {
+        "name": "Antimony",
+        "symbol": "(Sb)",
+        "rarity": null,
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Saburo Okadugbo)",
+        "mass": ".80",
+        "value": "30"
+    },
+    {
+        "name": "Aqueous Hematite",
+        "symbol": "Fe2O3",
+        "rarity": null,
+        "how to acquire": "Found on Mars as individual nodes of ore. Does not spawn as ore veins, nor is it scannable from orbit",
+        "mass": "2.30",
+        "value": "56"
+    },
+    {
+        "name": "Argon",
+        "symbol": "(Ar)",
+        "rarity": "n/a",
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Saburo Okadugbo) Found in Vectera ,  Kreet, Jemison , Kurtz, Nesoi",
+        "mass": ".50",
+        "value": "5"
+    },
+    {
+        "name": "Benzene",
+        "symbol": "(C6Hn)",
+        "rarity": null,
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Manaaki) Found in Volii Alpha",
+        "mass": ".60",
+        "value": "19"
+    },
+    {
+        "name": "Beryllium",
+        "symbol": "(Be)",
+        "rarity": null,
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart ) Found in ???",
+        "mass": ".50",
+        "value": "12"
+    },
+    {
+        "name": "Caesium",
+        "symbol": "(Cs)",
+        "rarity": null,
+        "how to acquire": "Can be purchased from Vendors ( Dietrich Sieghart ) Found in Dalvin",
+        "mass": ".80",
+        "value": "25"
+    },
+    {
+        "name": "Carboxylic Acids",
+        "symbol": "(R-COC)",
+        "rarity": "n/a",
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart ) Found in ???",
+        "mass": "0.60",
+        "value": "12"
+    },
+    {
+        "name": "Chlorine",
+        "symbol": "(Cl)",
+        "rarity": "n/a",
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart ) Found in Jemison , Kurtz, Gagarin, Earth",
+        "mass": ".50",
+        "value": "6"
+    },
+    {
+        "name": "Chlorosilanes",
+        "symbol": "(SiH3Cl)",
+        "rarity": "n/a",
+        "how to acquire": "Can be purchased from Vendors (Wen Tseng, Dietrich Sieghart) Found in Jemison , Kurtz, Gagarin, Earth",
+        "mass": ".60",
+        "value": "14"
+    },
+    {
+        "name": "Cobalt",
+        "symbol": "(Co)",
+        "rarity": null,
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Manaaki, Saburo Okadugbo) Found in Venus, Triton",
+        "mass": ".60",
+        "value": "12"
+    },
+    {
+        "name": "Copper",
+        "symbol": "(Cu)",
+        "rarity": "n/a",
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Saburo Okadugbo) Found in Volii Upsilon",
+        "mass": ".60",
+        "value": "10"
+    },
+    {
+        "name": "Dysprosium",
+        "symbol": "(Dy)",
+        "rarity": null,
+        "how to acquire": "Can be purchased from Vendors (Wen Tseng, Dietrich Sieghart, Saburo Okadugbo) Found in Venus",
+        "mass": "1.40",
+        "value": "56"
+    },
+    {
+        "name": "Europium",
+        "symbol": "(Eu)",
+        "rarity": null,
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in ???",
+        "mass": "1.00",
+        "value": "40"
+    },
+    {
+        "name": "Fluorine",
+        "symbol": "(F)",
+        "rarity": null,
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava) Found in ???",
+        "mass": "0.50",
+        "value": "12"
+    },
+    {
+        "name": "Gold",
+        "symbol": "(Au)",
+        "rarity": null,
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in ???",
+        "mass": ".80",
+        "value": "24"
+    },
+    {
+        "name": "Helium-3",
+        "symbol": "(He-3)",
+        "rarity": null,
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in Luna, Kreet, Magreth",
+        "mass": ".60",
+        "value": "14"
+    },
+    {
+        "name": "Iridium",
+        "symbol": "(Ir)",
+        "rarity": null,
+        "how to acquire": "Can be purchased from Vendors (???) Found in Nesoi",
+        "mass": ".70",
+        "value": "14"
+    },
+    {
+        "name": "Iron",
+        "symbol": "(Fe)",
+        "rarity": "n/a",
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in Kreet, Luna, Nesoi",
+        "mass": ".60",
+        "value": "8"
+    },
+    {
+        "name": "Lead",
+        "symbol": "(Pb)",
+        "rarity": "n/a",
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in Kreet, Earth , Magreth, Jemison",
+        "mass": ".70",
+        "value": "10"
+    },
+    {
+        "name": "Lithium",
+        "symbol": "(Li)",
+        "rarity": null,
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Saburo Okadugbo) Found in ???",
+        "mass": ".50",
+        "value": "14"
+    },
+    {
+        "name": "Mercury",
+        "symbol": "(Hg)",
+        "rarity": null,
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava) Found in Earth",
+        "mass": ".80",
+        "value": "22"
+    },
+    {
+        "name": "Neodymium",
+        "symbol": "(Nd)",
+        "rarity": null,
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Amoli Bava, Saburo Okadugbo) Found in ???",
+        "mass": ".80",
+        "value": "20"
+    },
+    {
+        "name": "Neon",
+        "symbol": "(Ne)",
+        "rarity": null,
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart ) Found in Kreet",
+        "mass": ".50",
+        "value": "16"
+    },
+    {
+        "name": "Nickel",
+        "symbol": "(Ni)",
+        "rarity": "n/a",
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in Venus",
+        "mass": ".60",
+        "value": "10"
+    },
+    {
+        "name": "Platinum",
+        "symbol": "(Pt)",
+        "rarity": null,
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Amoli Bava) Found in ???",
+        "mass": ".80",
+        "value": "24"
+    },
+    {
+        "name": "Plutonium",
+        "symbol": "(Pu)",
+        "rarity": null,
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Amoli Bava) Found in Huygens VI-a",
+        "mass": "1.60",
+        "value": "64"
+    },
+    {
+        "name": "Silver",
+        "symbol": "(Ag)",
+        "rarity": null,
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in Kreet",
+        "mass": ".60",
+        "value": "20"
+    },
+    {
+        "name": "Tantalum",
+        "symbol": "(Ta)",
+        "rarity": null,
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in Nesoi",
+        "mass": ".90",
+        "value": "23"
+    },
+    {
+        "name": "Tasine",
+        "symbol": "(Ts)",
+        "rarity": null,
+        "how to acquire": "Found in ???",
+        "mass": "1.20",
+        "value": "52"
+    },
+    {
+        "name": "Tetrafluorides",
+        "symbol": "(xF4)",
+        "rarity": null,
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in ???",
+        "mass": ".70",
+        "value": "18"
+    },
+    {
+        "name": "Titanium",
+        "symbol": "(Ti)",
+        "rarity": null,
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in ???",
+        "mass": ".50",
+        "value": "12"
+    },
+    {
+        "name": "Tungsten",
+        "symbol": "(W)",
+        "rarity": null,
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in ???",
+        "mass": ".70",
+        "value": "16"
+    },
+    {
+        "name": "Uranium",
+        "symbol": "(U)",
+        "rarity": "n/a",
+        "how to acquire": "Can be purchased from Vendors Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in Nesoi",
+        "mass": ".70",
+        "value": "14"
+    },
+    {
+        "name": "Vanadium",
+        "symbol": "(V)",
+        "rarity": null,
+        "how to acquire": "Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in ???",
+        "mass": ".70",
+        "value": "24"
+    },
+    {
+        "name": "Water",
+        "symbol": "(H2O)",
+        "rarity": "n/a",
+        "how to acquire": "Can be purchased from Vendors (Wen Tseng, Dietrich Sieghart, Amoli Bava) Found in Vectera , Jemison , Nesoi, Volii Alpha , Volii Upsilon , Kreet, Earth , Triton, Dalvin",
+        "mass": ".50",
+        "value": "4"
+    },
+    {
+        "name": "Ytterbium",
+        "symbol": "(YB)",
+        "rarity": null,
+        "how to acquire": "__obtain__",
+        "mass": "1.20",
+        "value": "38"
+    }
+]

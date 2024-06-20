@@ -1,0 +1,289 @@
+[
+    {
+        "name": "Anti-Personnel",
+        "type": "Weapon Perk",
+        "effect": "Damage against humans."
+    },
+    {
+        "name": "One Inch Punch",
+        "type": "Weapon Perk",
+        "effect": "Gives the bullets shotgun-like spread."
+    },
+    {
+        "name": "Bashing",
+        "type": "Weapon Perk",
+        "effect": "Deals double damage when gun bashing."
+    },
+    {
+        "name": "Berserker",
+        "type": "Weapon Perk",
+        "effect": "Does more damage the less armor one has"
+    },
+    {
+        "name": "Concussive",
+        "type": "Weapon Perk",
+        "effect": "Small chance to knock down targets"
+    },
+    {
+        "name": "Demoralizing",
+        "type": "Weapon Perk",
+        "effect": "Small chance to demoralize a target."
+    },
+    {
+        "name": "Disassembler",
+        "type": "Weapon Perk",
+        "effect": "damage against Robots."
+    },
+    {
+        "name": "Elemental",
+        "type": "Weapon Perk",
+        "effect": "Randomly deals Corrosive, Radiation, Poison, and Incendiary damage."
+    },
+    {
+        "name": "Explosive",
+        "type": "Weapon Perk",
+        "effect": "Randomly switches to explosive rounds"
+    },
+    {
+        "name": "Exterminator",
+        "type": "Weapon Perk",
+        "effect": "Damage against Aliens"
+    },
+    {
+        "name": "Furious",
+        "type": "Weapon Perk",
+        "effect": "Each consecutive hit deals more damage."
+    },
+    {
+        "name": "Hitman",
+        "type": "Weapon Perk",
+        "effect": "Damage while aiming."
+    },
+    {
+        "name": "Incendiary",
+        "type": "Weapon Perk",
+        "effect": "Randomly deals incendiary damage."
+    },
+    {
+        "name": "Instigating",
+        "type": "Weapon Perk",
+        "effect": "Deals double damage to targets with full health."
+    },
+    {
+        "name": "Lacerate",
+        "type": "Weapon Perk",
+        "effect": "Randomly applies a bleed effect to the target."
+    },
+    {
+        "name": "Radioactive",
+        "type": "Weapon Perk",
+        "effect": "Randomly deals radioactive damage and demoralizes the target."
+    },
+    {
+        "name": "Rapid",
+        "type": "Weapon Perk",
+        "effect": "increase in attack speed."
+    },
+    {
+        "name": "Rapid",
+        "type": "Weapon Perk",
+        "effect": "Increase in attack speed."
+    },
+    {
+        "name": "Shattering",
+        "type": "Weapon Perk",
+        "effect": "Break through even the strongest armor."
+    },
+    {
+        "name": "Tesla",
+        "type": "Weapon Perk",
+        "effect": "Round will sometimes emit electricity where they land that damages and slows nearby targets"
+    },
+    {
+        "name": "Cornered",
+        "type": "Weapon Perk",
+        "effect": "Damage increases as health decreases."
+    },
+    {
+        "name": "Extended Magazine",
+        "type": "Weapon Perk",
+        "effect": "Doubles the base magazine capacity"
+    },
+    {
+        "name": "Frenzy",
+        "type": "Weapon Perk",
+        "effect": "Small chance to frenzy a target."
+    },
+    {
+        "name": "Handloading",
+        "type": "Weapon Perk",
+        "effect": "Volatile rounds that are designed to pack a bigger punch, but aren't as stable and can fail on occassion."
+    },
+    {
+        "name": "Poison",
+        "type": "Weapon Perk",
+        "effect": "Randomly deals poison damage and slows the target."
+    },
+    {
+        "name": "Skip Shot",
+        "type": "Weapon Perk",
+        "effect": "Every fourth shot fires two projectiles at once."
+    },
+    {
+        "name": "Space-Adept",
+        "type": "Weapon Perk",
+        "effect": "damage while in space, and"
+    },
+    {
+        "name": "Titanium Build",
+        "type": "Weapon Perk",
+        "effect": "Premium build materials make this weapon light as a feather"
+    },
+    {
+        "name": "Antiseptic",
+        "type": "Armor Perk",
+        "effect": "Airborne Resistance."
+    },
+    {
+        "name": "Bolstering",
+        "type": "Armor Perk",
+        "effect": "Grants up to"
+    },
+    {
+        "name": "Chameleon",
+        "type": "Armor Perk",
+        "effect": "Blend with the environment while sneaking and not moving."
+    },
+    {
+        "name": "Combat Veteran",
+        "type": "Armor Perk",
+        "effect": "Damage from human enemies"
+    },
+    {
+        "name": "Galvanized",
+        "type": "Armor Perk",
+        "effect": "Corrosive Resistance"
+    },
+    {
+        "name": "Incendiary",
+        "type": "Armor Perk",
+        "effect": "chance to ignite nearby attackers"
+    },
+    {
+        "name": "Leadlined",
+        "type": "Armor Perk",
+        "effect": "Radiation Resistance"
+    },
+    {
+        "name": "Liquid Cooled",
+        "type": "Armor Perk",
+        "effect": "Thermal Resistance"
+    },
+    {
+        "name": "Mechanized",
+        "type": "Armor Perk",
+        "effect": "Carry Capacity"
+    },
+    {
+        "name": "O2 Filter",
+        "type": "Armor Perk",
+        "effect": "Oxygen consumption"
+    },
+    {
+        "name": "Sturdy",
+        "type": "Armor Perk",
+        "effect": "Incoming Melee Damage"
+    },
+    {
+        "name": "Repulsing",
+        "type": "Armor Perk",
+        "effect": "+5% chance to disarm nearby attackers"
+    },
+    {
+        "name": "Anti-Ballistic",
+        "type": "Armor Perk",
+        "effect": "-15% incoming Physical damage from ranged weapons"
+    },
+    {
+        "name": "Reactive",
+        "type": "Armor Perk",
+        "effect": "+10% chance to stagger nearby attackers"
+    },
+    {
+        "name": "Resource Hauler",
+        "type": "Armor Perk",
+        "effect": "Resources weigh 25% less"
+    },
+    {
+        "name": "Modified",
+        "type": "Has 1-3 Mods."
+    },
+    {
+        "name": "Scout",
+        "type": "One of the mods is Reflex Sight"
+    },
+    {
+        "name": "Technophile",
+        "type": "Has 4 Mods"
+    },
+    {
+        "name": "Suppressed",
+        "type": "One of the mods is a Suppressor"
+    },
+    {
+        "name": "Smugglers",
+        "type": "Has 3 Mods."
+    },
+    {
+        "name": "Converted",
+        "type": "Has 4 Mods."
+    },
+    {
+        "name": "Assassins",
+        "type": "Has 4 Mods and one of them is a Suppressor."
+    },
+    {
+        "name": "Boosted",
+        "type": "Has 5 Mods."
+    },
+    {
+        "name": "Tacticians",
+        "type": "Has 5 Mods and one of them is a Tactical Grip or a Tactical Stock"
+    },
+    {
+        "name": "Overcharged",
+        "type": "Has 5 Mods and non-ballistics weapon."
+    },
+    {
+        "name": "Professional",
+        "type": "Has 6 Mods and one of them is a Suppressor."
+    },
+    {
+        "name": "Operator",
+        "type": "Has 6 Mods"
+    },
+    {
+        "name": "Commander",
+        "type": "More than 6 Mods."
+    },
+    {
+        "name": "Common",
+        "type": "Standard."
+    },
+    {
+        "name": "Calibrated",
+        "type": "Better."
+    },
+    {
+        "name": "Refined",
+        "type": "Even better."
+    },
+    {
+        "name": "Advanced",
+        "type": "Even more better."
+    },
+    {
+        "name": "Superior",
+        "type": "Best. Reserved for Pirate Corsair, Ecliptic, Bounty Hunter, and Tracker's Alliance space suits."
+    }
+]

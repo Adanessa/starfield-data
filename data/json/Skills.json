@@ -1,0 +1,658 @@
+[
+    {
+        "name": "Boxing",
+        "tier": "Tier 1",
+        "tree": "Physical Skill",
+        "description": "Once considered a \"sport of kings,\" boxing is still practiced as a recreational competitive activity, but its combat applications can't be denied.",
+        "ranks": "Unarmed attacks do 25% more damage. 25% less 02 used when using a power attack.",
+        "unlock": "Rank 1: Kill 20 enemies with an unarmed attack Rank 2: Kill 50 enemies with an unarmed attack Rank 3: Kill 100 enemies with an unarmed attack Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Fitness",
+        "tier": "Tier 1",
+        "tree": "Physical Skill",
+        "description": "In space, the greatest commodity is oxygen, and the increased lung capacity gained by a regular physical fitness regimen is essential to survival.",
+        "ranks": "You have 10% more oxygen available.",
+        "unlock": "Rank 1: Use up all available Oxygen 20 times. Rank 2: Use up all available Oxygen 50 times. Rank 3: Use up all available Oxygen 100 times. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Stealth",
+        "tier": "Tier 1",
+        "tree": "Physical Skill",
+        "description": "For a combatant who values discretion above all else, the ability to approach a target while undetected and kill with a silenced weapon is as terrifying as it is effective.",
+        "ranks": "Adds a Stealth Meter. You are 25% more difficult to detect when sneaking. Suppressed weapons do an additional 5% sneak attack damage.",
+        "unlock": "Rank 1: Perform 10 sneak attacks. Rank 2: Perform 20 sneak attacks. Rank 3: Perform 40 sneak attacks. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Weight Lifting",
+        "tier": "Tier 1",
+        "tree": "Physical Skill",
+        "description": "Weight training can significantly increase one's ability to carry weapons and equipment, Both in space and on the ground.",
+        "ranks": "Increase total carrying capacity by 10 kilograms.",
+        "unlock": "Rank 1: Sprint for 1000 meters while at 75% or more of your maximum load capacity. Rank 2: Sprint for 2500 meters while at 75% or more of your maximum load capacity. Rank 3: Sprint for 5000 meters while at 75% or more of your maximum load capacity. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Wellness",
+        "tier": "Tier 1",
+        "tree": "Physical Skill",
+        "description": "By embracing an active lifestyle and good nutrition habits, one may improve their overall sense of health, and even gain prolonged life expectancy.",
+        "ranks": "Increase your maximum health by 10%.",
+        "unlock": "Rank 1: Heal 200 damage. Rank 2: Heal 500 damage. Rank 3: Heal 1000 damage. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Pain Tolerance",
+        "tier": "Tier 2",
+        "tree": "Physical Skill",
+        "description": "Pain hurts - but only if you're not strong enough to take it.",
+        "ranks": "Physical damage is reduced by 5%.",
+        "unlock": "Rank 1: Take 250 points of physical damage. Rank 2: Take 500 points of physical damage. Rank 3: Take 1000 points of physical damage. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Nutrition",
+        "tier": "Tier 2",
+        "tree": "Physical Skill",
+        "description": "Advanced nutritional science is no substitute for good life choices, and knowing how much and when to eat can be just as important as the food itself.",
+        "ranks": "Food and drink are 10% more effective.",
+        "unlock": "Rank 1: Consume 10 food or drink items. Rank 2: Consume 30 food or drink items. Rank 3: Consume 75 food or drink items. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Gymnastics",
+        "tier": "Tier 2",
+        "tree": "Physical Skill",
+        "description": "From navigating the elevations of alien landscapes to exploring derelict ships in Zero-G, gymnastic training is invaluable for improving Both safety and maneuverability.",
+        "ranks": "Unlock the ability to combat slide. Take 15% less fall damage.",
+        "unlock": "Rank 1: Take 100 fall damage Rank 2: Kill 5 enemies in Zero G environments. Rank 3: Kill 20 enemies in Zero-G environments. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Environmental Conditioning",
+        "tier": "Tier 2",
+        "tree": "Physical Skill",
+        "description": "In the Settled Systems, even oxygen-rich planets and moons may have an atmosphere that is hazardous to human beings.",
+        "ranks": "Gain 10 resistance to Airborne environmental damage.",
+        "unlock": "Rank 1: Take 100 environmental damage. Rank 2: Take 250 environmental damage. Rank 3: Take 500 environmental damage. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Energy Weapon Dissipation",
+        "tier": "Tier 2",
+        "tree": "Physical Skill",
+        "description": "Considering the widespread use of energy weapons in the Settled Systems, specialized training to minimize damage is considered invaluable.",
+        "ranks": "Energy damage is reduced by 5%,",
+        "unlock": "Rank 1: Take 150 points of energy damage. Rank 2: Take 350 points of energy damage. Rank 3: Take 750 points of energy damage. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Cellular Regeneration",
+        "tier": "Tier 3",
+        "tree": "Physical Skill",
+        "description": "Whether through secret experiementation or just plain healthy living, boosting the body's ability to naturally recover from injuries can mean the difference between life and death.",
+        "ranks": "Slightly increased chance to recover from injuries naturally.",
+        "unlock": "Rank 1: Recover from 5 injuries. Rank 2: Recover from 10 injuries. Rank 3: Recover from 30 injuries. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Decontamination",
+        "tier": "Tier 3",
+        "tree": "Physical Skill",
+        "description": "Through a deliberate regiment of conditioning and antibody therapy, one may effectively combat even the Settled Systems' unseen threats.",
+        "ranks": "Slightly increased chance to recover from infections naturally.",
+        "unlock": "Rank 1: Recover from 5 infections. Rank 2: Recover from 15 infections. Rank 3: Recover from 30 infections. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Martial Arts",
+        "tier": "Tier 3",
+        "tree": "Physical Skill",
+        "description": "There are currently hundreds of martial arts practiced in the Settled Systems, some originating on ancient Earth, some newly created, almost all effective in combat.",
+        "ranks": "15% increased chance to crit with a melee or unarmed attack.",
+        "unlock": "Rank 1: Deal 250 damage with unarmed attacks. Rank 2: Disarm 10 enemies using melee or unarmed attacks. Rank 3: Disarm 30 enemies using melee or unarmed attacks. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Concealment",
+        "tier": "Tier 4",
+        "tree": "Physical Skill",
+        "description": "Few skills capture the imagination like the ability to remain undetected, used by assassins, special forces operatives, and simple thieves alike for centuries.",
+        "ranks": "You no longer set off enemy mines. Ranged sneak attacks do 2.5x normal damage and your melee sneak attacks do 4x normal damage.",
+        "unlock": "Rank 1: Perform 10 melee/unarmed sneak attacks. Rank 2: Perform 30 melee/unarmed sneak attacks. Rank 3: Perform 75 melee/unarmed sneak attacks. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Neurostrikes",
+        "tier": "Tier 4",
+        "tree": "Physical Skill",
+        "description": "Once considered the realm of fiction, the ability to disable an opponent without using a weapon is terrifyingly effective when performed by a skilled practitioner.",
+        "ranks": "10% chance to stun an NPC with an unarmed attack.",
+        "unlock": "Rank 1: Stun 10 enemies with an unarmed attack. Rank 2: Stun 30 enemies with an unarmed attack. Rank 3: Stun 75 enemies with an unarmed attack. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Rejuvenation",
+        "tier": "Tier 4",
+        "tree": "Physical Skill",
+        "description": "Utilizing Both ancient meditation techniques and newly developed breathing exercises, it's possible for one to actually trigger their body's natural healing ability.",
+        "ranks": "Slowly regenerate health outside of combat.",
+        "unlock": "Rank 1: Fall below 25% health 3 times and fully heal. Rank 2: Fall below 25% health 8 times and fully heal. Rank 3: Fall below 25% health 15 times and fully heal. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Ballistics",
+        "tier": "Tier 1",
+        "tree": "Combat Skill",
+        "description": "Centuries of conflict have proven that when it comes to threat elimination, few things stack up to the reliable power of high-speed projectiles.",
+        "ranks": "Ballistic weapons do 10% more damage.",
+        "unlock": "Rank 1: Kill 20 enemies with a ballistic weapon Rank 2: Kill 50 enemies with a ballistic weapon Rank 3: Kill 100 enemies with a ballistic weapon Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Dueling",
+        "tier": "Tier 1",
+        "tree": "Combat Skill",
+        "description": "Considered by many to be a lost art, close attacks with a melee weapon can often be deadlier than ranged combat when carried out by a skilled practitioner.",
+        "ranks": "Melee weapons do 25% more damage. Take 10% less damage while wielding a melee weapon.",
+        "unlock": "Rank 1: Kill 20 enemies with a melee weapon Rank 2: Kill 50 enemies with a melee weapon Rank 3: Kill 100 enemies with a melee weapon Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Lasers",
+        "tier": "Tier 1",
+        "tree": "Combat Skill",
+        "description": "Personal laser weapons are in widespread use across the Settled Systems, and specialized training can greatly increase their effectiveness.",
+        "ranks": "Laser weapons do 10% more damage.",
+        "unlock": "Rank 1: Kill 20 enemies with a laser weapon. Rank 2: Kill 50 enemies with a laser weapon. Rank 3: Kill 100 enemies with a laser weapon. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Pistol Certification",
+        "tier": "Tier 1",
+        "tree": "Combat Skill",
+        "description": "Considering the popularity of the personal sidearm in the Settled Systems, familiarity with such weapons is often considered essential.",
+        "ranks": "Pistols do 10% more damage.",
+        "unlock": "Rank 1: Kill 20 enemies with a pistol. Rank 2: Kill 50 enemies with a pistol. Rank 3: Kill 100 enemies with a pistol. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Shotgun Certification",
+        "tier": "Tier 1",
+        "tree": "Combat Skill",
+        "description": "The cornerstone of close quarters combat, or CQC, the shotgun has proven a simple, deadly weapon for hundreds of years.",
+        "ranks": "Shotguns do 10% more damage.",
+        "unlock": "Rank 1: Kill 20 enemies with a shotgun. Rank 2: Kill 50 enemies with a shotgun. Rank 3: Kill 100 enemies with a shotgun. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Rifle Certification",
+        "tier": "Tier 2",
+        "tree": "Combat Skill",
+        "description": "Whether used for combat, hunting, or some other deadly purpose, the rifle has become a mainstay of Settled Systems weaponry.",
+        "ranks": "Rifles do 10% more damage.",
+        "unlock": "Rank 1: Kill 20 enemies with a rifle. Rank 2: Kill 50 enemies with a rifle. Rank 3: Kill 100 enemies with a rifle. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Particle Beams",
+        "tier": "Tier 2",
+        "tree": "Combat Skill",
+        "description": "While considered by some to be exotic, particle weapons can be a devastating combat option, subjecting a target to multiple forms of damage.",
+        "ranks": "Particle beam weapons do 10% more damage.",
+        "unlock": "Rank 1: Kill 20 enemies with a particle beam weapon. Rank 2: Kill 50 enemies with a particle beam weapon. Rank 3: Kill 100 enemies with a particle beam weapon. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Incapacitation",
+        "tier": "Tier 2",
+        "tree": "Combat Skill",
+        "description": "EM weapons are generally employed to damage roBots, but can also be used to render human beings unconscious.",
+        "ranks": "EM weapons do 5% more damage.",
+        "unlock": "Rank 1: Deal 400 EM damage. Rank 2: Deal 1000 EM damage. Rank 3: Deal 2500 EM damage. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Heavy Weapons Certification",
+        "tier": "Tier 2",
+        "tree": "Combat Skill",
+        "description": "Oversized weapons may prove cumbersome to wield, but their excessive damage output can't be ignored, especially in the hands of a trained combatant.",
+        "ranks": "Heavy weapons do 10% more damage.",
+        "unlock": "Rank 1: Kill 20 enemies with a heavy weapon. Rank 2: Kill 50 enemies with a heavy weapon. Rank 3: Kill 100 enemies with a heavy weapon. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Demolitions",
+        "tier": "Tier 2",
+        "tree": "Combat Skill",
+        "description": "With the proper adjustment of chemical mixtures, coupled with modifications to the detonation mechanism, explosives can produce an even greater destructive yield.",
+        "ranks": "Throwing grenades now shows a trajectory arc. Explosions have a 25% larger radius.",
+        "unlock": "Rank 1: Kill 20 enemies with explosives. Rank 2: Kill 50 enemies with explosives. Rank 3: Kill 100 enemies with explosives. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Marksmanship",
+        "tier": "Tier 3",
+        "tree": "Combat Skill",
+        "description": "Perhaps no combat scenario is more frightening, or lethal, as a single-shot weapon wielded by someone skilled in critical shot placement.",
+        "ranks": "Increase critical hit chance with non-automatic ranged weapons by 3%.",
+        "unlock": "Rank 1: Deal 10 ranged critical hits. Rank 2: Deal 30 ranged critical hits. Rank 3: Deal 75 ranged critical hits. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Rapid Reloading",
+        "tier": "Tier 3",
+        "tree": "Combat Skill",
+        "description": "In the chaos of combat, the seconds needed to reload your weapon could be the difference between life and death.",
+        "ranks": "Reload Ballistic weapons 30% faster.",
+        "unlock": "Rank 1: Reload 30 empty magazines. Rank 2: Reload 75 empty magazines. Rank 3: Reload 150 empty magazines. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Sniper Certification",
+        "tier": "Tier 3",
+        "tree": "Combat Skill",
+        "description": "Only a trained sniper truly understands all the elements necessary to patiently and effectively neutralize a target at excessive range.",
+        "ranks": "Scoped weapons are steadier and have less sway.",
+        "unlock": "Rank 1: Kill 50 enemies using a scoped weapon. Rank 2: Kill 125 enemies using a scoped weapon. Rank 3: Kill 250 enemies using a scoped weapon. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Targeting",
+        "tier": "Tier 3",
+        "tree": "Combat Skill",
+        "description": "While careful aiming is generally preferred in combat, \"shooting from the hip\" can prove a fast and deadly alternative with sufficient training.",
+        "ranks": "Increased accuracy and range when shooting without aiming. Marks up to one enemy within 25m that damages you.",
+        "unlock": "Rank 1: Kill 50 enemies without aiming with a ranged weapon. Rank 2: Kill 150 enemies without aiming with a ranged weapon. Rank 3: Kill 250 enemies without aiming with a ranged weapon. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Sharpshooting",
+        "tier": "Tier 4",
+        "tree": "Combat Skill",
+        "description": "For those who specialize in precise targeting that maximizes damage, combat is often a quickly efficient affair.",
+        "ranks": "Increase headshot critical damage by 50% with ranged weapons.",
+        "unlock": "Rank 1: Deal 50 ranged critical hits. Rank 2: Deal 125 ranged critical hits. Rank 3: Deal 250 ranged critical hits. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Crippling",
+        "tier": "Tier 4",
+        "tree": "Combat Skill",
+        "description": "Specifically targeting the pressure points and nerves of various limbs can disable an opponent, limiting their combat effectiveness.",
+        "ranks": "Human enemies have a 30% increased chance to enter a downed state after taking enough damage.",
+        "unlock": "Rank 1: Put 20 enemies into the bleedout state. Rank 2: Put 50 enemies into the bleedout state. Rank 3: Put 100 enemies into the bleedout state. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Armor Penetration",
+        "tier": "Tier 4",
+        "tree": "Combat Skill",
+        "description": "By identifying gaps or weak points in body armor, an attacker can often gain a tactical advantage in combat.",
+        "ranks": "Attacks ignore 15% of a target's armor.",
+        "unlock": "Rank 1: Kill 20 enemies with a non-automatic weapon Rank 2: Kill 50 enemies with a non-automatic weapon Rank 3: Kill 100 enemies with a non-automatic weapon Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Astrodynamics",
+        "tier": "Tier 1",
+        "tree": "Science Skill",
+        "description": "Advanced technology is one thing, but it takes skill, patience, and a little bit of love to coax even more capability out of a ship's grav drive.",
+        "ranks": "Increase grav jump range of jump drives by 15%.",
+        "unlock": "Rank 1: Make 5 grav jumps. Rank 2: Make 15 grav jumps. Rank 3: Make 30 grav jumps. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Geology",
+        "tier": "Tier 1",
+        "tree": "Science Skill",
+        "description": "Newly discovered minerals mined from alien planets and moons have directly led to some incredible technological advancements.",
+        "ranks": "Get more common and uncommon inorganic resources from surface objects.",
+        "unlock": "Rank 1: Harvest inorganic resources from 20 sources. Rank 2: Harvest inorganic resources from 50 sources. Rank 3: Harvest inorganic resources from 100 sources. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Medicine",
+        "tier": "Tier 1",
+        "tree": "Science Skill",
+        "description": "Only through advancements in medical training and technology has humanity been able to withstand the galaxy's many dangers.",
+        "ranks": "Med Packs, Trauma Packs, and Emergency Kits restore 10% additional Health 10% faster.",
+        "unlock": "Rank 1: Use healing items 20 times while wounded. Rank 2: Use healing items 50 times while wounded. Rank 3: Use healing items 100 times while wounded. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Research Methods",
+        "tier": "Tier 1",
+        "tree": "Science Skill",
+        "description": "By skillfully employing Both new and time tested methods, a researcher may complete projects faster, and even gain unexpected insights.",
+        "ranks": "Resources required to craft items and complete research projects is reduced by 10%.",
+        "unlock": "Rank 1: Craft 5 unique food, drinks, drugs, weapon mods, or equipment mods. Rank 2: Craft 10 unique food, drinks, drugs, weapon mods, or equipment mods. Rank 3: Craft 15 unique food, drinks, drugs, weapon mods, or equipment mods. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Surveying",
+        "tier": "Tier 1",
+        "tree": "Science Skill",
+        "description": "Humanity now has access to untold alien worlds, and the ability to decipher all that data while on the ground has become an essential skillset.",
+        "ranks": "Adds an optional zoom to the hand scanner, and scan distance is increased to 20 meters.",
+        "unlock": "Rank 1: Use the hand scanner to scan 10 unique resources, flora, or fauna. Rank 2: Use the hand scanner to scan 25 unique resources, flora, or fauna. Rank 3: Use the hand scanner to scan 50 unique resources, flora, or fauna. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Zoology",
+        "tier": "Tier 2",
+        "tree": "Science Skill",
+        "description": "No one could have expected the number of new species encountered on alien worlds, or the importance of those skilled in their behavior and domestication.",
+        "ranks": "Get more common organic resources from creatures and harvest from them without harming them, learn additional info about them from the scanner, and allows you to produce animal resources at your outposts.",
+        "unlock": "Rank 1: Harvest organic resources from 20 creatures. Rank 2: Harvest organic resources from 50 creatures. Rank 3: Harvest organic resources from 100 creatures. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Weapon Engineering",
+        "tier": "Tier 2",
+        "tree": "Science Skill",
+        "description": "Life in the 24th century can be exceedingly dangerous, and the ability to maintain and modify personal weapons can be essential to one's survival.",
+        "ranks": "You can craft improved weapon mods at a Weapon Workbench, and research additional weapon mods at a Research Lab.",
+        "unlock": "Rank 1: Craft 5 weapon mods. Rank 2: Craft 15 weapon mods. Rank 3: Craft 30 weapon mods. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Spacesuit Design",
+        "tier": "Tier 2",
+        "tree": "Science Skill",
+        "description": "While a basic spacesuit can protect one from the vacuum of space, it takes a specialized design to withstand the rigors of many alien worlds.",
+        "ranks": "You can craft improved spacesuit, helmet, and pack mods, and research additional mods at a Research Lab.",
+        "unlock": "Rank 1: Craft 5 spacesuit, helmet, or pack mods. Rank 2: Craft 15 spacesuit, helmet, or pack mods. Rank 3: Craft 30 spacesuit, helmet, or pack mods. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Scanning",
+        "tier": "Tier 2",
+        "tree": "Science Skill",
+        "description": "While anyone can use a ship's scanner, it takes a specially trained operator to detect hard-to-find planetary resources, or uncover the details of nearby ships.",
+        "ranks": "You can detect uncommon inorganic resources on planet and moon surfaces, and more information about ships in space.",
+        "unlock": "Rank 1: Scan 5 planets or moons. Rank 2: Scan 15 planets or moons. Rank 3: Scan 30 planets or moons. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Botany",
+        "tier": "Tier 2",
+        "tree": "Science Skill",
+        "description": "The scientific study of flora, while important on Earth, became even more essential as humanity began exploring alien worlds.",
+        "ranks": "Get more common and uncommon organic resources from plants, learn additional info about them from the scanner, and allows some plants to be cultivated at your outposts.",
+        "unlock": "Rank 1: Harvest 20 organic resources from plants. Rank 2: Harvest 50 organic resources from plants. Rank 3: Harvest 100 organic resources from plants. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Astrophysics",
+        "tier": "Tier 3",
+        "tree": "Science Skill",
+        "description": "A ship's scanner receives vast amounts of data, but it takes a trained mind to efficiently analyze it all.",
+        "ranks": "You can scan the moons of your current planet. You have a 10% chance to discover a trait when scanning.",
+        "unlock": "Rank 1: Scan 10 unique planets or moons. Rank 2: Scan 25 unique planets or moons. Rank 3: Scan 50 unique planets or moons. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Chemistry",
+        "tier": "Tier 3",
+        "tree": "Science Skill",
+        "description": "When crafted by the skilled and safety conscious, chems can be used to enhance health and performance across the Settled Systems.",
+        "ranks": "You can create improved chems, and research additional chems at a Research Lab.",
+        "unlock": "Rank 1: Create 10 chems. Rank 2: Create 25 chems. Rank 3: Create 50 chems. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Outpost Engineering",
+        "tier": "Tier 3",
+        "tree": "Science Skill",
+        "description": "Proper construction of habitation modules is essential to one's survival on any alien world.",
+        "ranks": "You can construct improved outpost modules, and research additional modules at a Research Lab.",
+        "unlock": "Rank 1: Build 5 different outpost modules. Rank 2: Build 25 different outpost modules. Rank 3: Build 50 different outpost modules. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Special Projects",
+        "tier": "Tier 4",
+        "tree": "Science Skill",
+        "description": "Big guns are great, but in the Settled Systems, sometimes the best weapon is simply an old adage: \"Knowledge is Power.\"",
+        "ranks": "You can research experimental projects at a Research Lab.",
+        "unlock": "Rank 1: Craft 10 common or uncommon manufactured components. Rank 2: Craft 10 rare manufactured components. Rank 3:  Craft 10 exotic manufactured components. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Planetary Habitation",
+        "tier": "Tier 4",
+        "tree": "Science Skill",
+        "description": "While outpost building is always challenging, doing so on a world with a dangerous environment requires specialized training.",
+        "ranks": "You can build outposts on planets with extreme temperatures (Deep Freeze and Inferno). Increase the maximum number of Outposts you can build by 4.",
+        "unlock": "Rank 1: Build habitable outposts on 3 different planets. Rank 2: Build habitable outposts on 5 different planets. Rank 3: Build habitable outposts on 10 different planets. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Aneutronic Fusion",
+        "tier": "Tier 4",
+        "tree": "Science Skill",
+        "description": "It is possible to maximize a ship's energy output by specifically directing the unique nuclear processes that occur within its reactor.",
+        "ranks": "Ship reactors produce 1 extra unit of power.",
+        "unlock": "Rank 1: Destroy 5 ships. Rank 2: Destroy 25 ships. Rank 3: Destroy 50 ships. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Commerce",
+        "tier": "Tier 1",
+        "tree": "Social Skill",
+        "description": "In the Settled Systems' free market economy, almost anyone with the right skillset can open and run a successful business.",
+        "ranks": "Buy for 5% less and sell for 10% more.",
+        "unlock": "Rank 1: Buy or sell 25 unique items. Rank 2: Buy or sell 75 unique items. Rank 3: Buy or sell 150 unique items. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Gastronomy",
+        "tier": "Tier 1",
+        "tree": "Social Skill",
+        "description": "Access to brand new worlds means access to brand new ingredients, and there is almost no limit to the delicious foods and drinks a talented chef can prepare.",
+        "ranks": "You can craft specialty food and drinks, and research additional recipes at a Research Lab.",
+        "unlock": "Rank 1: Create 5 food or drink items. Rank 2: Create 25 food or drink items. Rank 3: Create 50 food or drink items. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Persuasion",
+        "tier": "Tier 1",
+        "tree": "Social Skill",
+        "description": "In the Settled Systems, the nuanced ability to listen and discuss can often accomplish far more than simply shooting first and asking questions later.",
+        "ranks": "10% increased chance of success when persuading someone.",
+        "unlock": "Rank 1: Succeed in 3 speech challenges. Rank 2: Succeed in 5 speech challenges. Rank 3: Succeed in 10 speech challenges. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Scavenging",
+        "tier": "Tier 1",
+        "tree": "Social Skill",
+        "description": "There are those who can find just about anything, and their success is usually dependent on knowing how, and where, to look,",
+        "ranks": "There's a chance you'll find extra credits when searching containers.",
+        "unlock": "Rank 1: Loot 25 containers. Rank 2: Loot 75 containers. Rank 3: Loot 150 containers. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Theft",
+        "tier": "Tier 1",
+        "tree": "Social Skill",
+        "description": "While not entirely honorable, and certainly not legal, it is nonetheless occasionally necessary to discreetly remove property from someone's person,",
+        "ranks": "Unlock the ability to pickpocket targets.",
+        "unlock": "Rank 1: Successfully pickpocket 5 times. Rank 2: Successfully pickpocket 10 times. Rank 3: Successfully pickpocket 20 times. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Negotiation",
+        "tier": "Tier 2",
+        "tree": "Social Skill",
+        "description": "In certain, more challenging communications, skillfully supplementing words with credits may help achieve the desired results.",
+        "ranks": "You now have access to Bribery in speech challenges.",
+        "unlock": "Rank 1: Bribe 3 times through persuasion. Rank 2: Bribe 5 times through persuasion. Rank 3: Bribe 10 times through persuasion. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Isolation",
+        "tier": "Tier 2",
+        "tree": "Social Skill",
+        "description": "By eschewing team tactics and embracing the the advantages of \"lone wolf\" operations, one can vastly improve their combat effectiveness.",
+        "ranks": "Do +10% weapon damage and gain 15 Damage Resistance for each Spacesuit and Helmet equipped when you don't have a companion or any crew.",
+        "unlock": "Rank 1: Kill 20 enemies while not in command of a follower. Rank 2: Kill 50 enemies while not in command of a follower. Rank 3: Kill 100 enemies while not in command of a follower. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Intimidation",
+        "tier": "Tier 2",
+        "tree": "Social Skill",
+        "description": "The ability to strike fear into an opponent, causing them to flee so that you can escape or attack first, can prove critical in a battle.",
+        "ranks": "You can force a target NPC at or below your level to flee for a limited time.",
+        "unlock": "Rank 1: Successfully Intimidate 5 different people. Rank 2: Successfully Intimidate 25 different people. Rank 3: Successfully Intimidate 50 different people. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Diplomacy",
+        "tier": "Tier 2",
+        "tree": "Social Skill",
+        "description": "When a situation calls for words and not weapons, it's best to rely on those trained in statecraft and de-escalation.",
+        "ranks": "You can force a target NPC at or below your level to stop fighting for a while.",
+        "unlock": "Rank 1: Successfully use Diplomacy on 5 different people. Rank 2: Successfully use Diplomacy on 25 different people. Rank 3: Successfully use Diplomacy on 50 different people. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Deception",
+        "tier": "Tier 2",
+        "tree": "Social Skill",
+        "description": "Smuggling and piracy are Both immoral and highly illegal, and considered plagues upon the Settled Systems. But certain undercover work may require a certain criminal skillset.",
+        "ranks": "Ships 10% stronger will automatically surrender to piracy demands. Enemy contraband scans are 10% less effective.",
+        "unlock": "Rank 1: Convince 5 ships to surrender. Rank 2: Convince 10 ships to surrender. Rank 3: Convince 20 ships to surrender. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Instigation",
+        "tier": "Tier 3",
+        "tree": "Social Skill",
+        "description": "When combat is required, it can be advantageous to convince others to do the fighting for you.",
+        "ranks": "You can force a target NPC at or below your level to attack their allies for a limited time.",
+        "unlock": "Rank 1: Successfully Instigate 5 different people. Rank 2: Successfully Instigate 25 different people. Rank 3: Successfully Instigate 50 different people. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Leadership",
+        "tier": "Tier 3",
+        "tree": "Social Skill",
+        "description": "Teamwork is the cornerstone of galactic survival, and nothing motivates a team more than a trained, decisive leader.",
+        "ranks": "Companions gain affinity 25% faster.",
+        "unlock": "Rank 1: Sprint 1000 meters with an active follower. Rank 2: Sprint 2500 meters with an active follower. Rank 3: Sprint 5000 meters with an active follower. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Outpost Management",
+        "tier": "Tier 3",
+        "tree": "Social Skill",
+        "description": "While constructing an outpost offers its own challenges, properly managing that outpost takes a special personality type, and specialized training.",
+        "ranks": "Additional cargo links can be placed at outposts.",
+        "unlock": "Rank 1: Build cargo links on 6 different planets. Rank 2: Build cargo links on 8 different planets. Rank 3: Build cargo links on 10 different planets. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Xenosociology",
+        "tier": "Tier 4",
+        "tree": "Social Skill",
+        "description": "While sentient life has yet to be discovered, the galaxy's alien species are generally intelligent enough to be susceptible to the power of suggestion.",
+        "ranks": "You can force a target alien creature up to 10 levels higher than you to stop fighting for a limited time.",
+        "unlock": "Rank 1: Successfully use Pacify on 15 different aliens. Rank 2: Successfully use Flee on 15 different aliens. Rank 3: Successfully use Frenzy on 15 different aliens. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Ship Command",
+        "tier": "Tier 4",
+        "tree": "Social Skill",
+        "description": "They say a ship is only as good as its crew, but that is contingent upon that crew having the right captain to lead them.",
+        "ranks": "You can have up to four active crew members.",
+        "unlock": "Rank 1: Destroy or board 5 ships with a crew of two or more. Rank 2: Destroy or board 25 ships with a crew of two or more. Rank 3: Destroy or board 50 ships with a crew of two or more. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Manipulation",
+        "tier": "Tier 4",
+        "tree": "Social Skill",
+        "description": "Recent studies have shown that suggestion is not an art, but a science, and as such can be weaponized to exert control over the susceptible.",
+        "ranks": "You can force a target NPC at or below your level to obey commands for a limited time.",
+        "unlock": "Rank 1: Successfully Manipulate 5 different people. Rank 2: Successfully Manipulate 25 different people. Rank 3: Successfully Manipulate 50 different people. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Ballistic Weapon Systems",
+        "tier": "Tier 1",
+        "tree": "Tech Skill",
+        "description": "While there have been significant advancements in ship-borne weaponry, sometimes the simplest tool is the most effective.",
+        "ranks": "Ballistic ship weapons have 10% increased damage and cost 20% less to use in Targeting Mode.",
+        "unlock": "Rank 1: Deal 1000 damage to enemy ships with ballistic weapons. Rank 2: Deal 4000 damage to enemy ships with ballistic weapons. Rank 3: Deal 10000 damage to enemy ships with ballistic weapons. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Boost Pack Training",
+        "tier": "Tier 1",
+        "tree": "Tech Skill",
+        "description": "Specialized training and innovations in personal mobility systems have allowed for unfettered exploration on alien worlds.",
+        "ranks": "You can now utilize boost packs.",
+        "unlock": "Rank 1: Boost jump 10 times while in combat. Rank 2: Boost jump 25 times while in combat. Rank 3: Boost jump 50 times while in combat. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Piloting",
+        "tier": "Tier 1",
+        "tree": "Tech Skill",
+        "description": "As more people journey into space, the number of those certified to effectively pilot various types of spacecraft has increased dramatically.",
+        "ranks": "You can now utilize ship thrusters.",
+        "unlock": "Rank 1: Destroy 5 ships. Rank 2: Destroy 15 ships. Rank 3: Destroy 30 ships. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Security",
+        "tier": "Tier 1",
+        "tree": "Tech Skill",
+        "description": "While the standardized digital locking mechanism is renowned for its security, any code can be broken with the proper training.",
+        "ranks": "You can attempt to hack Advanced locks, and 2 auto attempts can be banked.",
+        "unlock": "Rank 1: __unlock1__ Rank 2: __unlock2__ Rank 3: __unlock3__ Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Targeting Control Systems",
+        "tier": "Tier 1",
+        "tree": "Tech Skill",
+        "description": "Missile weapons are favored because they can lock onto an enemy ship, but an intimate knowledge of tracking systems can make them even more effective.",
+        "ranks": "Unlocks ship targeting functionality.",
+        "unlock": "Rank 1: Destroy 5 enemy ships while in targeting mode. Rank 2: Destroy 15 enemy ships while in targeting mode. Rank 3: Destroy 30 enemy ships while in targeting mode. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Shield Systems",
+        "tier": "Tier 2",
+        "tree": "Tech Skill",
+        "description": "Regardless of the power allocated by the reactor, a ship's shields can be further bolstered by direct manipulation of the system's harmonics.",
+        "ranks": "Your ship has 20% increased shield capacity.",
+        "unlock": "Rank 1: Take 150 shield damage. Rank 2: Take 350 shield damage. Rank 3: Take 750 shield damage. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Payloads",
+        "tier": "Tier 2",
+        "tree": "Tech Skill",
+        "description": "Any pilot can haul cargo, but it takes special determination and training to maximize cargo space.",
+        "ranks": "Ship cargo holds have 10% more capacity.",
+        "unlock": "Rank 1: Make 10 grav jumps with 75% or more of Maximum cargo capacity. Rank 2: Make 25 grav jumps with 75% or more of Maximum cargo capacity. Rank 3: Make 50 grav jumps with 75% or more of Maximum cargo capacity. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Engine Systems",
+        "tier": "Tier 2",
+        "tree": "Tech Skill",
+        "description": "Space is Both vast and dangerous, and the ability to push a ship's engine to increase speed can be done safely and effectively, with the right training.",
+        "ranks": "Your ship's top speed is increased by 10%.",
+        "unlock": "Rank 1: Boost 5 times with your spaceship while in combat. Rank 2: Boost 25 times with your spaceship while in combat. Rank 3: Boost 50 times with your spaceship while in combat. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Energy Weapon Systems",
+        "tier": "Tier 2",
+        "tree": "Tech Skill",
+        "description": "In the 24th century, advancements in energy weapons technology have revolutionized combat, as much in space as on the ground.",
+        "ranks": "Energy ship weapons have 10% increased damage and cost 15% less to use in Targeting Mode.",
+        "unlock": "Rank 1: Deal 1000 damage to enemy ships with Energy weapons. Rank 2: Deal 4000 damage to enemy ships with Energy weapons. Rank 3: Deal 10000 damage to enemy ships with Energy weapons. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Missile Weapon Systems",
+        "tier": "Tier 3",
+        "tree": "Tech Skill",
+        "description": "In space, few weapons can match the range and destructive power of missiles, especially in the hands of a skilled tactician.",
+        "ranks": "Ship missile weapons do 10% more damage, and their Targeting mode cost is reduced by 20%.",
+        "unlock": "Rank 1: Deal 1000 damage to enemy ships with missile weapons. Rank 2: Deal 4000 damage to enemy ships with missile weapons. Rank 3: Deal 10000 damage to enemy ships with missile weapons. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Particle Beam Weapon Systems",
+        "tier": "Tier 3",
+        "tree": "Tech Skill",
+        "description": "Ship weapons utilizing particle beam technology are the preferred choice for captains who prefer to damage multiple ship systems at once.",
+        "ranks": "Ship particle beam weapons do 10% more damage, and Targeting mode cost is reduced by 10%.",
+        "unlock": "Rank 1: Deal 1000 damage to enemy ships with particle beam weapons. Rank 2: Deal 4000 damage to enemy ships with particle beam weapons. Rank 3: Deal 10000 damage to enemy ships with particle beam weapons. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Robotics",
+        "tier": "Tier 3",
+        "tree": "Tech Skill",
+        "description": "In an age where roBots and autonomous turrets are employed in a combat capacity, the study of roBotics can be instrumental in gaining a tactical edge.",
+        "ranks": "You deal 10% more damage to RoBots and Turrets. You can force a target roBot up to 10 levels higher than you to stop fighting for a limited time.",
+        "unlock": "Rank 1: Destroy 5 roBots. Rank 2: Destroy 25 roBots. Rank 3: Destroy 50 roBots. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Starship Design",
+        "tier": "Tier 3",
+        "tree": "Tech Skill",
+        "description": "As with \"car culture\" on Earth centuries ago, there are those who pride themselves on the ability to modify their own spaceships.",
+        "ranks": "Allows the installation of improved ship modules,",
+        "unlock": "Rank 1: Install 5 unique ship modules Rank 2: Install 15 unique ship modules Rank 3:  Install 30 unique ship modules Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Starship Engineering",
+        "tier": "Tier 3",
+        "tree": "Tech Skill",
+        "description": "It takes skilled hands to not only make a ship's systems more resistant to damage, but to repair those systems efficiently when damage does occur.",
+        "ranks": "All ship systems repair 10% faster.",
+        "unlock": "Rank 1: Use 5 ship repair kits. Rank 2: Use 10 ship repair kits. Rank 3: Use 15 ship repair kits. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "EM Weapon Systems",
+        "tier": "Tier 4",
+        "tree": "Tech Skill",
+        "description": "In the hands of a capable pilot, no weapons can disable an enemy ship faster than those that deliver electromagnetic damage.",
+        "ranks": "EM ship weapons have 10% increased damage and cost 15% less to use in Targeting Mode.",
+        "unlock": "Rank 1: Deal 1000 damage to enemy ships with EM weapons. Rank 2: Deal 4000 damage to enemy ships with EM weapons. Rank 3: Deal 10000 damage to enemy ships with EM weapons. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Boost Assault Training",
+        "tier": "Tier 4",
+        "tree": "Tech Skill",
+        "description": "Combat training with boost packs allows for more shock and awe tactics.",
+        "ranks": "Nearby enemies take damage when you boost and have a chance to catch on fire.",
+        "unlock": "Rank 1: Deal 200 damage to enemies using the boost pack. Rank 2: Knockdown 20 enemies with a boost. Rank 3: Deal 500 damage to enemies using the boost pack. Rank 4: Complete the previous rank challenge to unlock this rank."
+    },
+    {
+        "name": "Automated Weapon Systems",
+        "tier": "Tier 4",
+        "tree": "Tech Skill",
+        "description": "Turret weapons are known for their easy-to-use, autonomous nature, but they can be made even deadlier with some specific technical adjustments.",
+        "ranks": "Automated ship weapons do 10% more damage and reduce all targeting mode costs by 20%.",
+        "unlock": "Rank 1: Deal 1000 damage to enemy ships with automated turret weapons. Rank 2: Deal 4000 damage to enemy ships with automated turret weapons. Rank 3: Deal 10000 damage to enemy ships with automated turret weapons. Rank 4: Complete the previous rank challenge to unlock this rank."
+    }
+]

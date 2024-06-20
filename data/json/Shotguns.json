@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Boom Boom",
+        "dmg": "Phys 68",
+        "ammo": "CASELESS SHELL",
+        "mag": "20.",
+        "fire Rate": "60.",
+        "range": "24",
+        "accuracy": "43.3%",
+        "mass": "3. 75",
+        "mod Capacity": "8"
+    },
+    {
+        "name": "Breach",
+        "dmg": "Phys 135",
+        "ammo": "Sx25 CLL SHELL",
+        "mag": "7",
+        "fire Rate": "10",
+        "range": "20",
+        "accuracy": "55.3%",
+        "mass": "7.30",
+        "mod Capacity": "8"
+    },
+    {
+        "name": "Coachman",
+        "dmg": "Phys 71",
+        "ammo": "CASELESS SHELL",
+        "mag": "2",
+        "fire Rate": "47",
+        "range": "20",
+        "accuracy": "38.4%",
+        "mass": "3.00",
+        "mod Capacity": "7"
+    },
+    {
+        "name": "Old Earth Shotgun",
+        "dmg": "Phys 100",
+        "ammo": "12G SHELL",
+        "mag": "6",
+        "fire Rate": "6",
+        "range": "20",
+        "accuracy": "56.3%",
+        "mass": "3.68",
+        "mod Capacity": "5"
+    },
+    {
+        "name": "Pacifier",
+        "dmg": "Phys 81",
+        "ammo": "1Sx25 CLL SHELL",
+        "mag": "9",
+        "fire Rate": "20",
+        "range": "20",
+        "accuracy": "45.0%",
+        "mass": "2.75",
+        "mod Capacity": "6"
+    },
+    {
+        "name": "Rapidshot",
+        "dmg": "Phys 135",
+        "ammo": "15X25 CLL SHELL",
+        "mag": "7",
+        "fire Rate": "18",
+        "range": "24",
+        "accuracy": "56.9%",
+        "mass": "7.45",
+        "mod Capacity": "8"
+    },
+    {
+        "name": "Shotty",
+        "dmg": "Phys 68",
+        "ammo": "CASELESS SHELL",
+        "mag": "12",
+        "fire Rate": "60",
+        "range": "20",
+        "accuracy": "35.2%",
+        "mass": "2.95",
+        "mod Capacity": "8"
+    }
+]

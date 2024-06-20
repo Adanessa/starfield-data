@@ -1,0 +1,167 @@
+[
+    {
+        "name": "Ace Sidearm",
+        "dmg": "Phys 21",
+        "ammo": ".27 CALIBER",
+        "mag": "20.",
+        "fire Rate": "40.",
+        "range": "20",
+        "accuracy": "72.0%",
+        "mass": "1.70",
+        "mod Capacity": "7"
+    },
+    {
+        "name": "Deadeye",
+        "dmg": "Phys 70",
+        "ammo": "7.5MM",
+        "mag": "6",
+        "fire Rate": "12",
+        "range": "40",
+        "accuracy": "67.1%",
+        "mass": "2.30",
+        "mod Capacity": "8"
+    },
+    {
+        "name": "Elegance",
+        "dmg": "Phys 66",
+        "ammo": ".43  ULTRAMAG",
+        "mag": "8",
+        "fire Rate": "109",
+        "range": "17",
+        "accuracy": "73.7%",
+        "mass": "1.50",
+        "mod Capacity": "7"
+    },
+    {
+        "name": "Eon",
+        "dmg": "Phys 14",
+        "ammo": "7.77MM",
+        "mag": "12",
+        "fire Rate": "50",
+        "range": "20",
+        "accuracy": "67.5%",
+        "mass": "0.55",
+        "mod Capacity": "6"
+    },
+    {
+        "name": "Kraken",
+        "dmg": "Phys 4",
+        "ammo": "6.5MM",
+        "mag": "25",
+        "fire Rate": "150",
+        "range": "20",
+        "accuracy": "69.6%",
+        "mass": "1.00",
+        "mod Capacity": "6"
+    },
+    {
+        "name": "Magshot",
+        "dmg": "Phys 72",
+        "ammo": ".43 MI",
+        "mag": "6",
+        "fire Rate": "25",
+        "range": "20",
+        "accuracy": "62.8%",
+        "mass": "2.00",
+        "mod Capacity": "6"
+    },
+    {
+        "name": "Old Earth Pistol",
+        "dmg": "Phys ??",
+        "ammo": ".45 CALIBER",
+        "mag": "9",
+        "fire Rate": "67",
+        "range": "20",
+        "accuracy": "66.9%",
+        "mass": "1.10",
+        "mod Capacity": "4"
+    },
+    {
+        "name": "Rattler",
+        "dmg": "Phys 10",
+        "ammo": ".27 CALIBER",
+        "mag": "12",
+        "fire Rate": "50",
+        "range": "20",
+        "accuracy": "68.1%",
+        "mass": "0.85",
+        "mod Capacity": "7"
+    },
+    {
+        "name": "Razorback",
+        "dmg": "Phys 70",
+        "ammo": "7.5MM",
+        "mag": "6",
+        "fire Rate": "12",
+        "range": "40",
+        "accuracy": "67.1%",
+        "mass": "2.30",
+        "mod Capacity": "8"
+    },
+    {
+        "name": "Regulator",
+        "dmg": "Phys 48",
+        "ammo": ".43 ULTRAMAG",
+        "mag": "8",
+        "fire Rate": "18",
+        "range": "20",
+        "accuracy": "71.3%",
+        "mass": "0.70",
+        "mod Capacity": "7"
+    },
+    {
+        "name": "Sidestar",
+        "dmg": "Phys 18",
+        "ammo": ".27 CALIBER",
+        "mag": "20",
+        "fire Rate": "40",
+        "range": "20",
+        "accuracy": "67.9%",
+        "mass": "8.65",
+        "mod Capacity": "7"
+    },
+    {
+        "name": "The Prime",
+        "dmg": "Phys 84",
+        "ammo": "7.5MM",
+        "mag": "6",
+        "fire Rate": "12",
+        "range": "48",
+        "accuracy": "79.8%",
+        "mass": "3.60",
+        "mod Capacity": "8"
+    },
+    {
+        "name": "The Zapper",
+        "dmg": "Phys 16",
+        "ammo": ".27 CALIBER",
+        "mag": "28.",
+        "fire Rate": "104",
+        "range": "24",
+        "accuracy": "71.6%",
+        "mass": "2.85",
+        "mod Capacity": "7"
+    },
+    {
+        "name": "Urban Eagle",
+        "dmg": "Phys 53",
+        "ammo": ".43 ULTRAMAG",
+        "mag": "8",
+        "fire Rate": "25",
+        "range": "20",
+        "accuracy": "67.7%",
+        "mass": "1.75",
+        "mod Capacity": "7"
+    },
+    {
+        "name": "Xm-2311",
+        "dmg": "Phys ??",
+        "ammo": ".45 CALIBER",
+        "mag": "9",
+        "fire Rate": "67",
+        "range": "20",
+        "accuracy": "66.9%",
+        "mass": "1.10",
+        "mod Capacity": "5"
+    }
+]

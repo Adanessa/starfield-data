@@ -1,0 +1,104 @@
+[
+    {
+        "trait": "Alien DNA",
+        "benefit": "You volunteered for a controversial experiment that combines alien and human DNA. As a result, you start with increased health and oxygen.",
+        "drawback": "But healing and food items aren't as effective.",
+        "incompatible Traits": " N/A"
+    },
+    {
+        "trait": "Dream Home",
+        "benefit": "You own a luxurious, customizable house on a peaceful planet!",
+        "drawback": "Unfortunately, it comes with a 125,000 credit mortgage with GalBank that has to be paid weekly.",
+        "incompatible Traits": " N/A"
+    },
+    {
+        "trait": "Empath",
+        "benefit": "You are deeply connected to the feelings of others. Performing actions your companion likes will result in a temporary increase in combat effectiveness.",
+        "drawback": "But performing actions they don't like will have the precise opposite effect.",
+        "incompatible Traits": " N/A"
+    },
+    {
+        "trait": "Extrovert",
+        "benefit": "You're a people person. Exerting yourself uses less oxygen when adventuring with human companions.",
+        "drawback": "But exerting yourself uses more oxygen when adventuring alone.",
+        "incompatible Traits": "Introvert"
+    },
+    {
+        "trait": "Freestar Collective Settler",
+        "benefit": "You gain access to special Freestar Collective dialogue options and better rewards from some missions given by the faction.",
+        "drawback": "But crime bounty towards other factions is greatly increased. ",
+        "incompatible Traits": "Can't be combined with any other faction allegiance trait."
+    },
+    {
+        "trait": "Hero Worshipped",
+        "benefit": "You've earned the attention of an annoying “Adoring Fan” who will show up randomly and jabber at you incessantly.",
+        "drawback": "On the plus side, he'll join your ship's crew and give you gifts...",
+        "incompatible Traits": "N/A"
+    },
+    {
+        "trait": "Introvert",
+        "benefit": "You really need your alone time. Exerting yourself uses less oxygen when adventuring alone, but more when adventuring with other human companions.",
+        "drawback": "Less endurance when adventuring with other human companions",
+        "incompatible Traits": "Extrovert"
+    },
+    {
+        "trait": "Kid Stuff",
+        "benefit": "Your parents are alive, and you can visit them at their home",
+        "drawback": "But you will automatically send 2% of your credits home to them every week.",
+        "incompatible Traits": "N/A"
+    },
+    {
+        "trait": "Neon Street Rat",
+        "benefit": "You grew up on the mean streets of Neon. You gain access to special dialogue options and better rewards from some missions on Neon.",
+        "drawback": "Crime bounty by other factions is greatly increased.",
+        "incompatible Traits": "Can't be combined with any other faction allegiance trait."
+    },
+    {
+        "trait": "Raised Enlightened",
+        "benefit": "You grew up as a member of the Enlightened. You gain access to a special chest full of items in the House of the Enlightened in New Atlantis.",
+        "drawback": "Lose access to the Sanctum Universum store.",
+        "incompatible Traits": "Can't be combined with any other religion trait."
+    },
+    {
+        "trait": "Raised Universal",
+        "benefit": "You grew up as a member of the Sanctum Universum. You gain access to a special chest full of items in the Sanctum Universum in New Atlantis",
+        "drawback": "Lose access to the House of the Enlightened chest",
+        "incompatible Traits": "Can't be combined with any other religion trait."
+    },
+    {
+        "trait": "Serpent's Embrace",
+        "benefit": "You grew up worshiping the Great Serpent. Grav jumping provides a temporary boost to health and oxygen.",
+        "drawback": "But health and oxygen are lowered if you don't continue jumping regularly – like an addiction.",
+        "incompatible Traits": "Can't be combined with any other religion trait."
+    },
+    {
+        "trait": "Spaced",
+        "benefit": "Your body has become acclimated to space. Health and oxygen are increased when in space.",
+        "drawback": "But health and endurance are decreased when on the surface",
+        "incompatible Traits": "Can't be combined with"
+    },
+    {
+        "trait": "Taskmaster",
+        "benefit": "Occasionally, if you have crew trained in a certain ship system, that system will automatically repair itself to full health whenever it is damaged below 50%.",
+        "drawback": "However, all crew cost twice as much to hire.",
+        "incompatible Traits": "N/A"
+    },
+    {
+        "trait": "Terra Firma",
+        "benefit": "You've never acclimated to space. Health and oxygen are increased when on the surface.",
+        "drawback": "But health and oxygen are lowered decreased when you're in space",
+        "incompatible Traits": "Can't be combined with"
+    },
+    {
+        "trait": "United Colonies Native",
+        "benefit": "You gain access to special United Colonies dialogue options and better rewards from some missions given by the faction.",
+        "drawback": "However, crime bounty by other factions is greatly increased.",
+        "incompatible Traits": "Can't be combined with any other faction allegiance trait."
+    },
+    {
+        "trait": "Wanted",
+        "benefit": "Someone put a price on your head, and word has spread. Occasionally, armed mercenaries will show up and try to kill you.",
+        "drawback": "But being cornered gives you an edge - when your health is low, you do extra damage.",
+        "incompatible Traits": " N/A"
+    }
+]

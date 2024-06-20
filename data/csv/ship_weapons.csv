@@ -1,0 +1,110 @@
+Name,Brand,Class,Range,Fire Rate,Hull DMG,Shield DMG,EM DMG,Max Power,Hull,Mass,Value,Requires
+Atlatl 270A Missile Launcher,Light Scythe,A,4000,1,47,47,N/A,3,1,2,3705,None
+Atlatl 270B Missile Launcher,Light Scythe,B,4000,3,68,68,N/A,4,3,4,7718,None
+Atlatl 270C Missile Launcher,Light Scythe,C,4000,6,149,149,N/A,4,6,7,23180,None
+Atlatl 280A Missile Launcher,Light Scythe,A,4000,3,82,82,N/A,3,3,3,10355,(Rank 2)
+Atlatl 280B Missile Launcher,Light Scythe,B,4000,3,141,141,N/A,4,3,5,21660,(Rank 3)
+Atlatl 280C missile launcher,Light Scythe,C,4000,6,264,264,N/A,4,6,7,45125,(Rank 3)
+Atlatl 290B Missile Launcher,Light Scythe,B,4000,6,96,96,N/A,10,6,7,13110,(Rank 4)
+Blaze 2GW SX Laser,Light Scythe,C,1250,7,14,46,N/A,3,7,6,8621,None
+Blaze-P 2GW SX Pulse Laser,Light Scythe,C,1250,7,7,24,N/A,3,7,6,15770,(Rank 1)
+Blaze-P 2GW SX Pulse Laser Turret,Light Scythe,C,1250,7,8,25,N/A,4,7,6,19950,(Rank 1)
+CE-09 Missile Launcher,Ballistic Solutions Inc.,A,4000,1,36,36,N/A,3,1,1,1615,None
+CE-19 missile launcher,Ballistic Solutions Inc.,A,4000,2,77,77,N/A,3,2,1,9428,(Rank 3)
+CE-29 Missile Launcher,Ballistic Solutions Inc.,B,4000,4,58,58,N/A,3,4,3,5818,None
+CE-39 Missile Launcher,Ballistic Solutions Inc.,B,4000,5,104,104,N/A,3,5,4,14630,(Rank 3)
+CE-49 Missile Launcher,Ballistic Solutions Inc.,C,4000,6,96,96,N/A,3,6,6,13110,None
+CE-59 Missile Launcher,Ballistic Solutions Inc.,C,4000,6,153,153,N/A,3,6,7,23940,(Rank 3)
+Devastator 1500 Missile Launcher,Horizon Defense,C,3750,6,68,68,N/A,3,6,7,7718,(Rank 1)
+Disruptor 3300 Electron Beam,Horizon Defense,A,3500,2,12,12,N/A,3,2,1,2137,None
+Disruptor 3300A Auto Electron Beam,Horizon Defense,A,3500,2,8,8,N/A,3,2,1,6175,None
+Disruptor 3310 Proton Beam,Horizon Defense,A,3500,3,18,18,N/A,3,3,2,9690,(Rank 1)
+Disruptor 3310A Auto Proton Beam,Horizon Defense,A,3500,3,13,13,N/A,4,3,2,18145,(Rank 3)
+Disruptor 3320 Neutron Beam,Horizon Defense,B,3500,4,20,20,N/A,3,4,2,5011,None
+Disruptor 3320 Neutron Turret,Horizon Defense,B,3500,4,29,29,N/A,3,4,2,13110,None
+Disruptor 3320A Auto Neutron Beam,Horizon Defense,B,3500,4,13,13,N/A,3,4,2,10355,None
+Disruptor 3330 Helion Beam,Horizon Defense,B,3500,5,30,30,N/A,4,5,3,13965,(Rank 2)
+Disruptor 3330A Auto Helion Beam,Horizon Defense,B,3500,5,19,19,N/A,4,5,3,21185,(Rank 3)
+Disruptor 3340 Alpha Beam,Horizon Defense,C,3500,7,38,38,N/A,3,7,6,7528,None
+Disruptor 3340A Auto Alpha Beam,Horizon Defense,C,3500,7,17,17,N/A,3,7,6,11495,None
+Disruptor 3340A Auto Alpha Turret,Horizon Defense,C,3500,7,19,19,N/A,3,7,6,14345,None
+Dragon 221 MW Laser,Horizon Defense,A,1000,1,4,12,N/A,3,1,1,1425,None
+Dragon 221P MW Pulse Laser,Horizon Defense,A,1000,1,3,9,N/A,3,1,1,7576,None
+Dragon 231 IR Laser,Horizon Defense,A,1000,1,6,19,N/A,3,1,1,8621,(Rank 1)
+Dragon 231P IR Pulse Laser,Horizon Defense,A,1000,1,4,13,N/A,3,1,1,14440,(Rank 2)
+Dragon 241 Laser,Horizon Defense,B,1000,3,7,23,N/A,3,3,3,5011,None
+Dragon 241P Pulse Laser,Horizon Defense,B,1000,3,5,15,N/A,3,3,3,12730,None
+Dragon 241P Pulse Laser Turret,Horizon Defense,B,1250,3,10,32,N/A,3,3,3,12730,None
+Dragon 251 UV Laser,Horizon Defense,B,1000,4,10,34,N/A,3,4,4,12730,(Rank 2)
+Dragon 251P UV Pulse Laser,Horizon Defense,B,1000,4,7,22,N/A,3,4,4,22990,(Rank 3)
+Dragon 261 SX Laser,Horizon Defense,C,1000,1.5,13,43,N/A,3,6,6,7077,None
+Dragon 261 SX Laser Turret,Horizon Defense,C,1000,1.5,18,59,N/A,3,6,6,14820,None
+Dragon 261P SX Pulse Laser,Horizon Defense,C,1000,6,6,20,N/A,3,6,6,11685,None
+EMP-1000 Suppressor,Ballistic Solutions Inc.,C,800,8,1,1,54,4,8,6,11020,None
+EMP-200 Suppressor,Ballistic Solutions Inc.,A,800,2,36,5,42,4,2,2,28975,(Rank 3)
+EMP-80 Suppressor,Ballistic Solutions Inc.,A,800,1,36,5,24,4,1,1,4417,None
+EMP-500 Suppressor,Ballistic Solutions Inc.,B,800,5,1,1,45,4,5,4,43320,None
+Firebolt 4000 Suppressor,Light Scythe,B,800,5,1,1,47,3,5,3,13775,(Rank 2)
+Flare 15MW IR Laser,Light Scythe,A,1250,3.49,4,14,N/A,3,1,1,1425,None
+Flare-P 15MW IR Pulse Laser,Light Scythe,A,1250,1,3,10,N/A,3,1,1,7576,None
+Fulminator 8000 Suppressor,Light Scythe,C,800,8,1,1,58,3,8,6,2968,None
+Hunter Mag-350 Missile Launcher,Horizon Defense,B,3750,3,55,55,N/A,3,3,4,5248,(Rank 1)
+Hunter Mag-450 Missile Launcher,Horizon Defense,B,3750,4,90,90,N/A,3,4,5,11875,(Rank 4)
+Infiltrator SC-01 Missile Launcher,Horizon Defense,A,3750,1,40,41,N/A,3,1,3,2375,(Rank 1)
+Infiltrator SC-02 Missile Launcher,Horizon Defense,A,3750,3,65,65,N/A,3,3,3,7148,(Rank 4)
+KE-20 Cannon,Ballistic Solutions Inc.,A,800,1,17,5,N/A,3,1,1,6863,None
+KE-20A Autocannon,Ballistic Solutions Inc.,A,800,1,12,4,N/A,3,1,1,14915,(Rank 1)
+KE-31 Cannon,Ballistic Solutions Inc.,A,1250,2,27,8,N/A,4,2,1,20710,(Rank 3)
+KE-31A Autocannon,Ballistic Solutions Inc.,A,1250,2,19,6,N/A,4,2,1,33440,(Rank 4)
+KE-42 Cannon,Ballistic Solutions Inc.,B,1250,4,31,9,N/A,3,4,4,13965,None
+KE-42 Cannon Turret,Ballistic Solutions Inc.,B,1500,4,45,14,N/A,4,4,4,27835,(Rank 3)
+KE-42A Autocannon,Ballistic Solutions Inc.,B,1250,4,20,6,N/A,4,4,4,22895,(Rank 2)
+KE-49 Cannon,Ballistic Solutions Inc.,B,1250,5,43,13,N/A,4,5,4,25935,(Rank 3)
+KE-49A Autocannon,Ballistic Solutions Inc.,B,1250,5,30,9,N/A,4,5,4,42750,(Rank 4)
+MKE-4 Gauss Gun,Ballistic Solutions Inc.,C,1250,7,51,15,N/A,3,7,6,13585,None
+MKE-4A Auto Gauss Gun,Ballistic Solutions Inc.,C,1250,7,24,7,N/A,3,7,6,21375,(Rank 1)
+MKE-9 Gauss Gun,Ballistic Solutions Inc.,C,1250,8,62,19,N/A,4,8,7,20140,(Rank 2)
+MKE-9A Auto Gauss Gun,Ballistic Solutions Inc.,C,1250,9,37,11,N/A,4,9,7,41990,(Rank 4)
+Marauder 114ANC Railgun,Horizon Defense,C,800,5,43,13,N/A,4,5,6,8835,None
+Marauder 114ANC Rapid Railgun,Horizon Defense,C,800,5,20,6,N/A,4,5,6,15010,None
+Marauder 115N Railgun,Horizon Defense,C,800,6,57,17,N/A,4,6,6,17195,(Rank 1)
+Marauder 115N Railgun Turret,Horizon Defense,C,800,6,81,24,N/A,4,6,6,31445,(Rank 3)
+Marauder 115N Rapid Railgun,Horizon Defense,C,800,7,33,10,N/A,4,7,7,35625,(Rank 3)
+Mauler 104L Autocannon,Horizon Defense,A,800,1,9,3,N/A,4,1,1,7030,None
+Mauler 105U Autocannon,Horizon Defense,A,800,1,14,4,N/A,4,1,1,20235,(Rank 2)
+Mauler 105U Cannon,Horizon Defense,A,800,1,20,6,N/A,4,1,1,11020,(Rank 1)
+Mauler 106S Shot-Cannon,Horizon Defense,B,800,2,48,14,N/A,4,2,3,4750,(Rank 4)
+Mauler 106T Autocannon,Horizon Defense,B,800,2,15,5,N/A,4,2,3,13015,None
+Mauler 106T Autocannon Turret,Horizon Defense,B,1000,2,17,5,N/A,4,2,3,17005,None
+Mauler 1071 Cannon,Horizon Defense,B,800,3,34,10,N/A,4,3,4,17005,(Rank 2)
+Mauler 1071 Autocannon,Horizon Defense,B,800,3,25,8,N/A,4,3,4,32870,(Rank 3)
+Mauler 106T Cannon,Horizon Defense,B,800,2,23,7,N/A,4,2,3,6056,None
+Mauler 104L Cannon,Horizon Defense,A,800,1,13,4,N/A,4,1,1,1306,None
+Nullifier 1750 Suppressor,Light Scythe,A,800,2,1,1,48,3,2,2,37145,(Rank 3)
+PB-100 Neutron Beam,Light Scythe,B,3000,3,23,23,N/A,3,3,4,7695,None
+PB-175 Helion Beam,Light Scythe,B,3000,4,29,29,N/A,3,4,5,13110,(Rank 2)
+PB-30 Electron Beam,Light Scythe,A,3000,1,13,13,N/A,3,1,1,3396,None
+PB-300 Alpha Beam,Light Scythe,C,3000,5,41,41,N/A,3,5,6,9143,None
+PB-50 Proton Beam,Ballistic Solutions Inc.,A,3000,2,21,21,N/A,4,2,3,13490,(Rank 3)
+PBO-100 Auto Neutron Beam,Ballistic Solutions Inc.,B,3000,3,14,14,N/A,3,3,N/A,12160,None
+PBO-100 Auto Neutron Turret,Ballistic Solutions Inc.,B,3000,3,16,16,N/A,3,3,N/A,15770,(Rank 1)
+PBO-175 Auto Helion Beam,Ballistic Solutions Inc.,B,3000,4,19,19,N/A,3,4,5,28025,(Rank 4)
+PBO-30 Auto Electron Beam,Ballistic Solutions Inc.,A,3000,1,9,9,N/A,3,1,1,8573,None
+PBO-300 Auto Alpha Beam,Ballistic Solutions Inc.,C,3000,5,19,19,N/A,3,5,6,14345,None
+PBO-300 Auto Alpha Turret,Ballistic Solutions Inc.,C,3000,5,22,22,N/A,3,5,6,18620,(Rank 1)
+PBO-40 Auto Electron Beam,Ballistic Solutions Inc.,A,3000,1,14,14,N/A,4,1,1,20520,(Rank 4)
+PBO-50 Auto Proton Beam,Ballistic Solutions Inc.,A,3000,2,15,15,N/A,4,2,3,22895,(Rank 3)
+Scorch 60MW Laser,Light Scythe,B,1250,4,8,25,N/A,4,4,3,7576,None
+Scorch-P 60MW Pulse Laser,Light Scythe,B,1250,4,10,32,N/A,4,4,3,12730,None
+Scorch-P 60MW Pulse Laser Turret,Light Scythe,B,1500,4,5,18,N/A,4,4,3,12730,(Rank 1)
+Scorch-S 80MW Pulse Laser Turret,Light Scythe,B,1500,4,8,25,N/A,4,4,3,11685,(Rank 4)
+Singe 4MW Laser,Light Scythe,A,1250,1,7,22,N/A,4,1,1,12160,(Rank 2)
+Singe-P 4MW Pulse Laser,Light Scythe,A,1250,1,5,16,N/A,4,1,1,21280,(Rank 3)
+Spark 750 Suppressor,Light Scythe,A,1000,1,1,1,30,3,1,1,12635,None
+Torch 250MW UV Laser,Light Scythe,B,1250,5,11,38,N/A,4,5,4,15295,(Rank 3)
+Torch-P 250MW UV Pulse Laser,Light Scythe,B,1250,5,8,25,N/A,4,5,4,28120,(Rank 3)
+Vanguard Ares Particle Cannon,Vanguard,C,3000,5,18,18,N/A,3,5,6,12920,None
+Vanguard Hellfire Autocannon,Vanguard,C,800,1,18,5,N/A,2,1,1,2612,None
+Vanguard Obliterator Atitaonroiector,Vanguard,A,3000,6.65,11,11,N/A,1,1,1,13395,None
+Vanguard Starseeker Pulse Laser,Vanguard,C,1000,6,8,21,N/A,4,6,6,36290,None
+Vanguard Tempest CE-13 Missile Launcher,Vanguard,A,4000,1,33,30,N/A,6,1,1,1425,None

@@ -1,0 +1,66 @@
+Name,Brand,Class,Max Power,Engine Thrust,Maneuvering Thrust,Engine Health,Crew Capacity,Hull,Mass,Value,Requires
+Amun-1 Engine,Amun Dunn,A,2,5660,1550,50,0.25,5,100,4370,None
+Amun-2 Engine,Amun Dunn,A,2,7440,1830,61,0.25,5,99,5890,None 
+Amun-3 Engine,Amun Dunn ,A,2,9200,1900,71,0.25,5,98,7885,None
+Amun-4 Engine,Amun Dunn ,A,2,10800,1960,79,0.25,5,97,10260,(Rank 1)
+Ares DT10 Engine,Panoptes,A,2,5660,1800,45,0.25,5,90,4370,None 
+Ares DT20 Engine,Panoptes ,A,2, 7440,1950,55,0.25,5,89,5795,None 
+Ares DT30 Engine,Panoptes ,A,2,9200,2050,64,0.25,5,88,7695,None 
+Ares DT40 Engine,Panoptes,A,2,10800,2200,71,0.25,5,87,10070,(Rank 1)
+Ares DT50 Engine,Panoptes,A,2,12400,2430,77,0.25,5,86,13395,(Rank 2)
+Ares DT60 Engine,Panoptes,A,2,14000,2600,83,0.25,5,85,17765,(Rank 3)
+White Dwarf 1000 Engine,Reladyne,A,3,4650,2445,48,0.25,5,100,3325,None
+White Dwarf 1010 Engine,Reladyne ,A,3 ,7950,2535,48,0.25,5,99,4227,None
+White Dwarf 1020 Engine,Reladyne ,A,3 ,8850,2650,48,0.25,5,99,4560,None 
+White Dwarf 2000 Engine,Reladyne ,A,3 ,10500,1785,58,0.25,5,98,5272,None
+White Dwarf 2010 Engine,Reladyne ,A,3 ,11340,2130,67,0.25,5,97,6032,None 
+White Dwarf 2020 Engine,Reladyne ,A ,3 ,12180,2400,67,0.25,5,97,6555,(Rank 1)
+White Dwarf 3000 Engine,Reladyne ,A,3 ,15270,2820,75,0.25,5,96,9215,(Rank 1)
+Dunn-11 Engine,Amun Dunn,B,3,14220,3150,102,0.25,5,150,9690,None
+Dunn-21 Engine,Amun Dunn ,B,3,15540,3300,106,0.25,5,149,11210,(Rank 1)
+Hercules DT110 Engine,Panoptes,B,3,14220,3300,92,0.25,5,145,9215,None 
+Hercules DT120 Engine,Panoptes,B,3,15540,4050,95,0.25,5,144,10735,(Rank 1)
+Nova 1000 Engine,Reladyne,B,3,12870,3375,100,0.25,5,145,8692,None 
+Nova 1010 Engine,Reladyne ,B,3,14070,3540,105,0.25,5,144,9975,(Rank 1)
+Amun Dunn X-100 Engine,Amun Dunn,C,3,19530,6600,144,0.25,5,340,22135,(Rank 1) 
+Poseidon DT210 Engine,Panoptes ,C,4,26040,7600,129,0.25,5,336,19380,(Rank 1)
+Supernova 2000 Engine,Reladyne,C,3,17670,6450,136,0.25,5,334,18145,(Rank 1) 
+Amun-5 Engine,Amun Dunn,A,2,12400,2040,86,0.25,5,96,13585,(Rank 2)
+Amun-6 Engine,Amun Dunn,A,2,14000,2120,93,0.25,5,95,18050,(Rank 3) 
+Amun-7 Engine,Amun Dunn ,A,2,15400,2200,97,0.25,5,94,23180,(Rank 3) 
+White Dwarf 2030 Engine,Reladyne,A,3,13020,2700,67,0.25,5,97,7172,(Rank 2)
+White Dwarf 3010 Engine,Reladyne,A,3,17670,2940,82,0.25,5,95,12065,(Rank 2)
+White Dwarf 3015 Engine,Reladyne ,A,3,20460,3150,41,0.25,5,95,15295,(Rank 4)
+White Dwarf 3020 Engine,Reladyne,A,3,19920,3060,88,0.25,5,94,15770,(Rank 2)
+White Dwarf 3030 Engine,Reladyne ,A,3,21930,3210,92,0.25,5,93,19950,(Rank 3)
+Dunn-31 Engine,Amun Dunn,B,3,17670,3600,111,0.25,5,148,13965,(Rank 2)
+Dunn-41 Engine,Amun Dunn,B,3,19920,4200,116,0.25,5,147,17955,(Rank 3)
+Dunn-51 Engine,Amun Dunn,B,3,22170,4740,122,0.25,5,146,23370,(Rank 3)
+Dunn-61 Engine,Amun Dunn,B,3,24300,4950,127,0.25,5,145,29830,(Rank 3) 
+Dunn-71 Engine,Amun Dunn,B,3,26580,5250,133,0.25,5,144,39140,(Rank 4) 
+Hercules DT130 Engine,Panoptes,B,3,17670,4050,99,0.25,5,143,13300,(Rank 2) 
+Hercules DT140 Engine,Panoptes,B,3,19920,3150,104,0.25,5,142,16720,(Rank 3) 
+Hercules DT150 Engine,Panoptes,B,3,22170,3750,109,0.25,5,141,21755,(Rank 3) 
+Hercules DT160 Engine,Panoptes ,B,3,24300,4650,114,0.25,5,140,28405,(Rank 4) 
+Nova 1020 Engine,Reladyne,B,3,16080,3720,110,0.25,5,143,12160,(Rank 2)
+Nova 1030 Engine,Reladyne ,B,3,18060,3915,115,0.25,5,142,14915,(Rank 3)
+Nova 1040 Engine,Reladyne ,B,3,20190,4200,121,0.25,5,141,18905,(Rank 3)
+Nova 1050 Engine,Reladyne ,B,3,22170,4500,126,0.25,5,140,23655,(Rank 4) 
+Amun Dunn X-200 Engine,Amun Dunn,C,3,21240,7200,150,0.25,5,338,26790,(Rank 3) 
+Amun Dunn X-300 Engine,Amun Dunn,C,3,25890,8400,156,0.25,5,336,42845,(Rank 4) 
+Poseidon DT220 Engine,Panoptes,C,4,28320,9600,135,0.25,5,335,24415,(Rank 3)
+Poseidon DT230 Engine,Panoptes ,C,4,34520,11600,140,0.25,5,334,40280,(Rank 4)
+Supernova 2100 Engine,Reladyne,C,3,21120,7050,142,0.25,5,334,25080,(Rank 3)
+Supernova 2200 Engine,Reladyne ,C,3,25770,7650,148,0.25,5,333,39900,(Rank 4)
+SA-4110,Slayton Aerospace,A,2,12220,2930,78,0.25,5,90,13720,Starship Design (Rank 1)
+SA-4220,Slayton Aerospace,A,2,13820,3060,84,0.25,5,88,18130,Starship Design (Rank 3)
+SA-4330,Slayton Aerospace,A,2,15240,3220,88,0.25,5,85,23422,Starship Design (Rank 4)
+SAE-5110,Slayton Aerospace,B,3,14070,4440,92,0.25,5,140,9800, 
+SAE-5220,Slayton Aerospace,B,3,15270,4590,95,0.25,5,139,11074,Starship Design (Rank 2)
+SAE-5330,Slayton Aerospace,B,3,17670,4830,99,0.25,5,138,14112,Starship Design (Rank 2)
+SAE-5440,Slayton Aerospace,B,3,19920,5040,104,0.25,5,137,17934,Starship Design (Rank 3)
+SAE-5550,Slayton Aerospace,B,3,22050,5340,109,0.25,5,136,22932,Starship Design (Rank 3)
+SAE-5660,Slayton Aerospace,B,3,24300,5550,114,0.25,5,135,29792,Starship Design (Rank 4)
+SAL-6110,Slayton Aerospace,C,2,13600,3800,129,0.25,5,300,21560,Starship Design (Rank 1)
+SAL-6220,Slayton Aerospace,C,2,15760,5800,135,0.25,5,330,32928,Starship Design (Rank 3)
+SAL-6330,Slayton Aerospace,C,2,18000,7800,140,0.25,5,340,52822,Starship Design (Rank 4)

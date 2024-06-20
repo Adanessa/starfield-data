@@ -1,0 +1,62 @@
+Name,Type,Effect,Name,Condition,Name,Effect
+Anti-Personnel,Weapon Perk,Damage against humans.,Anti-Personnel,,Anti-Personnel,Damage against humans.
+One Inch Punch,Weapon Perk,Gives the bullets shotgun-like spread.,One Inch Punch,,One Inch Punch,Gives the bullets shotgun-like spread.
+Bashing,Weapon Perk,Deals double damage when gun bashing.,Bashing,,Bashing,Deals double damage when gun bashing.
+Berserker,Weapon Perk,Does more damage the less armor one has,Berserker,,Berserker,Does more damage the less armor one has
+Concussive,Weapon Perk,Small chance to knock down targets,Concussive,,Concussive,Small chance to knock down targets
+Demoralizing,Weapon Perk,Small chance to demoralize a target.,Demoralizing,,Demoralizing,Small chance to demoralize a target.
+Disassembler,Weapon Perk,damage against Robots.,Disassembler,,Disassembler,damage against Robots.
+Elemental,Weapon Perk,"Randomly deals Corrosive, Radiation, Poison, and Incendiary damage.",Elemental,,Elemental,"Randomly deals Corrosive, Radiation, Poison, and Incendiary damage."
+Explosive,Weapon Perk,Randomly switches to explosive rounds,Explosive,,Explosive,Randomly switches to explosive rounds
+Exterminator,Weapon Perk,Damage against Aliens,Exterminator,,Exterminator,Damage against Aliens
+Furious,Weapon Perk,Each consecutive hit deals more damage.,Furious,,Furious,Each consecutive hit deals more damage.
+Hitman,Weapon Perk,Damage while aiming.,Hitman,,Hitman,Damage while aiming.
+Incendiary,Weapon Perk,Randomly deals incendiary damage.,Incendiary,,Incendiary,Randomly deals incendiary damage.
+Instigating,Weapon Perk,Deals double damage to targets with full health.,Instigating,,Instigating,Deals double damage to targets with full health.
+Lacerate,Weapon Perk,Randomly applies a bleed effect to the target.,Lacerate,,Lacerate,Randomly applies a bleed effect to the target.
+Radioactive,Weapon Perk,Randomly deals radioactive damage and demoralizes the target.,Radioactive,,Radioactive,Randomly deals radioactive damage and demoralizes the target.
+Rapid,Weapon Perk,increase in attack speed.,Rapid,,Rapid,increase in attack speed.
+Rapid,Weapon Perk,Increase in attack speed.,Rapid,,Rapid,Increase in attack speed.
+Shattering,Weapon Perk,Break through even the strongest armor.,Shattering,,Shattering,Break through even the strongest armor.
+Tesla,Weapon Perk,Round will sometimes emit electricity where they land that damages and slows nearby targets,Tesla,,Tesla,Round will sometimes emit electricity where they land that damages and slows nearby targets
+Cornered,Weapon Perk,Damage increases as health decreases.,Cornered,,Cornered,Damage increases as health decreases.
+Extended Magazine,Weapon Perk,Doubles the base magazine capacity,Extended Magazine,,Extended Magazine,Doubles the base magazine capacity
+Frenzy,Weapon Perk,Small chance to frenzy a target.,Frenzy,,Frenzy,Small chance to frenzy a target.
+Handloading,Weapon Perk,"Volatile rounds that are designed to pack a bigger punch, but aren't as stable and can fail on occassion.",Handloading,,Handloading,"Volatile rounds that are designed to pack a bigger punch, but aren't as stable and can fail on occassion."
+Poison,Weapon Perk,Randomly deals poison damage and slows the target.,Poison,,Poison,Randomly deals poison damage and slows the target.
+Skip Shot,Weapon Perk,Every fourth shot fires two projectiles at once.,Skip Shot,,Skip Shot,Every fourth shot fires two projectiles at once.
+Space-Adept,Weapon Perk,"damage while in space, and",Space-Adept,,Space-Adept,"damage while in space, and"
+Titanium Build,Weapon Perk,Premium build materials make this weapon light as a feather,Titanium Build,,Titanium Build,Premium build materials make this weapon light as a feather
+Antiseptic,Armor Perk,Airborne Resistance.,Antiseptic,,Antiseptic,Airborne Resistance.
+Bolstering,Armor Perk,Grants up to,Bolstering,,Bolstering,Grants up to
+Chameleon,Armor Perk,Blend with the environment while sneaking and not moving.,Chameleon,,Chameleon,Blend with the environment while sneaking and not moving.
+Combat Veteran,Armor Perk,Damage from human enemies,Combat Veteran,,Combat Veteran,Damage from human enemies
+Galvanized,Armor Perk,Corrosive Resistance,Galvanized,,Galvanized,Corrosive Resistance
+Incendiary,Armor Perk,chance to ignite nearby attackers,Incendiary,,Incendiary,chance to ignite nearby attackers
+Leadlined,Armor Perk,Radiation Resistance,Leadlined,,Leadlined,Radiation Resistance
+Liquid Cooled,Armor Perk,Thermal Resistance,Liquid Cooled,,Liquid Cooled,Thermal Resistance
+Mechanized,Armor Perk,Carry Capacity,Mechanized,,Mechanized,Carry Capacity
+O2 Filter,Armor Perk,Oxygen consumption,O2 Filter,,O2 Filter,Oxygen consumption
+Sturdy,Armor Perk,Incoming Melee Damage,Sturdy,,Sturdy,Incoming Melee Damage
+Repulsing,Armor Perk,+5% chance to disarm nearby attackers,Repulsing,,Repulsing,+5% chance to disarm nearby attackers
+Anti-Ballistic,Armor Perk,-15% incoming Physical damage from ranged weapons,Anti-Ballistic,,Anti-Ballistic,-15% incoming Physical damage from ranged weapons
+Reactive,Armor Perk,+10% chance to stagger nearby attackers,Reactive,,Reactive,+10% chance to stagger nearby attackers
+Resource Hauler,Armor Perk,Resources weigh 25% less,Resource Hauler,,Resource Hauler,Resources weigh 25% less
+Modified,Has 1–3 Mods.,,Modified,,Modified,
+Scout,One of the mods is Reflex Sight,,Scout,,Scout,
+Technophile,Has 4 Mods,,Technophile,,Technophile,
+Suppressed,One of the mods is a Suppressor,,Suppressed,,Suppressed,
+Smugglers,Has 3 Mods.,,Smugglers,,Smugglers,
+Converted,Has 4 Mods.,,Converted,,Converted,
+Assassins,Has 4 Mods and one of them is a Suppressor.,,Assassins,,Assassins,
+Boosted,Has 5 Mods.,,Boosted,,Boosted,
+Tacticians,Has 5 Mods and one of them is a Tactical Grip or a Tactical Stock,,Tacticians,,Tacticians,
+Overcharged,Has 5 Mods and non-ballistics weapon.,,Overcharged,,Overcharged,
+Professional,Has 6 Mods and one of them is a Suppressor.,,Professional,,Professional,
+Operator,Has 6 Mods,,Operator,,Operator,
+Commander,More than 6 Mods.,,Commander,,Commander,
+Common,Standard.,,Common,,Common,
+Calibrated,Better.,,Calibrated,,Calibrated,
+Refined,Even better.,,Refined,,Refined,
+Advanced,Even more better.,,Advanced,,Advanced,
+Superior,"Best. Reserved for Pirate Corsair, Ecliptic, Bounty Hunter, and Tracker's Alliance space suits.",,Superior,,Superior,

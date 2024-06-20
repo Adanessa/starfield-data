@@ -1,0 +1,42 @@
+Name,Brand,Class,Max Power,Shield Max Health,Regen Rate,Crew Capacity,Hull,Mass,Value,Requires
+10S Protector Shield Generator,Dogstar,A,3,310,10%,0.5,5,23,2137,None
+20S Protector Shield Generator,Dogstar,A,4,355,10%,0.5,5,24,3800,None
+30S Protector Shield Generator,Dogstar,A,5,420,10%,0.5,5,27,6317,None
+Marduk 1010-A Shield Generator,Protectorate Systems,A,4,405,10%,0.5,5,28,5747,None
+Marduk 1020-A Shield Generator,Protectorate Systems,A,5,485,10%,0.5,5,34,8930,(Rank 1)
+Deflector SG-10 Shield Generator,Sextant Systems,A,3,340,10%,0.5,5,25,3135,None
+Deflector SG-20 Shield Generator,Sextant Systems,A,4,375,10%,0.5,5,25,4512,None
+Deflector SG-30 Shield Generator,Sextant Systems,A,5,440,10%,0.5,5,32,6982,None
+11T Defender Shield Generator,Dogstar,B,5,505,7%,0.5,5,49,12825,None
+22T Defender Shield Generator,Dogstar,B,6,610,7%,0.5,5,57,17200,None
+Vanguard Bulwark Shield Generator,Vanguard,B,12,1450,6%,0.5,5,70,38475,None
+Osiris 2020-B Shield Generator,Protectorate Systems,B,6,570,7%,0.5,5,52,13205,None
+Warden SG-100 Shield Generator,Sextant Shield Systems,B,5,525,7%,0.5,5,46,13775,None
+Warden SG-200 Shield Generator,Sextant Shield Systems,B,6,690,7%,0.5,5,54,19855,(Rank 1)
+101D Guardian Shield Generator,Dogstar,C,6,680,5%,0.5,5,85,23845,None
+102D Guardian Shield Generator,Dogstar,C,8,850,5%,0.5,5,91,30495,(Rank 1)
+Assurance SG-1000 Shield Generator,Sextant Shield Systems,C,7,730,5%,0.5,5,90,25935,None
+Odin 3030-C Shield Generator,Protectorate Systems,C,8,805,5%,0.5,5,96,25080,None
+40S Protector Shield Generator,Dogstar,A,6,520,10%,0.5,5,30,10165,(Rank 2)
+50S Protector Shield Generator,Dogstar,A,7,650,10%,0.5,5,39,15200,(Rank 3)
+60S Protector Shield Generator,Dogstar,A,8,810,10%,0.5,5,45,20140,(Rank 4)
+Marduk 1030-A Shield Generator,Protectorate Systems,A,9,680,10%,0.5,5,40,15770,(Rank 3)
+Marduk 1040-A Shield Generator,Protectorate Systems,A,7,760,10%,0.5,5,42,18430,(Rank 4)
+Deflector SG-35 Shield Generator,Sextant Shield Systems,A,12,685,10%,0.5,5,40,13965,(Rank 4)
+Deflector SG-40 Shield Generator,Sextant Shield Systems,A,6,550,10%,0.5,5,37,11305,(Rank 2)
+Deflector SG-50 Shield Generator,Sextant Shield Systems,A,7,715,10%,0.5,5,40,17290,(Rank 3)
+Deflector SG-60 Shield Generator,Sextant Shield Systems,A,9,860,10%,0.5,5,48,21850,(Rank 4)
+28T Defender Shield Generator,Dogstar,B,12,1500,7%,0.5,5,90,38570,(Rank 4)
+33T Defender Shield Generator,Dogstar,B,9,890,7%,0.5,5,65,26600,(Rank 3)
+44T Defender Shield Generator,Dogstar,B,9,1035,7%,0.5,5,69,32205,(Rank 4)
+Osiris 2030-B Shield Generator,Protectorate Systems,B,8,830,7%,0.5,5,60,21755,(Rank 4)
+Osiris 2040-B Shield Generator,Protectorate Systems,B,8,995,7%,0.5,5,75,27645,(Rank 4)
+Warden SG-300 Shield Generator,Sextant Shield Systems,B,8,930,7%,0.5,5,62,28120,(Rank 3)
+Warden SG-400 Shield Generator,Sextant Shield Systems,B,10,1125,7%,0.5,5,71,35340,(Rank 4)
+103D Guardian Shield Generator,Dogstar,C,10,1095,5%,0.5,5,115,39425,(Rank 3)
+104D Guardian Shield Generator,Dogstar,C,12,1350,5%,0.5,5,129,46645,(Rank 4)
+Assurance SG-1800 Shield Generator,Sextant Shield Systems,C,12,1600,5%,0.5,5,160,45030,(Rank 4)
+Assurance SG-2000 Shield Generator,Sextant Shield Systems,C,10,975,5%,0.5,5,109,34770,(Rank 2)
+Assurance SG-3000 Shield Generator,Sextant Shield Systems,C,10,1190,5%,0.5,5,115,42940,(Rank 3)
+Odin 3040-C Shield Generator,Protectorate Systems,C,9,995,5%,0.5,5,103,32110,(Rank 2)
+Odin 3050-C Shield Generator,Protectorate Systems,C,11,1315,5%,0.5,5,116,43035,(Rank 4)

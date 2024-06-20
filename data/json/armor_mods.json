@@ -1,0 +1,152 @@
+[
+    {
+        "name": "Balanced Boostpack",
+        "type": "Pack Mod",
+        "effect": "Bootspack with balanced power output",
+        "materials": "Zero-G Gimbal x1 Monopropellant x2 Microsecond Regulator x1 Zero Wire x1"
+    },
+    {
+        "name": "Ballistic Shielding",
+        "type": "Helmet Mod",
+        "effect": "Increases Damage Resistance",
+        "materials": "Nickel x1 Cosmetic x1"
+    },
+    {
+        "name": "Ballistic Shielding (Spacesuit)",
+        "type": "Spacesuit Mod",
+        "effect": "Increases Damage Resistance",
+        "materials": "Fiber x2 Cosmetic x1"
+    },
+    {
+        "name": "Basic Boostpack",
+        "type": "Pack Mod",
+        "effect": "Entry-level boostpack",
+        "materials": "Monopropellant x1 Beryllium x2"
+    },
+    {
+        "name": "EM Shielding",
+        "type": "Helmet Mod",
+        "effect": "Increases Electromagnetic Resistance",
+        "materials": "Copper x1 Cosmetic x1 Tungsten x2"
+    },
+    {
+        "name": "EM Shielding (Spacesuit)",
+        "type": "Spacesuit Mod",
+        "effect": "Increase Electromagnetic Resistance",
+        "materials": "Copper x2 Polytextile x3 Cosmetic x2"
+    },
+    {
+        "name": "Emergency Aid",
+        "type": "Pack Mod",
+        "effect": "Administers emergency aiid whenihealth is low. Recharges a short time after use",
+        "materials": "Heart + x2 Sedative x3 Trauma Pack x2"
+    },
+    {
+        "name": "Energy Shielding",
+        "type": "Helmet Mod",
+        "effect": "Increases Energy Resistance",
+        "materials": "Polymer x1 Cosmetic x1 Tungsten x2"
+    },
+    {
+        "name": "Energy Shielding (Spacesuit)",
+        "type": "Spacesuit Mod",
+        "effect": "Increases Energy Resistance.",
+        "materials": "Adhesive x2 Polymer x2 Polytextile x3"
+    },
+    {
+        "name": "Exo Servos",
+        "type": "Spacesuit Mod",
+        "effect": "Increases Melee Damage",
+        "materials": "Semimetal Wafer x2 Positron Battery x1 Titanium x3"
+    },
+    {
+        "name": "Explosive Shielding",
+        "type": "Helmet Mod",
+        "effect": "Reduces damage from explosives",
+        "materials": "Adhesive x2 Sterile Nanotubes x1 Titanium x1"
+    },
+    {
+        "name": "Extra Capacity",
+        "type": "Pack Mod",
+        "effect": "Increases carrying capacity by 10 kilograms",
+        "materials": "Polymer x3 Aluminum x3 Sealant x2"
+    },
+    {
+        "name": "Gravitic Composites",
+        "type": "Helmet Mod",
+        "effect": "Reduces detection from enemies",
+        "materials": "Microsecond Regulator x1 Caelumite x3 Adhesive x2"
+    },
+    {
+        "name": "Gravitic Composites (Spacesuits)",
+        "type": "Spacesuit Mod",
+        "effect": "Reduces detection from enemies",
+        "materials": "Adhesive x3 Caelumite x4 Microsecond Regulator x1"
+    },
+    {
+        "name": "Hazard Protection",
+        "type": "Pack Mod",
+        "effect": "Increases resistance to Airborne, Thermal, Corrosive, and Radiation hazards",
+        "materials": "Biosuppressant x2 Isotopic Coolant x1 Lead x2 Molecular Sieve x1"
+    },
+    {
+        "name": "Heavy Shielding",
+        "type": "Helmet Mod",
+        "effect": "Increases all Damage Resistance",
+        "materials": "Adhesive x1 Polymer x1 High-Tensile Spidroin x1 Tungsten x1"
+    },
+    {
+        "name": "Heavy Shielding (Spacesuits)",
+        "type": "Spacesuit Mod",
+        "effect": "Increases all Damage Resistance",
+        "materials": "Tungsten x2 High-Tensile Spidroin x2 Adhesive x2 Polymer x1"
+    },
+    {
+        "name": "Medic",
+        "type": "Pack Mod",
+        "effect": "Aid tems restore additional health and heal more quickly",
+        "materials": "Analgesic x2 Med Pack x2"
+    },
+    {
+        "name": "Optimized Servos",
+        "type": "Spacesuit Mod",
+        "effect": "Reduces Oxygen cost for sprinting",
+        "materials": "Positron Battery x2 Microsecond Regulator x1"
+    },
+    {
+        "name": "Oxygen Reserve",
+        "type": "Pack Mod",
+        "effect": "+10% oxygen capacity",
+        "materials": "Reactive Gauge x1 Mag Pressure Tank x1"
+    },
+    {
+        "name": "Pocketed",
+        "type": "Spacesuit Mod",
+        "effect": "Increases carrying capacity",
+        "materials": "Sealant x2 Adhesive x1 Polytextile x1"
+    },
+    {
+        "name": "Power Boostpack",
+        "type": "Pack Mod",
+        "effect": "Bootspack with increased power output, ideal for navigating high-gravity enviroments",
+        "materials": "Zero-G Gimbal x1 Monopropellant x3 Tau Grade Rheostat x1 Beryllium x3"
+    },
+    {
+        "name": "Regeneration",
+        "type": "Pack Mod",
+        "effect": "Slowly regenerate health outside of combat",
+        "materials": "Positron Battery x1 Amino Acid x3 Hypercatalyst x3 Emergency Kit x2"
+    },
+    {
+        "name": "Sensor Array",
+        "type": "Helmet Mod",
+        "effect": "Increases the range for enemy detection on the Compass",
+        "materials": "Positron Battery x1 Adhesive x2 Zero Wire x1"
+    },
+    {
+        "name": "Skip Capacity Boostpack",
+        "type": "Pack Mod",
+        "effect": "Bootspack with low-duration, high-intensity output, sacrificing boost height for mobility",
+        "materials": "Zero-G Gimbal x1 Monopropellant x2 Beryllium x2"
+    }
+]

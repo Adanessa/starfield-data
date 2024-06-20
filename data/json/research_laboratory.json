@@ -1,0 +1,562 @@
+[
+    {
+        "research Project": "Medical Treatment 1",
+        "required Materials": "Aluminum x 2 Amino Acids x 2 Antimicrobial x 3",
+        "required Skills": "None",
+        "crafting Unlocked": "Antibiotic Paste Infused Bandages",
+        "required Research": "None"
+    },
+    {
+        "research Project": "Medical Treatment 2",
+        "required Materials": "Amino Acids x 10 Analgesic x 10 Antimicrobial x 10 Battlestim x 5 Heart + x 5",
+        "required Skills": "Rank 1",
+        "crafting Unlocked": "Analgesic Poultice Boudicca",
+        "required Research": "Medical Treatment 1"
+    },
+    {
+        "research Project": "Medical Treatment 3",
+        "required Materials": "Antibiotics x 10 Metabolic Agent x 20 Sealant x 10 Sedative x 10",
+        "required Skills": "Rank 2",
+        "crafting Unlocked": "Antibiotic Injector Repairing Immobilizer",
+        "required Research": "Medical Treatment 2"
+    },
+    {
+        "research Project": "Medical Treatment 4",
+        "required Materials": "Immunostimulant x 2 Membrane x 8 Heart+ x 4 Trauma Pack x 4",
+        "required Skills": "Rank 3",
+        "crafting Unlocked": "",
+        "required Research": "Medical Treatment 3"
+    },
+    {
+        "research Project": "Innovative Synthesis 1",
+        "required Materials": "Alien Genetic Material x 1 Carboxylic Acids x 2 Mercury x 4 Solvent x 2 Tetrafluorides x 2",
+        "required Skills": "Chemistry Rank 3 Special Projects Rank 1",
+        "crafting Unlocked": "",
+        "required Research": ""
+    },
+    {
+        "research Project": "Innovative Synthesis 2",
+        "required Materials": "Alien Genetic Material x 2 Carboxylic Acids x 4 Mercury x 4 Solvent x 2 Aurora x 2 Dwarf Star Heart x 2",
+        "required Skills": "",
+        "crafting Unlocked": "",
+        "required Research": "Innovative Synthesis 1"
+    },
+    {
+        "research Project": "Innovative Synthesis 3",
+        "required Materials": "",
+        "required Skills": "",
+        "crafting Unlocked": "",
+        "required Research": "Innovative Synthesis 2"
+    },
+    {
+        "research Project": "Performance Enhancement 1",
+        "required Materials": "Argon x 2 Metabolic Agent x 3 Tetrafluorides x 2",
+        "required Skills": "None",
+        "crafting Unlocked": "AMP Red Trench",
+        "required Research": "None"
+    },
+    {
+        "research Project": "Performance Enhancement 2",
+        "required Materials": "Carboxylic Acids x 10 Hippolyta x 5 Infantry Alpha x 5 Membrane x 5 Solvent x 10",
+        "required Skills": "Rank 1",
+        "crafting Unlocked": "Panopticon Paramour",
+        "required Research": "Performance Enhancement 1"
+    },
+    {
+        "research Project": "Performance Enhancement 3",
+        "required Materials": "Ionic Liquids x 4 Stimulant x 4 Toxin x 4 Squall x 2 Synapse Alpha x 2",
+        "required Skills": "",
+        "crafting Unlocked": "",
+        "required Research": "Performance Enhancement 2"
+    },
+    {
+        "research Project": "Performance Enhancement 4",
+        "required Materials": "Stimulant x 8 Aurora x 4 CQB-X x 4 Squall x 4 Whiteout x 3",
+        "required Skills": "",
+        "crafting Unlocked": "",
+        "required Research": "Performance Enhancement 3"
+    },
+    {
+        "research Project": "",
+        "required Materials": "",
+        "required Skills": "",
+        "crafting Unlocked": "",
+        "required Research": ""
+    },
+    {
+        "research Project": "Beverage Development 1",
+        "required Materials": "Water x 3 Fiber x 3 Spice x 2",
+        "required Skills": "None",
+        "crafting Unlocked": "Alien Tonic Boba Alien Tea Yellow Giant Splash",
+        "required Research": "None"
+    },
+    {
+        "research Project": "Beverage Development 2",
+        "required Materials": "Aromatic x 5 Benzene x 5 Metabolic Agent x 10 Spice x 5 Tranquilitea Sunray x 5",
+        "required Skills": "Rank 1",
+        "crafting Unlocked": "Alien Energy Drink Sunray Tonic",
+        "required Research": "Beverage Development 1"
+    },
+    {
+        "research Project": "Beverage Development 3",
+        "required Materials": "Spice x 4 Nutrient x 4 Dairy x 4 Fiber x 8 Water x 8 Cafe x 4",
+        "required Skills": "",
+        "crafting Unlocked": "Alien Broth Bullet Coffee",
+        "required Research": "Beverage Development 2"
+    },
+    {
+        "research Project": "Beverage Development 4",
+        "required Materials": "Spice x 12 Tea x 4 Water x 12 BOOM POP! Black Licorice x 4 BOOM POP! Root Beer x 8 BOOM POP! Cola x 8",
+        "required Skills": "",
+        "crafting Unlocked": "Chai Latte Boom Pop! Dynamite",
+        "required Research": "Beverage Development 3"
+    },
+    {
+        "research Project": "Mixology 1",
+        "required Materials": "Alkanes x 2 Aromatic x 2 Spice x 3",
+        "required Skills": "None",
+        "crafting Unlocked": "Alien Liquor",
+        "required Research": "None"
+    },
+    {
+        "research Project": "Mixology 2",
+        "required Materials": "Aromatic x 10 Can-uck! Poutine x 5 Liquor x 5 Spice x 10",
+        "required Skills": "Rank 1",
+        "crafting Unlocked": "Colonel's Choice Lumberjack Julep",
+        "required Research": "Mixology 1"
+    },
+    {
+        "research Project": "Mixology 3",
+        "required Materials": "Aromatic x 8 Dairy x 4 Liquor x 4 Soda x 4",
+        "required Skills": "",
+        "crafting Unlocked": "Disastrous Shipwreck Very Heavy Water",
+        "required Research": "Mixology 2"
+    },
+    {
+        "research Project": "Mixology 4",
+        "required Materials": "Tomato x 4 Spice x 10 Liquor x 8",
+        "required Skills": "",
+        "crafting Unlocked": "Big Bloody Mary",
+        "required Research": "Mixology 3"
+    },
+    {
+        "research Project": "Old Earth Cuisine 1",
+        "required Materials": "Breadx 3 Cheese x 2 Red Meatx 2",
+        "required Skills": "None",
+        "crafting Unlocked": "Meatloaf Reuben",
+        "required Research": "None"
+    },
+    {
+        "research Project": "Old Earth Cuisine 2",
+        "required Materials": "Butter x 5 Cheese x 5 Egg x 5 Poultry x 5 Spice x 5",
+        "required Skills": "Rank 1",
+        "crafting Unlocked": "Carbonara Chicken Marsala Latkes",
+        "required Research": "Old Earth Cuisine 1"
+    },
+    {
+        "research Project": "Old Earth Cuisine 3",
+        "required Materials": "Spice x 4 Nutrient x 8 Beer x 4 Poultry x 4 Dairy x 4 Egg x 4",
+        "required Skills": "",
+        "crafting Unlocked": "Barbacoa Wrap Chapaguri Chicken Tikka",
+        "required Research": "Old Earth Cuisine 2"
+    },
+    {
+        "research Project": "Old Earth Cuisine 4",
+        "required Materials": "Spice x 8 Nutrient x 16 Bread x 4 Poultry x 4 Beans x 4 Butter x 4 Noodles x 4",
+        "required Skills": "",
+        "crafting Unlocked": "Dal Makhani Doro Wat Pappardelle Bolognese",
+        "required Research": "Old Earth Cuisine 3"
+    },
+    {
+        "research Project": "Exotic Recipes 1",
+        "required Materials": "Aromatic x 3 Spice x 3 Fiber x 3 Nutrient x 3 Noodles x 2",
+        "required Skills": "Rank 4",
+        "crafting Unlocked": "Alien Kebab Alien Stir-Fry Crispy Alien Nuggets",
+        "required Research": "Old Earth Cuisine 4"
+    },
+    {
+        "research Project": "Exotic Recipes 2",
+        "required Materials": "Aromatic x 4 Spice x 4 Membrane x 4 Egg x 3 Red Meat x 3 Wine x 2",
+        "required Skills": "",
+        "crafting Unlocked": "Alien Stew Creature Jam Xenowurst",
+        "required Research": "Exotic Recipes 1"
+    },
+    {
+        "research Project": "Exotic Recipes 3",
+        "required Materials": "Quark-D. Tissues x 2 Aromatic x 4 Fiber x 8 Wine x 4 Butter x 4",
+        "required Skills": "",
+        "crafting Unlocked": "Alien Pie Star Cluster Marsala Stellar Kebabs",
+        "required Research": "Exotic Recipes 2"
+    },
+    {
+        "research Project": "Exotic Recipes 4",
+        "required Materials": "Quark-D. Tissues x 4 Spice x 12 Nutrient x 16 Egg x 8 Bread x 4 Noodles x 8 Beans x 4",
+        "required Skills": "",
+        "crafting Unlocked": "Galaxy Lo Mein Nebula Wat",
+        "required Research": "Exotic Recipes 3"
+    },
+    {
+        "research Project": "",
+        "required Materials": "",
+        "required Skills": "",
+        "crafting Unlocked": "",
+        "required Research": ""
+    },
+    {
+        "research Project": "Decoration 1",
+        "required Materials": "Fiber x 3 Ornamental x 2 Structural x 3",
+        "required Skills": "None",
+        "crafting Unlocked": "Additional Furnitureand Decorations",
+        "required Research": "None"
+    },
+    {
+        "research Project": "Decoration 2",
+        "required Materials": "Adhesive x 10 Aluminum x 10 Fiber x 10 Pigment x 10 Structural x 10",
+        "required Skills": "Rank 1",
+        "crafting Unlocked": "Additional FurnitureandDecorations",
+        "required Research": "Decoration 1"
+    },
+    {
+        "research Project": "Decoration 3",
+        "required Materials": "Structural x 12 Aluminum x 12 Fiber x 8 Nickel x 8 Adhesive x 12 Luxury Textile x 2",
+        "required Skills": "Outpost Engineering Rank 2 Zoology Rank 1",
+        "crafting Unlocked": "Additional Furniture and Decorations",
+        "required Research": "Decoration 2"
+    },
+    {
+        "research Project": "Domestication 1",
+        "required Materials": "Adaptive Frame x 10 Adhesive x 10 Aluminum x 30 Molecular Sieve x 5 Sealant x 10",
+        "required Skills": "Outpost Engineering Rank 1 Zoology Rank 1",
+        "crafting Unlocked": "Commercial Animal Husbandry",
+        "required Research": "None"
+    },
+    {
+        "research Project": "Domestication 2",
+        "required Materials": "Substrate Molecule Sieve x 3 Adaptive Frame x 8 Aluminum x 16 Sealant x 12 Adhesive x 12 Hypercatalyst x 4",
+        "required Skills": "",
+        "crafting Unlocked": "",
+        "required Research": "Domestication 1"
+    },
+    {
+        "research Project": "Horticulture 1",
+        "required Materials": "Adaptive Frame x 10 Mag Pressure Tank x 8 Metabolic Agent x 10 Nutrient x 10 Tungsten x 10",
+        "required Skills": "Outpost Engineering Rank 1 Botany Rank 1",
+        "crafting Unlocked": "Commercial Greenhouse",
+        "required Research": "None"
+    },
+    {
+        "research Project": "Horticulture 2",
+        "required Materials": "Mag Pressure Tank x 4 Adaptive Frame x 8 Tungsten x 8 Nutrient x 12 Metabolic Agent x 12 Amino Acids x 4",
+        "required Skills": "",
+        "crafting Unlocked": "",
+        "required Research": "Horticulture 1"
+    },
+    {
+        "research Project": "Manufacturing 1",
+        "required Materials": "Adaptive Frame x 3 Iron x 3 Sealant x 3 Zero Wire x 2",
+        "required Skills": "None",
+        "crafting Unlocked": "Inter-System Cargo Links Simple Fabricators Small Warehouse modules",
+        "required Research": "None"
+    },
+    {
+        "research Project": "Manufacturing 2",
+        "required Materials": "Adaptive Frame x 10 Iron x 30 Lubricant x 10 Reactive Gauge x 5 Sealant x 20 Tungsten x 20 Zero Wire x 10",
+        "required Skills": "Rank 1",
+        "crafting Unlocked": "Compound Fabricators Medium Storage modules",
+        "required Research": "Manufacturing 1"
+    },
+    {
+        "research Project": "Manufacturing 3",
+        "required Materials": "Zero Wire x 8 Reactive Gauge x 4 Positron Battery x 2 Adaptive Frame x 2 Iron x 16 Tungsten x 12 Sealant x 12 Lubricant x 4",
+        "required Skills": "",
+        "crafting Unlocked": "",
+        "required Research": "Manufacturing 2"
+    },
+    {
+        "research Project": "Power Generation 1",
+        "required Materials": "Adaptive Frame x 10 Cobalt x 10 Copper x 20 Isocentered Magnet x 8 Silver x 30 Zero Wire x 10",
+        "required Skills": "Rank 1",
+        "crafting Unlocked": "Advanced Wind Turbines",
+        "required Research": "None"
+    },
+    {
+        "research Project": "Power Generation 2",
+        "required Materials": "Zero Wire x 8 Tau Grade Rheostat x 2 Supercooled Magnet x 1 Power Circuit x 1 Caesium x 8 Beryllium x 12 Titanium x 12",
+        "required Skills": "",
+        "crafting Unlocked": "",
+        "required Research": "Power Generation 2"
+    },
+    {
+        "research Project": "Power Generation 3",
+        "required Materials": "Paramagnon Conductor x 4 Tau Grade Rheostat x 4 Isotopic Coolant x 4 Nuclear Fuel Rod x 4 Control Rod x 3 Supercooled Magnet x 2 Power Circuit x 2 Tungsten x 12 Lead x 12",
+        "required Skills": "Rank 3",
+        "crafting Unlocked": "",
+        "required Research": ""
+    },
+    {
+        "research Project": "Power Generation 4",
+        "required Materials": "Tasine Superconductor x 3 Tau Grade Rheostat x 12 Isotopic Coolant x 8 Vytinium Fuel Rod x 4 Control Rod x 4 Rothicite x 2 Power Circuit x 4 Tungsten x 16 Lead x 20",
+        "required Skills": "Outpost Engineering Rank 3 Special Projects Rank 1",
+        "crafting Unlocked": "",
+        "required Research": "Power Generation 3"
+    },
+    {
+        "research Project": "Resource Extraction 1",
+        "required Materials": "Adaptive Frame x 10 Aluminum x 30 Chlorosilanes x 10 Copper x 20 Drilling Rig x 5 Mag Pressure Tank x 8",
+        "required Skills": "Rank 1",
+        "crafting Unlocked": "Commercial Extractors",
+        "required Research": "None"
+    },
+    {
+        "research Project": "Resource Extraction 2",
+        "required Materials": "Adaptive Frame x 20 Aldumite Drilling Rig x 5 Aluminum x 40 Caesium x 20 Chlorosilanes x 20 Microsecond Regulator x 8",
+        "required Skills": "Rank 2",
+        "crafting Unlocked": "Industrial Extractors",
+        "required Research": "Resource Extraction 1"
+    },
+    {
+        "research Project": "Robots 1",
+        "required Materials": "Aluminum x 3 Beryllium x 3 Zero Wire x 2",
+        "required Skills": "None",
+        "crafting Unlocked": "Garden Mini bot Engineering Robot Sanitation Mini bot",
+        "required Research": "None"
+    },
+    {
+        "research Project": "Robots 2",
+        "required Materials": "Austenitic Manifold x 8 Chlorosilanes x 30 Cobalt x 30 Polymer x 10 Positron Battery x 8 Titanium x 30 Zero Wire x 30",
+        "required Skills": "Rank 1",
+        "crafting Unlocked": "Logistics Robot Power Management Robot",
+        "required Research": "Robots 1"
+    },
+    {
+        "research Project": "Robots 3",
+        "required Materials": "Positron Battery x 8 Zero Wire x 30 Austenitic Manifold x 8 Titanium x 30 Chlorosinales x 30 Cobalt x 30 Polymer x 20",
+        "required Skills": "",
+        "crafting Unlocked": "",
+        "required Research": ""
+    },
+    {
+        "research Project": "Outpost Defense 1",
+        "required Materials": "Aluminum x 30 Copper x 5 Fluorine x 5 Positron Battery x 3 Titanium x 10 Zero Wire x 8",
+        "required Skills": "Rank 2",
+        "crafting Unlocked": "Security Mini bot Turret Mk II",
+        "required Research": "None"
+    },
+    {
+        "research Project": "Outpost Defense 2",
+        "required Materials": "Positron Battery x 3 Veryl-Treated Manifold x 1 Power Circuit x 1 Titanium x 12 Aluminum x 16 Copper x 4 Neon x 4",
+        "required Skills": "",
+        "crafting Unlocked": "",
+        "required Research": "Outpost Defense 1 Robots 2"
+    },
+    {
+        "research Project": "",
+        "required Materials": "",
+        "required Skills": "",
+        "crafting Unlocked": "",
+        "required Research": ""
+    },
+    {
+        "research Project": "Helmet Mods 1",
+        "required Materials": "Cosmetic x 2 Polymer x 3 Tungsten x 3",
+        "required Skills": "None",
+        "crafting Unlocked": "Helmet Mods",
+        "required Research": "None"
+    },
+    {
+        "research Project": "Helmet Mods 2",
+        "required Materials": "Adhesive x 10 Positron Battery x 5 Sterile Nanotubes x 5 Titanium x 10 Zero Wire x 8",
+        "required Skills": "Rank 1",
+        "crafting Unlocked": "Improved",
+        "required Research": "Helmet Mods 1"
+    },
+    {
+        "research Project": "Helmet Mods 3",
+        "required Materials": "Microsecond Regulator x 8 Indicite Wafer x 5 High-Tensile Spidroin x 8 Caelumite x 10 Tungsten x 30 Polymer x 10",
+        "required Skills": "",
+        "crafting Unlocked": "Improved",
+        "required Research": "Helmet Mods 2"
+    },
+    {
+        "research Project": "Pack Mods 1",
+        "required Materials": "Aluminum x 10 Beryllium x 10 Mag Pressure Tank x 8 Monopropellant x 5",
+        "required Skills": "Rank 1",
+        "crafting Unlocked": "Improved",
+        "required Research": "None"
+    },
+    {
+        "research Project": "Pack Mods 2",
+        "required Materials": "Beryllium x 10 Monopropellant x 10 Polymer x 8 Sealant x 10 Zero-G Gimbal x 5",
+        "required Skills": "Rank 2",
+        "crafting Unlocked": "Superior",
+        "required Research": "Pack Mods 1"
+    },
+    {
+        "research Project": "Pack Mods 3",
+        "required Materials": "Zero-G Gimbal x 10 Monopropellant x 20 Tau Grade Rheostat x 10 Beryllium x 20 Biosuppressant x 10 Amino Acids x 20",
+        "required Skills": "Rank 3",
+        "crafting Unlocked": "",
+        "required Research": "Pack Mods 2"
+    },
+    {
+        "research Project": "Spacesuit Mods 1",
+        "required Materials": "Copper x 5 Cosmetic x 5 Polytextile x 8",
+        "required Skills": "Rank 1",
+        "crafting Unlocked": "Improved",
+        "required Research": "None"
+    },
+    {
+        "research Project": "Spacesuit Mods 2",
+        "required Materials": "Adhesive x 10 Polytextile x 10 Positron Battery x 5 Semimetal Wafer x 5 Titanium x 10",
+        "required Skills": "Rank 2",
+        "crafting Unlocked": "Superior",
+        "required Research": "Spacesuit Mods 1"
+    },
+    {
+        "research Project": "Spacesuit Mods 3",
+        "required Materials": "Microsecond Regulator x 8 Indicite Wafer x 5 Positron Battery x 8 Caelumite x 10 Tungsten x 30 Lubricant x 20",
+        "required Skills": "",
+        "crafting Unlocked": "Superior",
+        "required Research": "Spacesuit Mods 2"
+    },
+    {
+        "research Project": "",
+        "required Materials": "",
+        "required Skills": "",
+        "crafting Unlocked": "",
+        "required Research": ""
+    },
+    {
+        "research Project": "Barrel Mods 1",
+        "required Materials": "Iron x 3 Nickel x 3 Sealant x 2",
+        "required Skills": "None",
+        "crafting Unlocked": "Barrel",
+        "required Research": "None"
+    },
+    {
+        "research Project": "Barrel Mods 2",
+        "required Materials": "Lubricant x 5 Nickel x 10 Tungsten x 5",
+        "required Skills": "Rank 1",
+        "crafting Unlocked": "ImprovedBarrel",
+        "required Research": "Barrel Mods 1"
+    },
+    {
+        "research Project": "Grip and Stock Mods 1",
+        "required Materials": "Aluminum x 3 Nickel x 3 Sealant x 3",
+        "required Skills": "None",
+        "crafting Unlocked": "Grip and Stock",
+        "required Research": "None"
+    },
+    {
+        "research Project": "Grip and Stock Mods 2",
+        "required Materials": "Adhesive x 10 Polymer x 5 Tungsten x 8",
+        "required Skills": "Rank 1",
+        "crafting Unlocked": "ImprovedGrip and Stock",
+        "required Research": "Grip and Stock Mods 1"
+    },
+    {
+        "research Project": "Grip and Stock Mods 3",
+        "required Materials": "Titanium x 4 Polymer x 4 Adhesive x 8",
+        "required Skills": "Rank 2",
+        "crafting Unlocked": "Improved Grip and Stock",
+        "required Research": "Grip and Stock Mods 2"
+    },
+    {
+        "research Project": "Internal Mods 1",
+        "required Materials": "Iridium x 8 Sealant x 10 Tungsten x 10 Zero Wire x 5",
+        "required Skills": "Rank 2",
+        "crafting Unlocked": "Superior Internal",
+        "required Research": "None"
+    },
+    {
+        "research Project": "Internal Mods 2",
+        "required Materials": "Isocentered Magnet x 3 Zero Wire x 3 Tantalum x 4 Titanium x 4 Adhesive x 4",
+        "required Skills": "Rank 3",
+        "crafting Unlocked": "Superior Internal",
+        "required Research": "Internal Mods 1"
+    },
+    {
+        "research Project": "Internal Mods 3",
+        "required Materials": "Power Circuit x 1 Zero Wire x 4 Europium x 8 Ytterbium x 4 Polymer x 4",
+        "required Skills": "Rank 4",
+        "crafting Unlocked": "Superior Internal",
+        "required Research": "Internal Mods 2"
+    },
+    {
+        "research Project": "Magazine and Battery Mods 1",
+        "required Materials": "Adhesive x 5 Lead x 8 Titanium x 5",
+        "required Skills": "Rank 2",
+        "crafting Unlocked": "Superior Magazine and Battery",
+        "required Research": "None"
+    },
+    {
+        "research Project": "Magazine and Battery Mods 2",
+        "required Materials": "Isocentered Magnet x 3 Tau Grade Rheostat x 3 Uranium x 4 Lead x 8 Adhesive x 4",
+        "required Skills": "",
+        "crafting Unlocked": "Superior Magazine and Battery",
+        "required Research": "Magazine and Battery Mods 1"
+    },
+    {
+        "research Project": "Magazine and Battery Mods 3",
+        "required Materials": "Positron Battery x 3 Toxin x 8 Ytterbium x 8 Lead x 12 Adhesive x 8",
+        "required Skills": "Weapon Engineering Rank 3 Special Projects Rank 1",
+        "crafting Unlocked": "Superior Magazine and Battery",
+        "required Research": "Magazine and Battery Mods 2"
+    },
+    {
+        "research Project": "Muzzle Mods 1",
+        "required Materials": "Sealant x 5 Titanium x 5 Tungsten x 10",
+        "required Skills": "Rank 1",
+        "crafting Unlocked": "Improved Muzzle",
+        "required Research": "None"
+    },
+    {
+        "research Project": "Muzzle Mods 2",
+        "required Materials": "Zero Wire x 3 Tantalum x 4 Titanium x 4 Polymer x 4",
+        "required Skills": "Rank 1",
+        "crafting Unlocked": "Improved Muzzle",
+        "required Research": "Muzzle Mods 1"
+    },
+    {
+        "research Project": "Muzzle Mods 3",
+        "required Materials": "Isotopic Coolant x 4 Ytterbium x4 Titanium x 8 Polymer x 4 Adhesive x 8",
+        "required Skills": "Weapon Engineering Rank 3 Special Projects Rank 1",
+        "crafting Unlocked": "Improved Muzzle",
+        "required Research": "Muzzle Mods 2"
+    },
+    {
+        "research Project": "Optic and Laser Mods 1",
+        "required Materials": "Aluminum x 3 Chlorosilanes x 2 Sealant x 3",
+        "required Skills": "None",
+        "crafting Unlocked": "Optic Mods Laser Mods",
+        "required Research": "None"
+    },
+    {
+        "research Project": "Optic and Laser Mods 2",
+        "required Materials": "Adhesive x 8 Aluminum x 10 Chlorosilanes x 8 Zero Wire x 8",
+        "required Skills": "Rank 1",
+        "crafting Unlocked": "Improved Optic Mods Improved Laser Mods",
+        "required Research": "Optic and Laser Mods 1"
+    },
+    {
+        "research Project": "Optic and Laser Mods 3",
+        "required Materials": "Zero Wire x 8 Vanadium x 16 Iridium x 16 Adhesive x 16",
+        "required Skills": "Rank 2",
+        "crafting Unlocked": "Improved Optic Mods Improved Laser Mods",
+        "required Research": "Optic and Laser Mods 2"
+    },
+    {
+        "research Project": "Receiver Mods 1",
+        "required Materials": "Isotopic Coolant x 5 Lubricant x 10 Microsecond Regulator x 3 Titanium x 30 Ytterbium x 30",
+        "required Skills": "Rank 1",
+        "crafting Unlocked": "Cutting-edge Receiver",
+        "required Research": "None"
+    },
+    {
+        "research Project": "Receiver Mods 2",
+        "required Materials": "",
+        "required Skills": "",
+        "crafting Unlocked": "Cutting-edge Receiver",
+        "required Research": "Receiver Mods 1"
+    }
+]

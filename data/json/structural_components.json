@@ -1,0 +1,338 @@
+[
+    {
+        "name": "Deimos Belly - Aft",
+        "brand": "Deimos",
+        "mass": "3",
+        "value": "500"
+    },
+    {
+        "name": "Deimos Belly - Fore",
+        "brand": "Deimos",
+        "mass": "3",
+        "value": "500"
+    },
+    {
+        "name": "Deimos Bow - Bottom",
+        "brand": "Deimos",
+        "mass": "15",
+        "value": "500"
+    },
+    {
+        "name": "Deimos Bow - Top",
+        "brand": "Deimos",
+        "mass": "15",
+        "value": "500"
+    },
+    {
+        "name": "Deimos Bracer A",
+        "brand": "Deimos",
+        "mass": "2",
+        "value": "500"
+    },
+    {
+        "name": "Deimos Braking Engine",
+        "brand": "Deimos",
+        "mass": "5",
+        "value": "625"
+    },
+    {
+        "name": "Porthole - Fore",
+        "brand": "Nova Galactic",
+        "mass": "1",
+        "value": "475"
+    },
+    {
+        "name": "Porthole - Port",
+        "brand": "Nova Galactic",
+        "mass": "1",
+        "value": "475"
+    },
+    {
+        "name": "Porthole - Top",
+        "brand": "Nova Galactic",
+        "mass": "1",
+        "value": "475"
+    },
+    {
+        "name": "Deimos Belly - Fore",
+        "brand": "Deimos",
+        "mass": "3",
+        "value": "475"
+    },
+    {
+        "name": "Deimos Bracer A",
+        "brand": "Deimos",
+        "mass": "2",
+        "value": "475"
+    },
+    {
+        "name": "Deimos Braking Engine",
+        "brand": "Deimos",
+        "mass": "5",
+        "value": "593"
+    },
+    {
+        "name": "Deimos Bumper - Port Fore",
+        "brand": "Deimos",
+        "mass": "3",
+        "value": "475"
+    },
+    {
+        "name": "Deimos Bumper - Port Mid",
+        "brand": "Deimos",
+        "mass": "3",
+        "value": "475"
+    },
+    {
+        "name": "Deimos Bumper - Port Aft",
+        "brand": "Deimos",
+        "mass": "3",
+        "value": "475"
+    },
+    {
+        "name": "Deimos Cowling - Fore",
+        "brand": "Deimos",
+        "mass": "3",
+        "value": "475"
+    },
+    {
+        "name": "Deimos Hull A",
+        "brand": "Deimos",
+        "mass": "5",
+        "value": "593"
+    },
+    {
+        "name": "Deimos Radiator",
+        "brand": "Deimos",
+        "mass": "3",
+        "value": "475"
+    },
+    {
+        "name": "Deimos Skeg A",
+        "brand": "Deimos",
+        "mass": "3",
+        "value": "475"
+    },
+    {
+        "name": "Deimos Skeg B",
+        "brand": "Deimos",
+        "mass": "4",
+        "value": "475"
+    },
+    {
+        "name": "Deimos Spine A - Fore",
+        "brand": "Deimos",
+        "mass": "2",
+        "value": "475"
+    },
+    {
+        "name": "Deimos Spine B",
+        "brand": "Deimos",
+        "mass": "2",
+        "value": "475"
+    },
+    {
+        "name": "Deimos Spine C - Fore",
+        "brand": "Deimos",
+        "mass": "2",
+        "value": "475"
+    },
+    {
+        "name": "Deimos Spine D - Fore",
+        "brand": "Deimos",
+        "mass": "2",
+        "value": "475"
+    },
+    {
+        "name": "Deimos Spine E - Fore",
+        "brand": "Deimos",
+        "mass": "2",
+        "value": "475"
+    },
+    {
+        "name": "Deimos Spine F - Fore",
+        "brand": "Deimos",
+        "mass": "3",
+        "value": "593"
+    },
+    {
+        "name": "Deimos Spine G",
+        "brand": "Deimos",
+        "mass": "3",
+        "value": "593"
+    },
+    {
+        "name": "Deimos Tail A",
+        "brand": "Deimos",
+        "mass": "6",
+        "value": "712"
+    },
+    {
+        "name": "Deimos Wing A - Port",
+        "brand": "Deimos",
+        "mass": "3",
+        "value": "593"
+    },
+    {
+        "name": "Deimos Wing A - Port Aft",
+        "brand": "Deimos",
+        "mass": "3",
+        "value": "593"
+    },
+    {
+        "name": "Deimos Wing B - Port",
+        "brand": "Deimos",
+        "mass": "3",
+        "value": "475"
+    },
+    {
+        "name": "Deimos Wing C - Port",
+        "brand": "Deimos",
+        "mass": "3",
+        "value": "475"
+    },
+    {
+        "name": "Deimos Wing D - Port",
+        "brand": "Deimos",
+        "mass": "3",
+        "value": "475"
+    },
+    {
+        "name": "Deimos Wing D - Port Aft",
+        "brand": "Deimos",
+        "mass": "3",
+        "value": "475"
+    },
+    {
+        "name": "Deimos Wing E - Port",
+        "brand": "Deimos",
+        "mass": "1",
+        "value": "475"
+    },
+    {
+        "name": "Deimos Wing E - Port Aft",
+        "brand": "Deimos",
+        "mass": "1",
+        "value": "475"
+    },
+    {
+        "name": "Horizon Weapon Mount",
+        "brand": "Horizon Defense",
+        "mass": "1",
+        "value": "475"
+    },
+    {
+        "name": "Nova Bracer",
+        "brand": "Nova Galactic",
+        "mass": "3",
+        "value": "475"
+    },
+    {
+        "name": "Nova Braking Engine - Port",
+        "brand": "Nova Galactic",
+        "mass": "5",
+        "value": "593"
+    },
+    {
+        "name": "Nova Cowling 1L-TF",
+        "brand": "Nova Galactic",
+        "mass": "3",
+        "value": "475"
+    },
+    {
+        "name": "Nova Cowling 1L-PF",
+        "brand": "Nova Galactic",
+        "mass": "3",
+        "value": "475"
+    },
+    {
+        "name": "Nova Cowling 1L-PM",
+        "brand": "Nova Galactic",
+        "mass": "3",
+        "value": "475"
+    },
+    {
+        "name": "Nova Cowling 1L-PA",
+        "brand": "Nova Galactic",
+        "mass": "3",
+        "value": "475"
+    },
+    {
+        "name": "Nova Cowling 2L-PF",
+        "brand": "Nova Galactic",
+        "mass": "8",
+        "value": "950"
+    },
+    {
+        "name": "Nova Cowling 2L-PM",
+        "brand": "Nova Galactic",
+        "mass": "8",
+        "value": "950"
+    },
+    {
+        "name": "Nova Cowling 2L-PA",
+        "brand": "Nova Galactic",
+        "mass": "8",
+        "value": "950"
+    },
+    {
+        "name": "Nova Cowling 2L-TF",
+        "brand": "Nova Galactic",
+        "mass": "4",
+        "value": "950"
+    },
+    {
+        "name": "Nova Cowling 2L-TM",
+        "brand": "Nova Galactic",
+        "mass": "3",
+        "value": "950"
+    },
+    {
+        "name": "Nova Cowling 2L-TA",
+        "brand": "Nova Galactic",
+        "mass": "4",
+        "value": "950"
+    },
+    {
+        "name": "Nova Engine Struts",
+        "brand": "Nova Galactic",
+        "mass": "1",
+        "value": "475"
+    },
+    {
+        "name": "Nova Radiator - Port",
+        "brand": "Nova Galactic",
+        "mass": "2",
+        "value": "475"
+    },
+    {
+        "name": "Nova Radiator - Top",
+        "brand": "Nova Galactic",
+        "mass": "1",
+        "value": "475"
+    },
+    {
+        "name": "Nova Radiator",
+        "brand": "Nova Galactic",
+        "mass": "3",
+        "value": "475"
+    },
+    {
+        "name": "Nova Thruster Array - Port",
+        "brand": "Nova Galactic",
+        "mass": "1",
+        "value": "475"
+    },
+    {
+        "name": "Nova Wing - Port",
+        "brand": "Nova Galactic",
+        "mass": "1",
+        "value": "475"
+    },
+    {
+        "name": "Nova Weapon Mount",
+        "brand": "Nova Galactic",
+        "mass": "5",
+        "value": "475"
+    }
+]

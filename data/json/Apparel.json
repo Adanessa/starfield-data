@@ -1,0 +1,1946 @@
+[
+    {
+        "name": "Miner Utility Outfit",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5 Health and O2",
+        "key6": "Automatically obtained as a default Apparel at the start of the game."
+    },
+    {
+        "name": "Frontier Attire",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "15",
+        "key5": "+10 Health",
+        "key6": "Purchased from Antonio Bianchi at the UC Surplus in New Atlantis for 150 Credits. Can be looted in the Abandoned Weapon Station on Venus Planet. Can be found in one of the lockers inside the UC Security Office in Jemison Planet ."
+    },
+    {
+        "name": "Inclement Weather Outfit",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "15",
+        "key5": "+10 Health",
+        "key6": "Purchased from Antonio Bianchi at the UC Surplus in New Atlantis for 150 Credits."
+    },
+    {
+        "name": "Settler Casualwear",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "20",
+        "key5": "+10 Health",
+        "key6": "Purchased from Antonio Bianchi at the UC Surplus in New Atlantis for 56 Credits. Can be found inside one of the Lockers in the Abandoned Muybridge Pharmaceuticals Lab on Venus Planet. Can be purchased from Amoli Bava at the Jemison Mercantile for 56 Credits."
+    },
+    {
+        "name": "Settler Workwear",
+        "mods": "5",
+        "how to Obtain": "20",
+        "key4": "10",
+        "key5": "+10 Health",
+        "key6": "Purchased from Antonio Bianchi at the UC Surplus in New Atlantis for 150 Credits."
+    },
+    {
+        "name": "Utility Flightsuit",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "15",
+        "key5": "+5% O2 Recovery",
+        "key6": "Purchased from Antonio Bianchi at the UC Surplus in New Atlantis for 225 Credits. Can be looted inside the Nova Galactic Staryard near the Luna Moon."
+    },
+    {
+        "name": "Astral Lounge Charmwear",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5% Persuasion chance",
+        "key6": "Purchase from James Newill at Newill's Goods in Neon for 132 Credits."
+    },
+    {
+        "name": "Jacketed Leatherwear",
+        "mods": "20",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5% O2 Recovery",
+        "key6": "Purchase from James Newill at Newill's Goods in Neon for 225 Credits. Purchase from Dietrich Sieghart at Sieghart's Outfitters in Neon for 225 Credits."
+    },
+    {
+        "name": "Neocity Corpwear",
+        "mods": "20",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5% Persuasion chance",
+        "key6": "Purchase from James Newill at Newill's Goods in Neon for 525 Credits. Purchase from Dietrich Sieghart at Sieghart's Outfitters in Neon for 525 Credits."
+    },
+    {
+        "name": "Neocity Hustler Outfit",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "10",
+        "key5": "+5% O2 Recovery",
+        "key6": "Purchase from James Newill at Newill's Goods in Neon for 225 Credits. Can be purchased from Amoli Bava at the Jemison Mercantile for 225 Credits."
+    },
+    {
+        "name": "Neurocom Mark I",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "+5% Diplomacy chance",
+        "key6": "Purchase from James Newill at Newill's Goods in Neon for 3500 Credits."
+    },
+    {
+        "name": "Neurotac Mark I",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "+5% Instigation chance",
+        "key6": "Purchase from James Newill at Newill's Goods in Neon for 3500 Credits."
+    },
+    {
+        "name": "Padded Hat",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Purchase from James Newill at Newill's Goods in Neon for 38 Credits. Purchase from Dietrich Sieghart at Sieghart's Outfitters in Neon for 38 Credits. Can be looted from a Pirate enemy inside Governor Hurst's Ship near the Umbriel Moon."
+    },
+    {
+        "name": "Trident Luxury Lines Cap",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Purchase from James Newill at Newill's Goods in Neon for 38 Credits."
+    },
+    {
+        "name": "Black Leather Jumpsuit",
+        "mods": "10",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5 Health and O2",
+        "key6": "Purchase from Saburo Okadigbo at the Mining League in Neon for 132 Credits."
+    },
+    {
+        "name": "Blue Elbow Grease Gear",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "10",
+        "key5": "+5 Health and O2",
+        "key6": "Purchase from Saburo Okadigbo at the Mining League in Neon for 94 Credits. Can be looted from an Ecliptic enemy at the Buried Temple in Masada III Planet."
+    },
+    {
+        "name": "Blue Labor Jumpsuit",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "10",
+        "key5": "+5 Health and O2",
+        "key6": "Purchase from Saburo Okadigbo at the Mining League in Neon for 132 Credits. Can be purchased from Jane Weller at Jane's Goods in Cydonia - Central Hub for 132 Credits."
+    },
+    {
+        "name": "Engineering Outfit",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "15",
+        "key5": "+5 Health and O2",
+        "key6": "Purchase from Saburo Okadigbo at the Mining League in Neon for 132 Credits. Can be purchased from Jane Weller at Jane's Goods in Cydonia - Central Hub for 132 Credits. Can be looted inside The Scow orbiting Procyon V-b Moon."
+    },
+    {
+        "name": "Corpo Boardroom Suit",
+        "mods": "20",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5% Persuasion chance",
+        "key6": "Purchase from Dietrich Sieghart at Sieghart's Outfitters in Neon for 675 Credits."
+    },
+    {
+        "name": "Corpo Salary Suit",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% Persuasion chance",
+        "key6": "Purchase from Dietrich Sieghart at Sieghart's Outfitters in Neon for 375 Credits."
+    },
+    {
+        "name": "Fishworker Wetwear",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "20",
+        "key5": "+5 Health and O2",
+        "key6": "Purchase from Dietrich Sieghart at Sieghart's Outfitters in Neon for 150 Credits."
+    },
+    {
+        "name": "Hopetech Cap",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Purchase from Dietrich Sieghart at Sieghart's Outfitters in Neon for 38 Credits. Can be purchased from Amoli Bava at the Jemison Mercantile for 38 Credits."
+    },
+    {
+        "name": "Leather Streetwear",
+        "mods": "5",
+        "how to Obtain": "20",
+        "key4": "10",
+        "key5": "+5% O2 Recovery",
+        "key6": "Purchase from Dietrich Sieghart at Sieghart's Outfitters in Neon for 225 Credits. Can be purchased from Amoli Bava at the Jemison Mercantile for 225 Credits Can be looted from a Spacer Punk enemy within the Muybridge Caverns at the Abandoned Muybridge Pharmaceuticals Lab on Cybele Moon."
+    },
+    {
+        "name": "Neon Businesswear",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "20",
+        "key5": "+5% Persuasion chance",
+        "key6": "Purchase from Dietrich Sieghart at Sieghart's Outfitters in Neon for 525 Credits."
+    },
+    {
+        "name": "Neon Nightlife Jumpsuit",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "20",
+        "key5": "+5% O2 Recovery",
+        "key6": "Purchase from Dietrich Sieghart at Sieghart's Outfitters in Neon for 225 Credits."
+    },
+    {
+        "name": "Neon Nightlife Skirt",
+        "mods": "10",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% O2 Recovery",
+        "key6": "Purchase from Dietrich Sieghart at Sieghart's Outfitters in Neon for 185 Credits."
+    },
+    {
+        "name": "Neon Socialite Skirt",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "15",
+        "key5": "+5% O2 Recovery",
+        "key6": "Purchase from Dietrich Sieghart at Sieghart's Outfitters in Neon for 185 Credits."
+    },
+    {
+        "name": "Space Undersuit",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "10",
+        "key5": "+5% O2 Recovery",
+        "key6": "Purchase from Dietrich Sieghart at Sieghart's Outfitters in Neon for 225 Credits. Can be looted at the Argos Extractors Mining Post in Vectera Moon ."
+    },
+    {
+        "name": "United Colonies Cap",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Purchase from Dietrich Sieghart at Sieghart's Outfitters in Neon for 38 Credits."
+    },
+    {
+        "name": "Urban Efficiency Attire",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "15",
+        "key5": "+5% O2 Recovery",
+        "key6": "Purchase from Dietrich Sieghart at Sieghart's Outfitters in Neon for 225 Credits. Can be purchased from Amoli Bava at the Jemison Mercantile for 225 Credits. Can be looted in the Tau Gourmet Production Center in Tau Ceti II Planet. Can be looted from an Ecliptic Merc enemy at the Buried Temple in Masada III Planet."
+    },
+    {
+        "name": "Urban Operator Outfit",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "15",
+        "key5": "+5% O2 Recovery",
+        "key6": "Purchase from Dietrich Sieghart at Sieghart's Outfitters in Neon for 225 Credits. Can be looted from a Pirate Freebooter enemy inside Governor Hurst's Ship near the Umbriel Moon. Can be looted from a Scow Guard enemy inside The Scow orbiting Procyon V-b Moon."
+    },
+    {
+        "name": "White Neocity Poncho",
+        "mods": "20",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5% O2 Recovery",
+        "key6": "Purchase from Dietrich Sieghart at Sieghart's Outfitters in Neon for 150 Credits."
+    },
+    {
+        "name": "Ground Crew Jacketwear",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5 Health and O2",
+        "key6": "Looted from an Eclicptic enemy in the Abandoned Muybridge Pharmaceuticals Lab."
+    },
+    {
+        "name": "Cyberware Streetwear",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% O2 Recovery",
+        "key6": "Looted from an Eclicptic enemy in the Abandoned Muybridge Pharmaceuticals Lab."
+    },
+    {
+        "name": "Argos Extractor Jumpsuit",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5 Health and O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Deimos Cap",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Can be looted from a Storage Box from the Abandoned Muybridge Pharmaceuticals Lab on Venus Planet. Can be purchased from Amoli Bava at the Jemison Mercantile for 38 Credits. Complete the mission Red Tape Reclamation and receive the reward from Trevor Petyarre."
+    },
+    {
+        "name": "Open Graviplas Helmet",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Taken from the Abandoned Muybridge Pharmaceuticals Lab on Venus Planet."
+    },
+    {
+        "name": "Miner Jumpsuit",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5 Health and O2",
+        "key6": "Taken from the Abandoned Muybridge Pharmaceuticals Lab inside a locker on Venus Planet. Can be purchased from Jane Weller at Jane's Goods in Cydonia - Central Hub for 132 Credits."
+    },
+    {
+        "name": "Operator Leatherwear",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% O2 Recovery",
+        "key6": "Can be looted from an Ecliptic enemy raiding the Nova Galactic Staryard near the Luna Moon."
+    },
+    {
+        "name": "Synthleather Streetwear",
+        "mods": "20",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5% O2 Recovery",
+        "key6": "Can be looted from an Ecliptic enemy raiding the Nova Galactic Staryard near the Luna Moon."
+    },
+    {
+        "name": "Miner Hard Hat Outfit",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5 Health and O2",
+        "key6": "Taken from the Abandoned Muybridge Pharmaceuticals Lab on Venus Planet."
+    },
+    {
+        "name": "Nova Galactic Cap",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Can be looted inside the Nova Galactic Staryard near the Luna Moon."
+    },
+    {
+        "name": "Worker's Jumpsuit",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5 Health and O2",
+        "key6": "Can be looted inside the Nova Galactic Staryard near the Luna Moon."
+    },
+    {
+        "name": "UC Security Uniform",
+        "mods": "20",
+        "how to Obtain": "5",
+        "key4": "20",
+        "key5": "+5% Intimidation chance",
+        "key6": "Can be looted inside the Nova Galactic Staryard near the Luna Moon."
+    },
+    {
+        "name": "Space Trucker Haul Wrap",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Fishworker Mask",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Purchase from Dietrich Sieghart at Sieghart's Outfitters in Neon for 56 Credits. Can be looted at the Argos Extractors Mining Post in Vectera Moon ."
+    },
+    {
+        "name": "Black Engineering Outfit",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5 Health and O2",
+        "key6": "Can be looted at the Argos Extractors Mining Post in Vectera Moon . Can be looted from a Spacer enemy within the Loading Dock inside the Retrofitted Starstation orbiting Piazzi VI-a Moon."
+    },
+    {
+        "name": "UC Navy Hat",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Can be looted at the Argos Extractors Mining Post in Vectera Moon ."
+    },
+    {
+        "name": "Settler Adventure Hat",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Can be looted at the Deserted Mineral Plant in Dalvik Moon. Can be looted from a Shaw Gang enemy at The Empty Nest in Akila Planet ."
+    },
+    {
+        "name": "Gray Engineering Outfit",
+        "mods": "5",
+        "how to Obtain": "20",
+        "key4": "10",
+        "key5": "+5 Health and O2",
+        "key6": "Can be looted at the Abandoned Mine in Niira Planet."
+    },
+    {
+        "name": "Leather Pocketwear",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "20",
+        "key5": "+5% O2 Recovery",
+        "key6": "Can be looted from an Ecliptic enemy at the Abandoned Mine in Niira Planet."
+    },
+    {
+        "name": "Chunks Cap",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Can be purchased from the Trade Authority Kiosk in New Atlantis for 4 Credits."
+    },
+    {
+        "name": "Nightwear",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "Actions use -5% O2",
+        "key6": "Can be purchased from the Trade Authority Kiosk in New Atlantis for 132 Credits."
+    },
+    {
+        "name": "Settler Poncho Outfit",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+10 Health",
+        "key6": "Can be purchased from Amoli Bava at the Jemison Mercantile for 150 Credits. Can be looted from a Shaw Gang enemy at The Empty Nest in Akila Planet . Can be looted from the House of the Enlightened Chest in Akila City."
+    },
+    {
+        "name": "Space Trucker Flannel",
+        "mods": "x",
+        "how to Obtain": "x",
+        "key4": "x",
+        "key5": "+5 Carry Capacity",
+        "key6": "(Jacketed Version) Can be purchased from Amoli Bava at the Jemison Mercantile for 132 Credits. Can be looted inside the Retrofitted Starstation orbiting Piazzi VI-a Moon."
+    },
+    {
+        "name": "Space Trucker Hat",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Can be purchased from Amoli Bava at the Jemison Mercantile for 38 Credits."
+    },
+    {
+        "name": "Brown Engineering Outfit",
+        "mods": "20",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5 Health and O2",
+        "key6": "Can be looted from the Bank Robber Leader enemy at the Akila City Galbank in Akila Planet ."
+    },
+    {
+        "name": "Space Trucker Cargowear",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "20",
+        "key5": "+5 Carry Capacity",
+        "key6": "Can be looted from a Shaw Gang enemy at The Empty Nest in Akila Planet ."
+    },
+    {
+        "name": "Settler Adventure Hat",
+        "mods": "?",
+        "how to Obtain": "?",
+        "key4": "?",
+        "key5": "?",
+        "key6": "Can be looted from a Shaw Gang enemy at The Empty Nest in Akila Planet ."
+    },
+    {
+        "name": "Black Open Graviplas Helmet",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Can be looted from a Shaw Gang enemy at The Empty Nest in Akila Planet ."
+    },
+    {
+        "name": "Brown Graviplas Helmet",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Can be found inside The Empty Nest in Akila Planet ."
+    },
+    {
+        "name": "Graviplas Helmet",
+        "mods": "?",
+        "how to Obtain": "?",
+        "key4": "?",
+        "key5": "?",
+        "key6": "Can be looted at the Argos Extractors Mining Post in Vectera Moon . Can be looted inside a cave in Procyon III Planet ."
+    },
+    {
+        "name": "Blue Labor Jumpsuit",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "10",
+        "key5": "+5 Health and O2",
+        "key6": "Can be purchased from Jane Weller at Jane's Goods in Cydonia - Central Hub for 132 Credits."
+    },
+    {
+        "name": "Gray Labor Jumpsuit",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "15",
+        "key5": "+5 Health and O2",
+        "key6": "Can be purchased from Jane Weller at Jane's Goods in Cydonia - Central Hub for 132 Credits."
+    },
+    {
+        "name": "Space Trucker Casualwear",
+        "mods": "10",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5 Carry Capacity",
+        "key6": "Can be looted from a Pirate Freebooter enemy inside Governor Hurst's Ship near the Umbriel Moon."
+    },
+    {
+        "name": "NASA Lab Uniform",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% chance of Research Sudden Developments",
+        "key6": "Can be looted inside a cave in Procyon III Planet ."
+    },
+    {
+        "name": "Blue Neocity Poncho",
+        "mods": "20",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5% O2 Recovery",
+        "key6": "Can be looted inside a cave in Procyon III Planet ."
+    },
+    {
+        "name": "Argos Jacketed Jumpsuit",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "15",
+        "key5": "+5 Health and O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Black Elbow Grease Gear",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "15",
+        "key5": "+5 Health and O2",
+        "key6": "Can be looted from a Scow Guard enemy inside The Scow orbiting Procyon V-b Moon."
+    },
+    {
+        "name": "Blue Collar Offwork Duds",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "20",
+        "key5": "+5 Carry Capacity",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Blue UC Leather Jumpsuit",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "15",
+        "key5": "+5 Health and O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Brown Leather Jumpsuit",
+        "mods": "x",
+        "how to Obtain": "x",
+        "key4": "x",
+        "key5": "+5 Health and O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Brown Neocity Formwear",
+        "mods": "20",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Corpo Sleek Suit",
+        "mods": "5",
+        "how to Obtain": "20",
+        "key4": "10",
+        "key5": "+5% Persuasion chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Deputy Hat",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Farming Outfit",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5 Health and O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Fashionable Suit",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "15",
+        "key5": "+5% Persuasion chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Festive Neocity Poncho",
+        "mods": "5",
+        "how to Obtain": "20",
+        "key4": "10",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Flashy Leatherwear",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "15",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Formal Slack Suit",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "15",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Freestar Collective Cap",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Gray Neocity Formwear",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Green Fashionable Suit",
+        "mods": "20",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5% Persuasion chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Green Neocity Formwear",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "20",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Megacorp Executive Suit",
+        "mods": "20",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5% Persuasion chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Neocity Urbanwear",
+        "mods": "5",
+        "how to Obtain": "20",
+        "key4": "10",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Neuroboost Mark I",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "+5% Intimidation chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Neurocom Mark II",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "+10% Diplomacy chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Ranger Deputy Uniform",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "15",
+        "key5": "+5% Reload Speed",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Sarah Morgan's Outfit",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+10 Health",
+        "key6": "Can be found inside the Storage Crate in the basement of the Lodge in Jemison Planet after progressing in High Price to Pay ."
+    },
+    {
+        "name": "Sari Dress",
+        "mods": "10",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% Persuasion chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Settler Casual Hat",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Settler Hat",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Space Trucker Bar Duds",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5 Carry Capacity",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Space Trucker Cap",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Teal Engineering Outfit",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "20",
+        "key5": "+5 Health and O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Urban Slackwear",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Vested Suit",
+        "mods": "5",
+        "how to Obtain": "20",
+        "key4": "10",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Yellow Labor Jumpsuit",
+        "mods": "10",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5 Health and O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Settler Vested Outfit",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+10 Health",
+        "key6": "Can be looted in Lopez's Farm in Piazzi II Planet."
+    },
+    {
+        "name": "Gray Elbow Grease Gear",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5 Health and O2",
+        "key6": "Can be looted from a Spacer enemy within the Observation Corridor inside the Retrofitted Starstation orbiting Piazzi VI-a Moon."
+    },
+    {
+        "name": "Synth Leatherwear",
+        "mods": "?",
+        "how to Obtain": "?",
+        "key4": "?",
+        "key5": "?",
+        "key6": "Can be looted from a Spacer enemy within the Observation Corridor inside the Retrofitted Starstation orbiting Piazzi VI-a Moon."
+    },
+    {
+        "name": "Ambassador Suit",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% Persuasion chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Argos Jacketed Jumpsuit",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "15",
+        "key5": "+5 Health and O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "B. Morgan's Suit",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "15",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Bayu's Corpwear",
+        "mods": "5",
+        "how to Obtain": "20",
+        "key4": "10",
+        "key5": "+5% Intimidation chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Blue Collar Offwork Hat",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Blue Lab Outfit",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% chance of Research Sudden Developments",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Brown Elbow Grease Gear",
+        "mods": "10",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5 Health and O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Chunks Service Uniform",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Clean Suit",
+        "mods": "5",
+        "how to Obtain": "25",
+        "key4": "15",
+        "key5": "+5 Health and O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Corpo Executive Suit",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% Persuasion chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Corpo Power Suit",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "15",
+        "key5": "+5% Persuasion chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Cream and Blue Dress",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Dalton Fiennes' Suit",
+        "mods": "20",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5% Persuasion chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Disciples Tagwear",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "25",
+        "key5": "+5% Critical Damage",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "DJ Headphone Cap",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "DJ Headphones",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "ECS Captain Actionwear",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% Reload Speed",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "ECS Captain Uniform",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "20",
+        "key5": "+5% Persuasion chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "ECS Officer Uniform",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "15",
+        "key5": "+5% Reload Speed",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "ECS Uniform",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "10",
+        "key5": "+5% O2 Recovery Speed",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Enhance Service Uniform",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "15",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Farming Hat",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Faye's Sengsavahn's Outfit",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "10",
+        "key5": "+5% chance of Research Sudden Developments",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Filthy Physician Uniform",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "10",
+        "key5": "Medical items restore +5% Health",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "First Mercenary Outfit",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "25",
+        "key5": "+5% Intimidation chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "First Officer Hat",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "First Officer Outfit",
+        "mods": "15",
+        "how to Obtain": "25",
+        "key4": "5",
+        "key5": "+5% Intimidation chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "First Soldier Helmet",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "First Soldier Outfit",
+        "mods": "25",
+        "how to Obtain": "15",
+        "key4": "5",
+        "key5": "+5% Reload Speed",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Fishworker Splashwear",
+        "mods": "5",
+        "how to Obtain": "20",
+        "key4": "10",
+        "key5": "+5 Health and O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Franklin Roosevelt's Outfit",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% Persuasion chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Freestar Dustwear",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "20",
+        "key5": "+5% Reload Speed",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Freestar Militia Hat",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Freestar Militia Uniform",
+        "mods": "20",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5% Reload Speed",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Galbank Service Uniform",
+        "mods": "10",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Generdyne Guard Helmet",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Generdyne Lab Outfit",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5% chance of Research Sudden Developments",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Generdyne Security Uniform",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "25",
+        "key5": "+5% Intimidation chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Genevieve Monohan's Suit",
+        "mods": "5",
+        "how to Obtain": "20",
+        "key4": "10",
+        "key5": "+5% Persuasion chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Genghis Khan's Hat",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Genghis Khan's Outfit",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% Intimidation chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Gray Leather Jumpsuit",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5 Health and O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Hazmat Suit",
+        "mods": "5",
+        "how to Obtain": "25",
+        "key4": "15",
+        "key5": "+5 Health and O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Ikande's Sysdef Officer Uniform",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "25",
+        "key5": "+5% Intimidation chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Imogene Salzo's Suit",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "20",
+        "key5": "+5% Persuasion chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Linden Calderi's Suit",
+        "mods": "5",
+        "how to Obtain": "20",
+        "key4": "10",
+        "key5": "+5% Persuasion chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Masako Imada's Outfit",
+        "mods": "20",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5% Intimidation chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Matteo Khatri's Hat",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Matteo's Outfit",
+        "mods": "5",
+        "how to Obtain": "20",
+        "key4": "10",
+        "key5": "Actions use -5% O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Medic Uniform",
+        "mods": "10",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "Medical items restore +5% Health",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Mei Devine's Outfit",
+        "mods": "10",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Miner Jacketed Jumpsuit",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "10",
+        "key5": "+5 Health and O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Miner Orebreaker Outfit",
+        "mods": "10",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5 Health and O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Naeva's Outfit",
+        "mods": "20",
+        "how to Obtain": "5",
+        "key4": "20",
+        "key5": "+5% Critical Damage",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Navy Tan Dress",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Neon Clublife Skirt",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Neon Dancer Headwear",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Neon Dancer Outfit",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "10",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Neon Security Helmet",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Neon Security Uniform",
+        "mods": "20",
+        "how to Obtain": "20",
+        "key4": "5",
+        "key5": "+5% Intimidation chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Neuroboost Mark II",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "+10% Intimidation chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Neuroboost Mark III",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "+15% Intimidation chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Neurocom Mark III",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "+15% Diplomacy chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Neurotac Mark II",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "+10% Instigation chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Neurotac Mark III",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "+15% Instigation chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "New Atlantis Sec Uniform",
+        "mods": "25",
+        "how to Obtain": "15",
+        "key4": "5",
+        "key5": "+5% Intimidation chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Noel's Outfit",
+        "mods": "5",
+        "how to Obtain": "20",
+        "key4": "10",
+        "key5": "+5% chance of Research Sudden Developments",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Nyx's Outfit",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "15",
+        "key5": "+5 Carry Capacity",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Paradiso Staff Uniform",
+        "mods": "10",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Patient's Clothes",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "15",
+        "key5": "Actions use -5% O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Paxton's Officer Hat",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Physician Uniform",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "15",
+        "key5": "Medical items restore +5% Health",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Prison Scrubs",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "10",
+        "key5": "Actions use -5% O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Prisoner Outfit",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "Actions use -5% O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Pryce's Suit",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "20",
+        "key5": "+5% Persuasion chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Ranger Duelwear",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "20",
+        "key5": "+5% Reload Speed",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Ranger Hat",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Red Mile Service Uniform",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Reliant Medical Uniform",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "Medical items restore +5% Health",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Resort Wear",
+        "mods": "x",
+        "how to Obtain": "x",
+        "key4": "x",
+        "key5": "Actions use -5% O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Rokov's Officer Hat",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Ryujin Guard Helmet",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Ryujin Guard Uniform",
+        "mods": "20",
+        "how to Obtain": "5",
+        "key4": "20",
+        "key5": "+5% Intimidation chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Ryujin Lab Outfit",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "10",
+        "key5": "+5% chance of Research Sudden Developments",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Ryujin Lab Worker Hood",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Ryujin Lab Worker Outfit",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "15",
+        "key5": "+5% chance of Research Sudden Developments",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Ryujin R&D Outfit",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "15",
+        "key5": "+5% chance of Research Sudden Developments",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Sam Coe's Outfit",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "15",
+        "key5": "+10 Health",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Sanctum Priest Headwear",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Sanctum Priest Vestment",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "10",
+        "key5": "+5% Persuasion chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Security Flightsuit",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Security Guard Helmet",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Security Guard Uniform",
+        "mods": "15",
+        "how to Obtain": "25",
+        "key4": "5",
+        "key5": "+5% Intimidation chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Service Industry Uniform",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "15",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Shielded Lab Outfit",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% chance of Research Sudden Developments",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Shinya Voss Outfit",
+        "mods": "25",
+        "how to Obtain": "15",
+        "key4": "5",
+        "key5": "+5% Critical Damage",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Ship Captain Hat",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Ship Captain's Uniform",
+        "mods": "20",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5% Reload Speed",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Space Rogue Muscle Gear",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5 Carry Capacity",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Space Rogue Outfit",
+        "mods": "5",
+        "how to Obtain": "20",
+        "key4": "10",
+        "key5": "+5 Carry Capacity",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Striker Maskwear",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "15",
+        "key5": "+5% Critical Damage",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Striker Streetwear",
+        "mods": "5",
+        "how to Obtain": "20",
+        "key4": "10",
+        "key5": "+5% Critical Damage",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Suit with Lapel Pin",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Swimsuit",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "Actions use -5% O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Syndicate Boss Suit",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "20",
+        "key5": "+5% Persuasion chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Syndicate Capo Suit",
+        "mods": "20",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5% Persuasion chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Syndicate Club Suit",
+        "mods": "5",
+        "how to Obtain": "20",
+        "key4": "10",
+        "key5": "+5% Persuasion chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Syndicate Pinstripes",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "15",
+        "key5": "+5% Persuasion chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Syndicate Thug Suit",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% Persuasion chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Sysdef Crew Uniform",
+        "mods": "5",
+        "how to Obtain": "20",
+        "key4": "10",
+        "key5": "+5% Reload Speed",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Sysdef Formal Uniform",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "25",
+        "key5": "+5% Intimidation chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Sysdef Officer Uniform",
+        "mods": "20",
+        "how to Obtain": "20",
+        "key4": "5",
+        "key5": "+5% Intimidation chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Sysdef Prison Scrubs",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "15",
+        "key5": "Actions use -5% O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Teal Elbow Grease Gear",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5 Health and O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Teal Leather Jumpsuit",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "10",
+        "key5": "+5 Health and O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Terrabrew Barista Outfit",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "10",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Terrabrew Uniform",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Trade Authority Uniform",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "15",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Trident Crew Uniform",
+        "mods": "15",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Trident Guard Helmet",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Trident Guard Uniform",
+        "mods": "20",
+        "how to Obtain": "20",
+        "key4": "5",
+        "key5": "+5% Intimidation chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Tritek Lab Outfit",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "10",
+        "key5": "+5% chance of Research Sudden Developments",
+        "key6": "Can be looted from a Scientist within the Ecliptic Base of the Buried Temple on Masada III Planet."
+    },
+    {
+        "name": "UC Navy Armored Fatigues",
+        "mods": "25",
+        "how to Obtain": "15",
+        "key4": "5",
+        "key5": "+5% Reload Speed",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "UC Navy Crew Hat",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "UC Navy Crew Uniform",
+        "mods": "20",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+5% Reload Speed",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "UC Navy Duty Fatigues",
+        "mods": "15",
+        "how to Obtain": "25",
+        "key4": "5",
+        "key5": "+5% Reload Speed",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "UC Navy Fatigues",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "20",
+        "key5": "+5% Reload Speed",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "UC Navy Officer Uniform",
+        "mods": "15",
+        "how to Obtain": "25",
+        "key4": "5",
+        "key5": "+5% Intimidation chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "UC Navy Recon Fatigues",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "25",
+        "key5": "+5% Reload Speed",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "UC Security Helmet",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "UC Sysdef Crew Hat",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Ularu's Suit",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "15",
+        "key5": "+5% Intimidation chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Vanguard Officer Uniform",
+        "mods": "20",
+        "how to Obtain": "5",
+        "key4": "20",
+        "key5": "+5% Intimidation chance",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Xenofresh Clean Suit",
+        "mods": "5",
+        "how to Obtain": "15",
+        "key4": "25",
+        "key5": "+5 Health and O2",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Xenofresh Tech Outfit",
+        "mods": "10",
+        "how to Obtain": "5",
+        "key4": "15",
+        "key5": "+5% chance of Research Sudden Developments",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Black Graviplas Helmet",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Can be looted at the Dauntless Crew's Crash Site in Cassiopeia I Planet."
+    },
+    {
+        "name": "Settler Comforwear",
+        "mods": "20",
+        "how to Obtain": "5",
+        "key4": "10",
+        "key5": "+10 Health",
+        "key6": "Can be looted inside a House of the Enlightened Chest within The Well behind Andy Singh's office in Jemison Planet ."
+    },
+    {
+        "name": "Batball Cap",
+        "mods": "-",
+        "how to Obtain": "-",
+        "key4": "-",
+        "key5": "-",
+        "key6": "Can be found inside a storage crate at the Nishina Research Station on Freya III Planet."
+    },
+    {
+        "name": "Andreja's Outfit",
+        "mods": "5",
+        "how to Obtain": "20",
+        "key4": "10",
+        "key5": "+5% O2 Recovery",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "Barret's Outfit",
+        "mods": "5",
+        "how to Obtain": "10",
+        "key4": "20",
+        "key5": "+10 Health",
+        "key6": "Information to be added."
+    },
+    {
+        "name": "The Collector's Outfit",
+        "mods": "?",
+        "how to Obtain": "?",
+        "key4": "?",
+        "key5": "?",
+        "key6": "Can be looted from Captain Petrov within the Ecliptic Base at the Buried Temple in Masada III Planet."
+    }
+]

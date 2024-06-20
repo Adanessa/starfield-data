@@ -1,0 +1,548 @@
+[
+    {
+        "name": "Amplifier",
+        "type": "Internal",
+        "effect": "Amplifies power output, increasing damage",
+        "materials": "Tantalum x3 Adhesive x3 Isocentered Magnet x1 Zero Wire x1"
+    },
+    {
+        "name": "Amplifier (Cover)",
+        "type": "Cover",
+        "effect": "Amplifies power output, increasing damage.",
+        "materials": "Adhesive x2 Isocentered Magnet x1 Zero Wire"
+    },
+    {
+        "name": "Annihilator Rounds",
+        "type": "Magazine and Battery",
+        "effect": "Banned by almost every government, these rounds produce a disease-like effect that spreads to any target that gets too close.",
+        "materials": "Lead x3 Adhesive x3 Hypercatalyst x2 Toxin x4"
+    },
+    {
+        "name": "Armor-Piercing Rounds",
+        "type": "Magazine and Battery",
+        "effect": "More powerful casingicax penetrate even the sturdiest armors.",
+        "materials": "Tungsten x2 Lead x1 Adhesive x1"
+    },
+    {
+        "name": "Binary Trigger",
+        "type": "Receiver",
+        "effect": "A binary trigger allows for the weapon to fire on pull and release of the trigger for a faster fire rate.",
+        "materials": "Microsecond Regulator x1 Lubricant x3 Ytterbium x4 Zero Wire x1"
+    },
+    {
+        "name": "Bull Barrel",
+        "type": "Barrel",
+        "effect": "A heavier barrel for more increased accuracy and stability.",
+        "materials": "Tungsten x2 Sealant x1 Nickel x2"
+    },
+    {
+        "name": "Burst Fire",
+        "type": "Receiver",
+        "effect": "Receiver that fires 4 rounds per trigger pull.",
+        "materials": "Lubricant x3 Titanium x4 Ytterbium x2"
+    },
+    {
+        "name": "Choke",
+        "type": "Muzzle",
+        "effect": "Muzzle device specially designed to reduce shotgun spread.",
+        "materials": "Titanium x2 Sealant x1 Tungsten x3"
+    },
+    {
+        "name": "Compensator",
+        "type": "Muzzle",
+        "effect": "Increases Stability and Hip-Fire accuracy at the cost of long-range Accuracy",
+        "materials": "Aluminum x1 Nickel x1"
+    },
+    {
+        "name": "Depleted Uranium Rounds",
+        "type": "Magazine and Battery",
+        "effect": "Built using depleted Uranium, these rounds can penetrate any armor.",
+        "materials": "Uranium x3 Lead x3 Sealant x2"
+    },
+    {
+        "name": "Drum Magazine",
+        "type": "Magazine and Battery",
+        "effect": "Vastly increases Ammo Capacity at the cost of Aim Down Sights speed and Reload speed.",
+        "materials": "Lead x3 Adhesive x2 Titanium x2"
+    },
+    {
+        "name": "Double Barrel Muzzle",
+        "type": "Muzzle",
+        "effect": "Changes rounds fired to go through a two-barreled attachment for different spread shots.",
+        "materials": "Tungsten x3 Polymer x3 Adhesive x2 Titanium x3 Ytterbium x2"
+    },
+    {
+        "name": "EM-Charged Shot",
+        "type": "Magazine and Battery",
+        "effect": "EM-charged ballistic rounds, typically non-lethal.",
+        "materials": "Cobalt x3 Polymer x2 Isocentered Magnet x1"
+    },
+    {
+        "name": "Electromagnetic Beams",
+        "type": "Magazine and Battery",
+        "effect": "Electromagnetic rounds that can knockout living creatures as well as disable robotic units for a time.",
+        "materials": "Beryllium x3 Adhesive x2 Isocentered Magnet ..x1"
+    },
+    {
+        "name": "Ergonomic Grip",
+        "type": "Grip and Stock",
+        "effect": "A comfortable grip that helps increase Accuracy and Aim Down Sights speed.",
+        "materials": "Aluminum x2 Adhesive x1"
+    },
+    {
+        "name": "Ergonomic Stock",
+        "type": "Grip and Stock",
+        "effect": "A comfortable grip that helps increase Accuracy and Aim Down Sights speed.",
+        "materials": "Aluminum x2 Sealant x1 Titanium x2"
+    },
+    {
+        "name": "Explosive Rounds",
+        "type": "Magazine and Battery",
+        "effect": "Rounds that explode on contact with a surface",
+        "materials": "Tetrafluorides x2 Adhesive x2 Lead x2"
+    },
+    {
+        "name": "Extended Barrel",
+        "type": "Barrel",
+        "effect": "Vastly increases Accuracy, Recoil Control, and Range at the cost of Aim Down Sight speed.",
+        "materials": "Sealant x1 Iron x2 Nickel x2"
+    },
+    {
+        "name": "Flechette Drum Magazine",
+        "type": "Magazine and Battery",
+        "effect": "Vastly increases Ammo Capacity at the cost of Aim Down Sights speed and Reload speed.",
+        "materials": "Lead x3 Adhesive x2 Titanium x2"
+    },
+    {
+        "name": "Flechette Large Magazine",
+        "type": "Magazine and Battery",
+        "effect": "Increases Ammo capacity at the cost of Aim Down Sight. speed and Reload speed.",
+        "materials": "Sealant x2 Lead x2 Tungsten x2"
+    },
+    {
+        "name": "Flechette Rounds",
+        "type": "Magazine and Battery",
+        "effect": "Multiple razor~edged rounds that slice through unarmed targets and cause a bleeding effect.",
+        "materials": "Lead x2 Antimony x2 Adhesive x2"
+    },
+    {
+        "name": "Flechette Tactical Magazine",
+        "type": "Magazine and Battery",
+        "effect": "Lighter mag that vastly increases Aim Down Sight speed and Reload speed.",
+        "materials": "Sealant x1 Lead x1"
+    },
+    {
+        "name": "Focal Lens",
+        "type": "Muzzle",
+        "effect": "Specialized lenses. Vastly increase accuracy.",
+        "materials": "Tungsten x1 Sealant x1 Argon x1"
+    },
+    {
+        "name": "Focus Nozzle",
+        "type": "Muzzle",
+        "effect": "Increases Damage, Headshot Damage, and Range",
+        "materials": "Tantalum x3 Polymer x2 Titanium x2 Zero Wire x1"
+    },
+    {
+        "name": "Folding Stock",
+        "type": "Grip and Stock",
+        "effect": "Sturdy folding stock for added Recoil management and greater Stability.",
+        "materials": "Titanium x2 Aluminum x2"
+    },
+    {
+        "name": "Fully Automatic",
+        "type": "Receiver",
+        "effect": "Receiver that fires continuously while the trigger is pulled.",
+        "materials": "Microsecond Regulator x1 Lubricant x4 Titanium x4 Sealant x3"
+    },
+    {
+        "name": "Fully Automatic (Solstice)",
+        "type": "Receiver",
+        "effect": "Receiver that fires continuously while the trigger is pulled.",
+        "materials": "Sealant x3 Microsecond Regulator x1 Titanium x4 Palladium x4"
+    },
+    {
+        "name": "Gut Buster Rounds",
+        "type": "Magazine and Battery",
+        "effect": "Nasty rounds that, upon firing into an enemy. explode out the backinto a burst. of shrapnel",
+        "materials": "Lead x3 Adhesive x3 Veryl x2"
+    },
+    {
+        "name": "Hair Trigger",
+        "type": "Internal",
+        "effect": "Installs a lighter trigger pull for increased Fire Rate.",
+        "materials": "Platinum x3 Adhesive x3 Iridium x2 Zero Wire x1"
+    },
+    {
+        "name": "High Powered",
+        "type": "Internal",
+        "effect": "Increases Damage done",
+        "materials": "Tantalum x3 Adhesive x3 Isocentered Magnet x1 Titanium x4"
+    },
+    {
+        "name": "High Velocity",
+        "type": "Internal",
+        "effect": "Internal module that increases accuracy and range.",
+        "materials": "Platinum x3 Monopropellant x1 Titanium x2 Adhesive x3"
+    },
+    {
+        "name": "Holographic Sight",
+        "type": "Optic",
+        "effect": "Holographic sight for increased target visibility.",
+        "materials": "Vanadium x3 Adhesive x2 Palladium x2 Zero Wire x1"
+    },
+    {
+        "name": "Ignition Beams",
+        "type": "Magazine and Battery",
+        "effect": "Lasers do more damage and now burn enemies.",
+        "materials": "Positron Battery x1 Adhesive x3 Ytterbium x2 Zero Wire x2"
+    },
+    {
+        "name": "Iron Sights",
+        "type": "Optic",
+        "effect": "Standard issue iron sights.",
+        "materials": "Aluminum x1 Nickel x1"
+    },
+    {
+        "name": "Large Battery",
+        "type": "Magazine and Battery",
+        "effect": "Increases Ammo capacity at the cost of Aim Down Sight speed and Reload speed",
+        "materials": "Sealant x2 Lithium x2 Tungsten x2"
+    },
+    {
+        "name": "Large Magazine",
+        "type": "Magazine and Battery",
+        "effect": "Increases Ammo capacity at the cost of Aim Down Sight speed and Reload speed",
+        "materials": "Tungsten x2 Lead x2 Sealant x2"
+    },
+    {
+        "name": "Large Muzzle Brake",
+        "type": "Muzzle",
+        "effect": "A larger muzzle break that further increases long-range Accuracy and Stability at the cost of Hip-Fire accuracy",
+        "materials": "Tungsten x2 Sealant x2 Titanium x2 Polymer x2"
+    },
+    {
+        "name": "Laser Sight",
+        "type": "Laser",
+        "effect": "Laser Sight attachment to help with target acquisition and increase Accuracy.",
+        "materials": "Aluminum x1 Helium-3 x1 Neon x1"
+    },
+    {
+        "name": "Long Barrel",
+        "type": "Barrel",
+        "effect": "Increases Accuracy, Recoil Control, and Range at the cost of Aim Down Sight speed.",
+        "materials": "Sealant x1 Iron x1 Nickel x1"
+    },
+    {
+        "name": "Long Barrel (Solstice)",
+        "type": "Barrel",
+        "effect": "Increases Magazine Size, Accuracy, Recoil Control, and Range at the cost of Aim Down Sight speed.",
+        "materials": "Sealant x1 Iron x1 Nickel x1"
+    },
+    {
+        "name": "Long Barrel with Laser Sight",
+        "type": "Barrel",
+        "effect": "Increases Magazine Size, Accuracy, Recoil Control, and Range at the cost of Aiming Speed. Adds a Laser Sight.",
+        "materials": "Sealant x1 Iron x1 Nickel x1 Helium-3 x1 Neon x1"
+    },
+    {
+        "name": "Medium Magazine",
+        "type": "Magazine and Battery",
+        "effect": "Medium-sized magazine for decent ammo capacity and weight.",
+        "materials": "Sealant x1 Lead x2 Tungsten x1"
+    },
+    {
+        "name": "Medium Scope",
+        "type": "Optic",
+        "effect": "Medium scope for 4x magnified view.",
+        "materials": "Vanadium x3 Adhesive x2 Chlorosilanes x3 Zero Wire x1"
+    },
+    {
+        "name": "Muzzle Brake",
+        "type": "Muzzle",
+        "effect": "Increases long-range Accuracy and Stability at the cost of Hip-Fire accuracy",
+        "materials": "Tungsten x3 Sealant x2 Titanium x2"
+    },
+    {
+        "name": "No Stock",
+        "type": "Magazine and Battery",
+        "effect": "A removed stock for quick target acquisition and less weight at the cost of inaccuracy.",
+        "materials": "Sealant x1 Aluminum x1"
+    },
+    {
+        "name": "Overclocked",
+        "type": "Internal",
+        "effect": "Increases Rate of Fire.",
+        "materials": "Europium x4 Ytterbium x2 Titanium x3 Zero Wire x2"
+    },
+    {
+        "name": "Penetrator Rounds",
+        "type": "Magazine and Battery",
+        "effect": "lncredibly powerful rounds that can't pass through multiple enemies.",
+        "materials": "Lead x3 Antimony x4 Adhesive x3"
+    },
+    {
+        "name": "Precision Tuning",
+        "type": "Internal",
+        "effect": "Precisely tuned to increase Accuracy and Range.",
+        "materials": "Tungsten x1 Adhesive x2 Iridium x2 Zero Wire x1"
+    },
+    {
+        "name": "Recon Laser Sight",
+        "type": "Laser",
+        "effect": "Marks enemies while Aiming and greatly increases Accuracy.",
+        "materials": "Vanadium x3 Adhesive x2 Palladium x2 Zero Wire x2"
+    },
+    {
+        "name": "Recon Scope",
+        "type": "Optic",
+        "effect": "Marks enemies while Aiming",
+        "materials": "Europium x2 Adhesive x2 Chlorosilanes x3 Zero Wire 1"
+    },
+    {
+        "name": "Reflex Sight",
+        "type": "Optic",
+        "effect": "Reflex sights for quicker target acquisition and visibility.",
+        "materials": "Aluminum x1 Adhesive x1 Chlorosilanes x1"
+    },
+    {
+        "name": "Removed Cover",
+        "type": "Cover",
+        "effect": "A removed cover plate. Reduces weight and lowers accuracy while increasing aiming speed.",
+        "materials": "Sealant x1 Aluminum x1"
+    },
+    {
+        "name": "Semi-Automatic",
+        "type": "Receiver",
+        "effect": "Receiver that fires once per trigger pull.",
+        "materials": "Copper x2 Sealant x2 Nickel x2 Titanium x3"
+    },
+    {
+        "name": "Short Barrel",
+        "type": "Barrel",
+        "effect": "Increases Aim Down Sight speed at the cost of Accuracy and Recoil Control",
+        "materials": "Iron x1 Nickel x1"
+    },
+    {
+        "name": "Short Barrel (Advanced Solstice)",
+        "type": "Barrel",
+        "effect": "Increases Aiming Speed at the cost of Accuracy, Recoil Control, and Magazine Size",
+        "materials": "Iron x1 Nickel x1"
+    },
+    {
+        "name": "Short Barrel with Laser Sight",
+        "type": "Barrel",
+        "effect": "Increases Aiming Speed at the cost of Accuracy, Recoil Control, and Magazine Size. Adds a Laser Sight",
+        "materials": "Helium-3 x1 Iron x1 Nickel x1 Neon x1"
+    },
+    {
+        "name": "Shielded Tool Grip",
+        "type": "Grip and Stock",
+        "effect": "A shielded grip to vastly increase Recoil Control at the cost of Aim Down Sights speed. Slightly increases long-range Accuracy.",
+        "materials": "Tungsten x2 Adhesive x2"
+    },
+    {
+        "name": "Short Scope",
+        "type": "Optic",
+        "effect": "Short scope for 2x magnified view.",
+        "materials": "Adhesive x1 Chlorosilanes x2 Titanium x2"
+    },
+    {
+        "name": "Slug Shots",
+        "type": "Magazine and Battery",
+        "effect": "Single, large projectiles that can be fired much further and do vastly more damage.",
+        "materials": "Copper x2 Lead x2 Polymer x1"
+    },
+    {
+        "name": "Small Battery",
+        "type": "Magazine and Battery",
+        "effect": "Increases Aim Down Sght speed and Reload speed‘at the cost of Ammo Capacity.",
+        "materials": "Cobalt x1 Sealant x1 Tungsten x1"
+    },
+    {
+        "name": "Small Magazine",
+        "type": "Receiver",
+        "effect": "Increases Aim Down Sight speed and Reload speed at the cost of Ammo Capacity.",
+        "materials": "Tungsten x1 Lead x1 Sealant x1"
+    },
+    {
+        "name": "Standard Barrel with Laser Sight",
+        "type": "Barrel",
+        "effect": "Standard issue barrel with a Laser Sight for better target acquisition.",
+        "materials": "Helium-3 x3 Iron x2 Neon x1"
+    },
+    {
+        "name": "Standard Whitehot Rounds",
+        "type": "Magazine and Battery",
+        "effect": "Standard chemically-tipped rounds that burn on contact.",
+        "materials": "Iron x1 Aluminum x1 Solvent x1"
+    },
+    {
+        "name": "Stealth Lasers",
+        "type": "Muzzle",
+        "effect": "Reduces the visibility and acoustic intensity of lasers.",
+        "materials": "Tantalum x3 Caesium x3 Titanium x2 Zero Wire x1"
+    },
+    {
+        "name": "Suppressor",
+        "type": "Muzzle",
+        "effect": "Vastly reduces acoustic intensity while increasing Accuracy at the cost of Range.",
+        "materials": "Tantalum x3 Tungsten x2 Polymer x2"
+    },
+    {
+        "name": "Supressor (Barrel)",
+        "type": "Barrel",
+        "effect": "Vastly reduces acoustic intensity while increasing Accuracy at the cost of Range.",
+        "materials": "Tungsten x2 Polymer x2 Titanium x3"
+    },
+    {
+        "name": "Stabilizing Barrel",
+        "type": "Barrel",
+        "effect": "Specialized, mag-assisted barrels vastly increases Accuracy and Recoil control at the cost of Aim Down Sights speed while standing still.",
+        "materials": "Tungsten x2 Lubricant x1 Nickel x2"
+    },
+    {
+        "name": "Tactical Battery",
+        "type": "Magazine and Battery",
+        "effect": "Lighter mag that vastly increases Aim Down Sight speed and Reload speed.",
+        "materials": "Sealant x1 Lithium x1"
+    },
+    {
+        "name": "Tactical Folding Stock",
+        "type": "Grip and Stock",
+        "effect": "Lighter folding stock for quicker Aim Down Sights speed and Stability.",
+        "materials": "Titanium x1 Sealant x1 Aluminum x1"
+    },
+    {
+        "name": "Tactical Grip",
+        "type": "Grip and Stock",
+        "effect": "A lighter grip that increases Aim Down Sight speed. Reload speed,. and Stability.",
+        "materials": "Sealant x1 Titanium x1"
+    },
+    {
+        "name": "Tactical Stock",
+        "type": "Grip and Stock",
+        "effect": "Lighter stock for quicker Aim Down Sights speed and better Stability.",
+        "materials": "Aluminum x1 Sealant x1 Titanium x1"
+    },
+    {
+        "name": "Tactical Magazine",
+        "type": "Magazine and Battery",
+        "effect": "Lighter mag that vastly increases Aim Down Sight speed and Reload speed.",
+        "materials": "Lead x1 Sealant x1"
+    },
+    {
+        "name": "Tesla Pylons",
+        "type": "Magazine and Battery",
+        "effect": "Pylons that can be fired into surfaces that arc electricity between them. Mainly used for area denial.",
+        "materials": "Tau Grade Rheostat x1 Adhesive x2 Zero Wire x2"
+    },
+    {
+        "name": "Whitehot Rounds",
+        "type": "Magazine and Battery",
+        "effect": "Chemically-tipped rounds that burn on contact.",
+        "materials": "Aluminum x1 Iron x1 Solvent x1"
+    },
+    {
+        "name": "Stabilizing Stock",
+        "type": "Grip and Stock",
+        "effect": "Specialized, mag-assisted grips vastly increases Accuracy and Recoil control at the cost of Aim Down Sights speed while standing still.",
+        "materials": "Polymer x2 Neodymium x2 Adhesive x3"
+    },
+    {
+        "name": "Foregrip with Laser Sight",
+        "type": "Laser",
+        "effect": "Laser Sight attachment to help with target acquisition and increase Accuracy.",
+        "materials": "Aluminum x1 Helium-3 x1 Neon x1"
+    },
+    {
+        "name": "Foregrip with Recon Laser Sight",
+        "type": "Laser",
+        "effect": "Marks enemies while Aiming, and greatly increases Accuracy.",
+        "materials": "Vanadium x3 Adhesive x2 Palladium x2 Zero Wire x2"
+    },
+    {
+        "name": "Standard Foregrip",
+        "type": "Laser",
+        "effect": "A forward grip that increases Stability and Recoil Control.",
+        "materials": "Aluminum x1 Sealant x1"
+    },
+    {
+        "name": "Hornet Nest",
+        "type": "Magazine and Battery",
+        "effect": "Explosive rounds explode downwards into a cluster of mini-explosions.",
+        "materials": "Tetrafluorides x3 Adhesive x3 Lead x3"
+    },
+    {
+        "name": "Magnetic Rails",
+        "type": "Barrel",
+        "effect": "Increases the Rate of Fire and Damage at the cost of Aim Down Sights speed.",
+        "materials": "Supercooled Magnet x1 Cobalt x2 Lubricant x1"
+    },
+    {
+        "name": "Shock Charge Band",
+        "type": "Muzzle",
+        "effect": "Electrified device that attaches an electric burst of energy to rounds passed through it.",
+        "materials": "Polymer x1 Adhesive x2 Titanium x4 Ytterbium x2"
+    },
+    {
+        "name": "Stock",
+        "type": "Grip and Stock",
+        "effect": "A full stock for better Recoil management.",
+        "materials": "Aluminum x2 Sealant x1"
+    },
+    {
+        "name": "Glow Sights",
+        "type": "Optic",
+        "effect": "Iron sights with specialized capsules that glow in both day and night for increased visibility.",
+        "materials": "Aluminum x1 Uranium x1"
+    },
+    {
+        "name": "Extended Magazine",
+        "type": "Magazine and Battery",
+        "effect": "Slightly increases Ammo capacity at the cost of Ain Down Sight speed and Reload speed.",
+        "materials": "Tungsten x2 Lead x2 Sealant x2"
+    },
+    {
+        "name": "Extra Large Magazine",
+        "type": "Magazine and Battery",
+        "effect": "Extra Large Magazine",
+        "materials": "Lead x3 Adhesive x2 Titanium x2"
+    },
+    {
+        "name": "Short Suppressor",
+        "type": "Muzzle",
+        "effect": "Vastly reduces acoustic intensity and slightly increases Accuracy at the cost of Range.",
+        "materials": "Tantalum x2"
+    },
+    {
+        "name": "Red Dot Sight",
+        "type": "Optic",
+        "effect": "Short scope for 2x magnified view.",
+        "materials": "Aluminum x1 Helium-3 x1 Neon x1"
+    },
+    {
+        "name": "Tech Barrel",
+        "type": "Barrel",
+        "effect": "Greatly increases Accuracy, Recoil Control, and Range at the cost of Aim Down Sight speed.",
+        "materials": "Sealant x1 Iron x2 Nickel x2"
+    },
+    {
+        "name": "Fluted Barrel",
+        "type": "Barrel",
+        "effect": "A lighter barrel with increased accuracy and recoil control.",
+        "materials": "Sealant x1 Nickel x1 Titanium x2"
+    },
+    {
+        "name": "Long Scope",
+        "type": "Optic",
+        "effect": "Long scope for 6.5x magnified View.",
+        "materials": "Europium x3 Adhesive x3 Chlorosilanes x4 Zero Wire x2"
+    },
+    {
+        "name": "Bullet Hose",
+        "type": "Internal",
+        "effect": "Internal module that increases accuracy, range, rate of fire, and tracer frequency.",
+        "materials": "Platinum x2 Monopropellant x2 Adhesive x4 Titanium x3 Zero Wire x2"
+    }
+]

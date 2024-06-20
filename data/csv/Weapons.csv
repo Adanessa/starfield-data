@@ -1,0 +1,92 @@
+Name,Unique,Type,Dmg,Ammo,Mag,Fire Rate,Range,Accuracy,Mass,Mod Capacity
+AA-99,Regular,Rifle,Phys 23,11MM,30,112,40,65.7%,3.00,8
+Ace Sidearm,Unique,Pistol,Phys 21,.27 CALIBER,20.,40.,20,72.0%,1.70,7
+Arc Welder,Regular,Heavy Weapon,Engy 16,3KV LZR,100,76,20,45.6%,4.20,2
+Auto-Rivet,Regular,Heavy Weapon,Phys 136,RIVET,10,15,20,63.1%,4.50,4
+Barrow Knife,Regular,Melee Weapon,Phys 22,N/A,N/A,N/A,N/A,N/A,0.34,N/A
+Beowulf,Regular,Rifle,Phys 49,7.77MM,30,50,40,69.1%,2.00,8
+Big Bang,Unique,Particle Beam Shotgun,Phys 32 Engy 94,HEAVY FUSE,8,14,20,54.7%,7.00,7
+Boom Boom,Unique,Shotgun,Phys 68,CASELESS SHELL,20.,60.,24,43.3%,3. 75,8
+Breach,Regular,Shotgun,Phys 135,Sx25 CLL SHELL,7,10,20,55.3%,7.30,8
+Bridger,Regular,Heavy Weapon,Phys 127,40MM XPL,4,5,40,63.4%,5.50,6
+Coachman,Regular,Shotgun,Phys 71,CASELESS SHELL,2,47,20,38.4%,3.00,7
+Combat Knife,Regular,Melee Weapon,Phys 16,N/A,N/A,N/A,N/A,N/A,0.36,N/A
+Cutter,Regular,Heavy Weapon,Phys 4,CUTTER,--,76,3,76.7%,4.00,0
+Deadeye,Unique,Pistol,Phys 70,7.5MM,6,12,40,67.1%,2.30,8
+Despondent Assassin,Unique,Rifle,Phys 47,9X39MM,12,40,100,86.8%,2.95,3
+Drum Beat,Regular,Rifle,Phys 11,11MM,60,160,40,65.6%,4.30,7
+Elegance,Unique,Pistol,Phys 66,.43 ULTRAMAG,8,109,17,73.7%,1.50,7
+Eon,Regular,Pistol,Phys 14,7.77MM,12,50,20,67.5%,0.55,6
+Equinox,Regular,Laser Rifle,Engy 13,3KU LZR,20,50,50,70.2%,3.20,7
+Grendel,Regular,Rifle,Phys 4,7.77MM,50,170,20,66.2%,2.65,8
+Hard Target,Regular,Rifle,Phys 158,.50 CALIBER,5,25,100,74.2%,9.15,7
+Head Ranger,Regular,Rifle,Phys 51,.50 CALIBER,6,14,48,79.6%,5.50,6
+Kodama,Regular,Rifle,Phys 18,7.77MM,30,170,20,65.7%,2.25,7
+Kraken,Regular,Pistol,Phys 4,6.5MM,25,150,20,69.6%,1.00,6
+Lawgiver,Regular,Rifle,Phys 42,.50 CALIBER,6,10,40,68.0%,3.60,6
+Maelstrom,Regular,Rifle,Phys 5,6.5MM,40,150,40,65.8%,4.15,7
+Magpulse,Regular,Rifle,Phys 97,6.5MM MI,20,17,40,58.6%,3.70,5
+Magshear,Regular,Rifle,Phys 14,.50 MI,75,300,40,66.5%,3.90,5
+Magshot,Regular,Pistol,Phys 72,.43 MI,6,25,20,62.8%,2.00,6
+Microgun,Regular,Heavy Weapon,Phys 12,7.77MM,320,350,40,47.2%,11.40,6
+N67 Smartgun,Unique,Heavy Weapon,Phys 14,7.77MM,320,350,40,49.3%,15.10,6
+Novablast Disruptor,Regular,Electromagnetic Rifle,EM 105,HEAVY FUSE,5,20,20.,70.2%,2.70,5
+Novalight,Regular,Particle Beam Pistol,EM 8,LIGHT FUSE,12,22,30,68.6%,1.35,7
+Old Earth Assault Rifle,Regular,Rifle,Phys 20,7.62MM,30,150,40,64.7%,3.50,7
+Old Earth Hunting Rifle,Regular,Rifle,Phys 41,9X39MM,20,40,100,86.8%,3.15,3
+Old Earth Pistol,Regular,Pistol,Phys ??,.45 CALIBER,9,67,20,66.9%,1.10,4
+Old Earth Shotgun,Regular,Shotgun,Phys 100,12G SHELL,6,6,20,56.3%,3.68,5
+Orion,Regular,Laser Rifle,Engy 27,3KV LZR,35,33,50,77.0%,5.25,7
+Pacifier,Unique,Shotgun,Phys 81,1Sx25 CLL SHELL,9,20,20,45.0%,2.75,6
+Rapidshot,Unique,Shotgun,Phys 135,15X25 CLL SHELL,7,18,24,56.9%,7.45,8
+Rattler,Regular,Pistol,__common__,.27 CALIBER,12,50,20,68.1%,0.05,7
+Razorback,Regular,Pistol,Phys 70,7.5MM,6,12,40,67.1%,2.30,8
+Regulator,Unique,Pistol,Phys 48,.43 ULTRAMAG,8,18,20,71.3%,0.70,7
+Rescue Axe,Regular,Melee Weapon,Phys 17,N/A,N/A,N/A,N/A,N/A,1.40,N/A
+Rispshank,Regular,Melee Weapon,Phys 12,N/A,N/A,N/A,N/A,N/A,0.40,N/A
+Short Circuit,Unique,Laser Pistol,Engy 44,1.5KV LZR,22,29,32,75.8%,4.50,7
+Shotty,Unique,Shotgun,Phys 68,CASELESS SHELL,12,60,20,35.2%,2.95,8
+Sidestar,Regular,Pistol,Phys 16,.27 CALIBER,20,40,20,67.9%,8.65,7
+Solstice,Regular,Laser Pistols,Engy 10,1.5KV LZR,16,25,30,69.3%,1.30,7
+Speechless Fire,Unique,Rifle,Phys 45,9X39MM,20.,48.,100,87.5%,3.15,3
+Tanto,Regular,Melee Weapon,Phys 40,N/A,N/A,N/A,N/A,N/A,0.45,N/A
+The Buzzcut,Unique,Rifle,Phys 5,7.77MM,50,212,22,70.2%,2.85,8
+The Prime,Unique,Pistol,Phys 84,7.5MM,6,12,48,79.8%,3.60,8
+The Zapper,Unique,Pistol,Phys 16,.27 CALIBER,28.,104,24,71.6%,2.85,7
+Tombstone,Regular,Rifle,Phys 26,11MM,20,90,40,72.8%,4.15,6
+UC Naval Cutlass,Regular,Melee Weapon,Phys 20,N/A,N/A,N/A,N/A,N/A,1.40,N/A
+Urban Eagle,Regular,Pistol,Phys 53,.43 ULTRAMAG,8,25,20,67.7%,1.75,7
+Wakizashi,Unique,Melee Weapon,Phys 49,N/A,N/A,N/A,N/A,N/A,1.35,N/A
+Xm-2311,Unique,Pistol,__common__,.45 CALIBER,9,67,20,66.9%,1.10,5
+Ecliptic Pistol,Regular,Rifle,Phys 35,11MM XPL,10,25,20,65.3%,1.00,0
+Magsniper,Regular,Rifle,Phys 304,6.5MM MI,12,17,100,86.1%,9.55,6
+Magstorm,Regular,Heavy Weapon,Phys 12,.50 MI,160,400,40,50.5%,12.00,2
+Osmium Dagger,Regular,Melee Weapon,Phys 28,N/A,N/A,N/A,N/A,N/A,2.70,N/A
+Va'Ruun Painblade,Regular,Melee Weapon,Phys 62,N/A,N/A,N/A,N/A,N/A,1.80,N/A
+Va'Ruun Starshard,Regular,Particle Beam Pistol,Phys 26 Engy 80,LIGHT FUSE,12,12,30,70.1%,1.00,7
+Va'Ruun Inflictor,Regular,Particle BeamRifle,Phys 38 Engy 113,HEAVY FUSE,20,25,50,70.0%,3.75,6
+Heller's Cutter,Unique,Heavy Weapon,Engy 4,CUTTER,9,76,3,76.7%,4.00,0
+The Spacer,Unique,Particle Beam Pistol,Phys 9,LIGHT FUSE,12,25,36,70.2%,3.05,7
+Mindtear,Unique,Rifle,Phys 13,.50 MI,75,345,50,66.4%,6.90,5
+Poisonstorm,Unique,Heavy Weapon,Phys 10,.50 MI,160,400,58,56.1%,12.20,2
+Feather,Unique,Rifle,Phys 19,11MM,36,117,48,78.2%,2.19,6
+Fury,Unique,Rifle,Phys 20,7.62MM,100,150,44,68.9%,5.15,7
+Pïrate Legend,Unique,Rifle,Phys 4,6.5MM,70,180,40,68.0%,5.50,7
+Hunterwulf,Unique,Rifle,Phys 14,7.77MM,30,120,56,88.7%,5.00,8
+Power Beat,Unique,Rifle,Phys 66,11MM,60,39,20,44.5%,4.10,7
+Radburn,Unique,Pistol,Phys 15,7.77MM,12,114,20,67.9%,0.65,6
+Ambassador,Unique,Pistol,Phys 53,.43Ultramag,8,109,26,77.4%,3.75,7
+Trickshot,Unique,Pistol,Phys 74,.43MI,6,34,30,63.3%,5.10,6
+Vampire's Gift,Unique,Rifle,Phys 20,7.77MM,66,120,21,75.3%,4.85,7
+Reckless Bombardent,Unique,Heavy Weapon,Phys 120,40MM XPL,8,12,40,65.5%,14.15,6
+X-989 Microgun,Unique,Heavy Weapon,Phys 10,7.77MM,300,350,42,67.0%,12.30,6
+Shattered Shock,Unique,Heavy Weapon,Phys 127,40MM XPL,6,5,48,76.3%,6.70,6
+Revenant,Unique,Rifle,Phys 10,.50 MI,150,330,44,69.8%,0.15,5
+Keelhauler,Unique,Pistol,Phys 53,.43 MI,6,140,24,70.1%,3.50,6
+Tempest,Unique,Rifle,Phys 19,11MM,36,90,48,68.8%,4.65,6
+Unfair Advantage,Unique,Pistol,Phys 51,7.5MM,6,75,36,64.3%,2.05,8
+Sir Livingstone's Pistol,Unique,Pistol,Phys 28,.45CALIBER,15,67,24,69.2%,1.80,4
+Street Sweepper,Unique,Pistol,Phys 3,6.5MM,25,180,24,74.7%,2.85,6
+Acid Rain,Unique,Rifle,Phys 3,7.77MM,50,170,17,70.3%,2.4,
+Justifier,Unique,Rifle,Phys ?,.50 CALIBER,6,12,30,72.2%,4.55,6
+Fiscal Quarter,Unique,Rifle,Phys 5,6.5MM,40,180,40,73.5%,2.15,7

@@ -1,0 +1,422 @@
+[
+    {
+        "name": "Armstrong 10 Cockpit",
+        "brand": "Hopetech",
+        "cargo": "200",
+        "hull": "5",
+        "crew Stations": "2",
+        "value": "3850",
+        "mass": "5",
+        "required": "Level 1"
+    },
+    {
+        "name": "Armstrong 10R Cockpit",
+        "brand": "Hopetech",
+        "cargo": "220",
+        "hull": "5",
+        "crew Stations": "2",
+        "value": "4500",
+        "mass": "6",
+        "required": "Level 3"
+    },
+    {
+        "name": "Armstrong 20 Cockpit",
+        "brand": "Hopetech",
+        "cargo": "240",
+        "hull": "5",
+        "crew Stations": "2",
+        "value": "5750",
+        "mass": "9",
+        "required": "Level 4"
+    },
+    {
+        "name": "Armstrong 20E Cockpit",
+        "brand": "Hopetech",
+        "cargo": "280",
+        "hull": "5",
+        "crew Stations": "2",
+        "value": "9800",
+        "mass": "9",
+        "required": "Level 9"
+    },
+    {
+        "name": "Armstrong 20R Cockpit",
+        "brand": "Hopetech",
+        "cargo": "260",
+        "hull": "5",
+        "crew Stations": "2",
+        "value": "7300",
+        "mass": "11",
+        "required": "Level 16"
+    },
+    {
+        "name": "Cabot C3 Bridge",
+        "brand": "Nova Galactic",
+        "cargo": "280",
+        "hull": "5",
+        "crew Stations": "2",
+        "value": "960",
+        "mass": "14",
+        "required": "Level 1"
+    },
+    {
+        "name": "Cabot C3X Bridge",
+        "brand": "Nova Galactic",
+        "cargo": " 300",
+        "hull": "5",
+        "crew Stations": "2",
+        "value": " 12800",
+        "mass": " 17",
+        "required": "Level 19"
+    },
+    {
+        "name": "Cabot C4 Bridge",
+        "brand": "Nova Galactic",
+        "cargo": " 320",
+        "hull": "5",
+        "crew Stations": "2",
+        "value": "17000",
+        "mass": "19",
+        "required": "Level 25"
+    },
+    {
+        "name": "Commander 500 Bridge",
+        "brand": "Hopetech",
+        "cargo": " 360",
+        "hull": "5",
+        "crew Stations": "2",
+        "value": "36200",
+        "mass": "30",
+        "required": "Level 40"
+    },
+    {
+        "name": "DS10.1 Phobos Cockpit",
+        "brand": "Deimos",
+        "cargo": "200",
+        "hull": "5",
+        "crew Stations": "2 ",
+        "value": "3657",
+        "mass": "5",
+        "required": "Level 1"
+    },
+    {
+        "name": "DS10.2 Phobos Cockpit",
+        "brand": "Deimos",
+        "cargo": "220",
+        "hull": "5",
+        "crew Stations": "2 ",
+        "value": "4322",
+        "mass": "6",
+        "required": "Level 3"
+    },
+    {
+        "name": "DS20.1 Phobos Cockpit",
+        "brand": "Deimos",
+        "cargo": "240",
+        "hull": "5",
+        "crew Stations": "2 ",
+        "value": "5462",
+        "mass": "9",
+        "required": "Level 4"
+    },
+    {
+        "name": "DS20.2 Phobos Cockpit",
+        "brand": "Deimos",
+        "cargo": "260",
+        "hull": "5",
+        "crew Stations": "2 ",
+        "value": "6935",
+        "mass": "11",
+        "required": "Level 10"
+    },
+    {
+        "name": "DS20.3 Phobos Cockpit",
+        "brand": "Deimos",
+        "cargo": "280",
+        "hull": "5",
+        "crew Stations": "2 ",
+        "value": "9310",
+        "mass": "15",
+        "required": "Level 16"
+    },
+    {
+        "name": "DS30.1 Ares Bridge",
+        "brand": "Deimos",
+        "cargo": "300",
+        "hull": "5",
+        "crew Stations": "8",
+        "value": "45700",
+        "mass": "17",
+        "required": "Level 1"
+    },
+    {
+        "name": "DS30.2 Ares Bridge",
+        "brand": "Deimos",
+        "cargo": "320",
+        "hull": "5",
+        "crew Stations": "8",
+        "value": "51100",
+        "mass": "22",
+        "required": "Level 27 "
+    },
+    {
+        "name": "DS40.1 Ares Bridge",
+        "brand": "Deimos",
+        "cargo": "340",
+        "hull": "5",
+        "crew Stations": "8",
+        "value": "57800",
+        "mass": "25",
+        "required": "Level 32 "
+    },
+    {
+        "name": "DS40.2 Ares Bridge",
+        "brand": "Deimos",
+        "cargo": "360",
+        "hull": "5",
+        "crew Stations": "8",
+        "value": "69100",
+        "mass": "30",
+        "required": "Level 38 "
+    },
+    {
+        "name": "Himeji Bridge",
+        "brand": "Taiyo Astroneering",
+        "cargo": "320",
+        "hull": "5",
+        "crew Stations": "2",
+        "value": "17000",
+        "mass": "19",
+        "required": "Level 28 "
+    },
+    {
+        "name": "Himeji Command Bridge",
+        "brand": "Taiyo Astroneering",
+        "cargo": "340",
+        "hull": "5",
+        "crew Stations": "2",
+        "value": "24900",
+        "mass": "25",
+        "required": "Level 33"
+    },
+    {
+        "name": "Kon-Tiki B-300 Bridge",
+        "brand": "Stroud-Eklund",
+        "cargo": "300",
+        "hull": "5",
+        "crew Stations": "4",
+        "value": "1510",
+        "mass": "15",
+        "required": "Level 1"
+    },
+    {
+        "name": "Kon-Tiki B-310 Bridge",
+        "brand": "Stroud-Eklund",
+        "cargo": "320",
+        "hull": "5",
+        "crew Stations": "4",
+        "value": "19200",
+        "mass": "17",
+        "required": "Level 23"
+    },
+    {
+        "name": "Kon-Tiki B-400 Bridge",
+        "brand": "Stroud-Eklund",
+        "cargo": "340",
+        "hull": "5",
+        "crew Stations": "4",
+        "value": "26500",
+        "mass": "28",
+        "required": "Level 28"
+    },
+    {
+        "name": "Kon-Tiki B-500 Bridge",
+        "brand": "Stroud-Eklund",
+        "cargo": " 360",
+        "hull": "5",
+        "crew Stations": "6",
+        "value": "44900",
+        "mass": "34",
+        "required": " Level 34"
+    },
+    {
+        "name": "Kon-Tiki B-600 Bridge",
+        "brand": "Stroud-Eklund",
+        "cargo": " 380",
+        "hull": "5",
+        "crew Stations": "6",
+        "value": "63700",
+        "mass": "35",
+        "required": " Level 41"
+    },
+    {
+        "name": "Magellan C1 Cockpit",
+        "brand": "Nova Galactic",
+        "cargo": "200",
+        "hull": "5",
+        "crew Stations": "2 ",
+        "value": "3705",
+        "mass": "6",
+        "required": "Level 1"
+    },
+    {
+        "name": "Magellan C1X Cockpit",
+        "brand": "Nova Galactic",
+        "cargo": "220",
+        "hull": "5",
+        "crew Stations": "2 ",
+        "value": "4417",
+        "mass": "7",
+        "required": "Level 5"
+    },
+    {
+        "name": "Magellan C2 Cockpit",
+        "brand": "Nova Galactic",
+        "cargo": "240",
+        "hull": "5",
+        "crew Stations": "2 ",
+        "value": "5605",
+        "mass": "10",
+        "required": "Level 1"
+    },
+    {
+        "name": "Magellan C2X Cockpit",
+        "brand": "Nova Galactic",
+        "cargo": "260",
+        "hull": "5",
+        "crew Stations": "2 ",
+        "value": "7077",
+        "mass": "12",
+        "required": "Level 8"
+    },
+    {
+        "name": "Magellan C2X Cockpit (NASA)",
+        "brand": "Nova Galactic",
+        "cargo": "260",
+        "hull": "5",
+        "crew Stations": "2 ",
+        "value": "7077",
+        "mass": "12",
+        "required": "Level 1"
+    },
+    {
+        "name": "Overseer 300 Bridge",
+        "brand": "Hopetech",
+        "cargo": "300",
+        "hull": "5",
+        "crew Stations": "2",
+        "value": "12800",
+        "mass": "17",
+        "required": "Level 1"
+    },
+    {
+        "name": "Overseer 300E Bridge",
+        "brand": "Hopetech",
+        "cargo": "320",
+        "hull": "5",
+        "crew Stations": "2",
+        "value": "18200",
+        "mass": "22",
+        "required": "Level 28"
+    },
+    {
+        "name": "Overseer 400 Bridge",
+        "brand": "Hopetech",
+        "cargo": "340",
+        "hull": "5",
+        "crew Stations": "2",
+        "value": "24900",
+        "mass": "25",
+        "required": "Level 33"
+    },
+    {
+        "name": "Samurai Cockpit",
+        "brand": "Taiyo Astroneering",
+        "cargo": "200",
+        "hull": "5",
+        "crew Stations": "2",
+        "value": "3900",
+        "mass": "6",
+        "required": "Level 1"
+    },
+    {
+        "name": "Samurai Enhanced Cockpit",
+        "brand": "Taiyo Astroneering",
+        "cargo": "220",
+        "hull": "5",
+        "crew Stations": "2",
+        "value": "4650",
+        "mass": "7",
+        "required": "Level 4"
+    },
+    {
+        "name": "Shogun Cockpit",
+        "brand": "Taiyo Astroneering",
+        "cargo": "280",
+        "hull": "5",
+        "crew Stations": "2",
+        "value": "9600",
+        "mass": "14",
+        "required": "Level 16"
+    },
+    {
+        "name": "Shogun Enhanced Cockpit",
+        "brand": "Taiyo Astroneering",
+        "cargo": "300",
+        "hull": "5",
+        "crew Stations": "2",
+        "value": "12800",
+        "mass": "17",
+        "required": "Level 22"
+    },
+    {
+        "name": "Viking CP-100 Cockpit",
+        "brand": "Stroud-Eklund",
+        "cargo": "200",
+        "hull": "5",
+        "crew Stations": "4",
+        "value": "650",
+        "mass": "4",
+        "required": "Level 1"
+    },
+    {
+        "name": "Viking CP-110 Cockpit",
+        "brand": "Stroud-Eklund",
+        "cargo": "220",
+        "hull": "5",
+        "crew Stations": "4",
+        "value": "7200",
+        "mass": "5",
+        "required": "Level 6"
+    },
+    {
+        "name": "Viking CP-200 Cockpit",
+        "brand": "Stroud-Eklund",
+        "cargo": "240",
+        "hull": "5",
+        "crew Stations": "4",
+        "value": "8400",
+        "mass": "8",
+        "required": "Level 8"
+    },
+    {
+        "name": "Viking CP-210 Cockpit",
+        "brand": "Stroud-Eklund",
+        "cargo": " 260",
+        "hull": " 5",
+        "crew Stations": "4",
+        "value": "9900",
+        "mass": "10",
+        "required": "Level 9"
+    },
+    {
+        "name": "Viking CP-220 Cockpit",
+        "brand": "Stroud-Eklund",
+        "cargo": "280",
+        "hull": "5",
+        "crew Stations": "4",
+        "value": "12000",
+        "mass": "12",
+        "required": "Level 12"
+    }
+]

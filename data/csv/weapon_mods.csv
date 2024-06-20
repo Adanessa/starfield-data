@@ -1,0 +1,92 @@
+Name,Type,Effect,Materials
+Amplifier,Internal,"Amplifies power output, increasing damage",Tantalum x3 Adhesive x3 Isocentered Magnet x1 Zero Wire x1
+Amplifier (Cover),Cover,"Amplifies power output, increasing damage.",Adhesive x2 Isocentered Magnet x1 Zero Wire
+Annihilator Rounds,Magazine and Battery,"Banned by almost every government, these rounds produce a disease-like effect that spreads to any target that gets too close.",Lead x3 Adhesive x3 Hypercatalyst x2 Toxin x4
+Armor-Piercing Rounds,Magazine and Battery,More powerful casingicax penetrate even the sturdiest armors.,Tungsten x2 Lead x1 Adhesive x1
+Binary Trigger,Receiver,A binary trigger allows for the weapon to fire on pull and release of the trigger for a faster fire rate.,Microsecond Regulator x1 Lubricant x3 Ytterbium x4 Zero Wire x1
+Bull Barrel,Barrel,A heavier barrel for more increased accuracy and stability.,Tungsten x2 Sealant x1 Nickel x2
+Burst Fire,Receiver,Receiver that fires 4 rounds per trigger pull.,Lubricant x3 Titanium x4 Ytterbium x2
+Choke,Muzzle,Muzzle device specially designed to reduce shotgun spread.,Titanium x2 Sealant x1 Tungsten x3
+Compensator,Muzzle,Increases Stability and Hip-Fire accuracy at the cost of long-range Accuracy,Aluminum x1 Nickel x1
+Depleted Uranium Rounds,Magazine and Battery,"Built using depleted Uranium, these rounds can penetrate any armor.",Uranium x3 Lead x3 Sealant x2
+Drum Magazine,Magazine and Battery,Vastly increases Ammo Capacity at the cost of Aim Down Sights speed and Reload speed.,Lead x3 Adhesive x2 Titanium x2
+Double Barrel Muzzle,Muzzle,Changes rounds fired to go through a two-barreled attachment for different spread shots.,Tungsten x3 Polymer x3 Adhesive x2 Titanium x3 Ytterbium x2
+EM-Charged Shot,Magazine and Battery,"EM-charged ballistic rounds, typically non-lethal.",Cobalt x3 Polymer x2 Isocentered Magnet x1
+Electromagnetic Beams,Magazine and Battery,Electromagnetic rounds that can knockout living creatures as well as disable robotic units for a time.,Beryllium x3 Adhesive x2 Isocentered Magnet ..x1
+Ergonomic Grip,Grip and Stock,A comfortable grip that helps increase Accuracy and Aim Down Sights speed.,Aluminum x2 Adhesive x1
+Ergonomic Stock,Grip and Stock,A comfortable grip that helps increase Accuracy and Aim Down Sights speed.,Aluminum x2 Sealant x1 Titanium x2
+Explosive Rounds,Magazine and Battery,Rounds that explode on contact with a surface,Tetrafluorides x2 Adhesive x2 Lead x2
+Extended Barrel,Barrel,"Vastly increases Accuracy, Recoil Control, and Range at the cost of Aim Down Sight speed.",Sealant x1 Iron x2 Nickel x2
+Flechette Drum Magazine,Magazine and Battery,Vastly increases Ammo Capacity at the cost of Aim Down Sights speed and Reload speed.,Lead x3 Adhesive x2 Titanium x2
+Flechette Large Magazine,Magazine and Battery,Increases Ammo capacity at the cost of Aim Down Sight. speed and Reload speed.,Sealant x2 Lead x2 Tungsten x2
+Flechette Rounds,Magazine and Battery,Multiple razor~edged rounds that slice through unarmed targets and cause a bleeding effect.,Lead x2 Antimony x2 Adhesive x2
+Flechette Tactical Magazine,Magazine and Battery,Lighter mag that vastly increases Aim Down Sight speed and Reload speed.,Sealant x1 Lead x1
+Focal Lens,Muzzle,Specialized lenses. Vastly increase accuracy.,Tungsten x1 Sealant x1 Argon x1
+Focus Nozzle,Muzzle,"Increases Damage, Headshot Damage, and Range",Tantalum x3 Polymer x2 Titanium x2 Zero Wire x1
+Folding Stock,Grip and Stock,Sturdy folding stock for added Recoil management and greater Stability.,Titanium x2 Aluminum x2
+Fully Automatic,Receiver,Receiver that fires continuously while the trigger is pulled.,Microsecond Regulator x1 Lubricant x4 Titanium x4 Sealant x3
+Fully Automatic (Solstice),Receiver,Receiver that fires continuously while the trigger is pulled.,Sealant x3 Microsecond Regulator x1 Titanium x4 Palladium x4
+Gut Buster Rounds,Magazine and Battery,"Nasty rounds that, upon firing into an enemy. explode out the backinto a burst. of shrapnel",Lead x3 Adhesive x3 Veryl x2
+Hair Trigger,Internal,Installs a lighter trigger pull for increased Fire Rate.,Platinum x3 Adhesive x3 Iridium x2 Zero Wire x1
+High Powered,Internal,Increases Damage done,Tantalum x3 Adhesive x3 Isocentered Magnet x1 Titanium x4
+High Velocity,Internal,Internal module that increases accuracy and range.,Platinum x3 Monopropellant x1 Titanium x2 Adhesive x3
+Holographic Sight,Optic,Holographic sight for increased target visibility.,Vanadium x3 Adhesive x2 Palladium x2 Zero Wire x1
+Ignition Beams,Magazine and Battery,Lasers do more damage and now burn enemies.,Positron Battery x1 Adhesive x3 Ytterbium x2 Zero Wire x2
+Iron Sights,Optic,Standard issue iron sights.,Aluminum x1 Nickel x1
+Large Battery,Magazine and Battery,Increases Ammo capacity at the cost of Aim Down Sight speed and Reload speed,Sealant x2 Lithium x2 Tungsten x2
+Large Magazine,Magazine and Battery,Increases Ammo capacity at the cost of Aim Down Sight speed and Reload speed,Tungsten x2 Lead x2 Sealant x2
+Large Muzzle Brake,Muzzle,A larger muzzle break that further increases long-range Accuracy and Stability at the cost of Hip-Fire accuracy,Tungsten x2 Sealant x2 Titanium x2 Polymer x2
+Laser Sight,Laser,Laser Sight attachment to help with target acquisition and increase Accuracy.,Aluminum x1 Helium-3 x1 Neon x1
+Long Barrel,Barrel,"Increases Accuracy, Recoil Control, and Range at the cost of Aim Down Sight speed.",Sealant x1 Iron x1 Nickel x1
+Long Barrel (Solstice),Barrel,"Increases Magazine Size, Accuracy, Recoil Control, and Range at the cost of Aim Down Sight speed.",Sealant x1 Iron x1 Nickel x1
+Long Barrel with Laser Sight,Barrel,"Increases Magazine Size, Accuracy, Recoil Control, and Range at the cost of Aiming Speed. Adds a Laser Sight.",Sealant x1 Iron x1 Nickel x1 Helium-3 x1 Neon x1
+Medium Magazine,Magazine and Battery,Medium-sized magazine for decent ammo capacity and weight.,Sealant x1 Lead x2 Tungsten x1
+Medium Scope,Optic,Medium scope for 4x magnified view.,Vanadium x3 Adhesive x2 Chlorosilanes x3 Zero Wire x1
+Muzzle Brake,Muzzle,Increases long-range Accuracy and Stability at the cost of Hip-Fire accuracy,Tungsten x3 Sealant x2 Titanium x2
+No Stock,Magazine and Battery,A removed stock for quick target acquisition and less weight at the cost of inaccuracy.,Sealant x1 Aluminum x1
+Overclocked,Internal,Increases Rate of Fire.,Europium x4 Ytterbium x2 Titanium x3 Zero Wire x2
+Penetrator Rounds,Magazine and Battery,lncredibly powerful rounds that can't pass through multiple enemies.,Lead x3 Antimony x4 Adhesive x3
+Precision Tuning,Internal,Precisely tuned to increase Accuracy and Range.,Tungsten x1 Adhesive x2 Iridium x2 Zero Wire x1
+Recon Laser Sight,Laser,Marks enemies while Aiming and greatly increases Accuracy.,Vanadium x3 Adhesive x2 Palladium x2 Zero Wire x2
+Recon Scope,Optic,Marks enemies while Aiming,Europium x2 Adhesive x2 Chlorosilanes x3 Zero Wire 1
+Reflex Sight,Optic,Reflex sights for quicker target acquisition and visibility.,Aluminum x1 Adhesive x1 Chlorosilanes x1
+Removed Cover,Cover,A removed cover plate. Reduces weight and lowers accuracy while increasing aiming speed.,Sealant x1 Aluminum x1
+Semi-Automatic,Receiver,Receiver that fires once per trigger pull.,Copper x2 Sealant x2 Nickel x2 Titanium x3
+Short Barrel,Barrel,Increases Aim Down Sight speed at the cost of Accuracy and Recoil Control,Iron x1 Nickel x1
+Short Barrel (Advanced Solstice),Barrel,"Increases Aiming Speed at the cost of Accuracy, Recoil Control, and Magazine Size",Iron x1 Nickel x1
+Short Barrel with Laser Sight,Barrel,"Increases Aiming Speed at the cost of Accuracy, Recoil Control, and Magazine Size. Adds a Laser Sight",Helium-3 x1 Iron x1 Nickel x1 Neon x1
+Shielded Tool Grip,Grip and Stock,A shielded grip to vastly increase Recoil Control at the cost of Aim Down Sights speed. Slightly increases long-range Accuracy.,Tungsten x2 Adhesive x2
+Short Scope,Optic,Short scope for 2x magnified view.,Adhesive x1 Chlorosilanes x2 Titanium x2
+Slug Shots,Magazine and Battery,"Single, large projectiles that can be fired much further and do vastly more damage.",Copper x2 Lead x2 Polymer x1
+Small Battery,Magazine and Battery,Increases Aim Down Sght speed and Reload speed‘at the cost of Ammo Capacity.,Cobalt x1 Sealant x1 Tungsten x1
+Small Magazine,Receiver,Increases Aim Down Sight speed and Reload speed at the cost of Ammo Capacity.,Tungsten x1 Lead x1 Sealant x1
+Standard Barrel with Laser Sight,Barrel,Standard issue barrel with a Laser Sight for better target acquisition.,Helium-3 x3 Iron x2 Neon x1
+Standard Whitehot Rounds,Magazine and Battery,Standard chemically-tipped rounds that burn on contact.,Iron x1 Aluminum x1 Solvent x1
+Stealth Lasers,Muzzle,Reduces the visibility and acoustic intensity of lasers.,Tantalum x3 Caesium x3 Titanium x2 Zero Wire x1
+Suppressor,Muzzle,Vastly reduces acoustic intensity while increasing Accuracy at the cost of Range.,Tantalum x3 Tungsten x2 Polymer x2
+Supressor (Barrel),Barrel,Vastly reduces acoustic intensity while increasing Accuracy at the cost of Range.,Tungsten x2 Polymer x2 Titanium x3
+Stabilizing Barrel,Barrel,"Specialized, mag-assisted barrels vastly increases Accuracy and Recoil control at the cost of Aim Down Sights speed while standing still.",Tungsten x2 Lubricant x1 Nickel x2
+Tactical Battery,Magazine and Battery,Lighter mag that vastly increases Aim Down Sight speed and Reload speed.,Sealant x1 Lithium x1
+Tactical Folding Stock,Grip and Stock,Lighter folding stock for quicker Aim Down Sights speed and Stability.,Titanium x1 Sealant x1 Aluminum x1
+Tactical Grip,Grip and Stock,"A lighter grip that increases Aim Down Sight speed. Reload speed,. and Stability.",Sealant x1 Titanium x1
+Tactical Stock,Grip and Stock,Lighter stock for quicker Aim Down Sights speed and better Stability.,Aluminum x1 Sealant x1 Titanium x1
+Tactical Magazine,Magazine and Battery,Lighter mag that vastly increases Aim Down Sight speed and Reload speed.,Lead x1 Sealant x1
+Tesla Pylons,Magazine and Battery,Pylons that can be fired into surfaces that arc electricity between them. Mainly used for area denial.,Tau Grade Rheostat x1 Adhesive x2 Zero Wire x2
+Whitehot Rounds,Magazine and Battery,Chemically-tipped rounds that burn on contact.,Aluminum x1 Iron x1 Solvent x1
+Stabilizing Stock,Grip and Stock,"Specialized, mag-assisted grips vastly increases Accuracy and Recoil control at the cost of Aim Down Sights speed while standing still.",Polymer x2 Neodymium x2 Adhesive x3
+Foregrip with Laser Sight,Laser,Laser Sight attachment to help with target acquisition and increase Accuracy.,Aluminum x1 Helium-3 x1 Neon x1
+Foregrip with Recon Laser Sight,Laser,"Marks enemies while Aiming, and greatly increases Accuracy.",Vanadium x3 Adhesive x2 Palladium x2 Zero Wire x2
+Standard Foregrip,Laser,A forward grip that increases Stability and Recoil Control.,Aluminum x1 Sealant x1
+Hornet Nest,Magazine and Battery,Explosive rounds explode downwards into a cluster of mini-explosions.,Tetrafluorides x3 Adhesive x3 Lead x3
+Magnetic Rails,Barrel,Increases the Rate of Fire and Damage at the cost of Aim Down Sights speed.,Supercooled Magnet x1 Cobalt x2 Lubricant x1
+Shock Charge Band,Muzzle,Electrified device that attaches an electric burst of energy to rounds passed through it.,Polymer x1 Adhesive x2 Titanium x4 Ytterbium x2
+Stock,Grip and Stock,A full stock for better Recoil management.,Aluminum x2 Sealant x1
+Glow Sights,Optic,Iron sights with specialized capsules that glow in both day and night for increased visibility.,Aluminum x1 Uranium x1
+Extended Magazine,Magazine and Battery,Slightly increases Ammo capacity at the cost of Ain Down Sight speed and Reload speed.,Tungsten x2 Lead x2 Sealant x2
+Extra Large Magazine,Magazine and Battery,Extra Large Magazine,Lead x3 Adhesive x2 Titanium x2
+Short Suppressor,Muzzle,Vastly reduces acoustic intensity and slightly increases Accuracy at the cost of Range.,Tantalum x2
+Red Dot Sight,Optic,Short scope for 2x magnified view.,Aluminum x1 Helium-3 x1 Neon x1
+Tech Barrel,Barrel,"Greatly increases Accuracy, Recoil Control, and Range at the cost of Aim Down Sight speed.",Sealant x1 Iron x2 Nickel x2
+Fluted Barrel,Barrel,A lighter barrel with increased accuracy and recoil control.,Sealant x1 Nickel x1 Titanium x2
+Long Scope,Optic,Long scope for 6.5x magnified View.,Europium x3 Adhesive x3 Chlorosilanes x4 Zero Wire x2
+Bullet Hose,Internal,"Internal module that increases accuracy, range, rate of fire, and tracer frequency.",Platinum x2 Monopropellant x2 Adhesive x4 Titanium x3 Zero Wire x2

@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Addiction",
+        "possible Symptoms": "Symptom Name: Symptom Effect goes here Acute Symptom Name: Symptom Effect goes here Severe Symptom Name:Symptom Effect goes here",
+        "treatment Aid Items": "Addichrone Junk Flesh"
+    },
+    {
+        "name": "Brain Injury",
+        "possible Symptoms": "Information to be added",
+        "treatment Aid Items": "Boosted Injector Injector Snake Oil"
+    },
+    {
+        "name": "Burn",
+        "possible Symptoms": "Information to be added",
+        "treatment Aid Items": "Analgesic Poultice Antibiotic Paste Heal Gel Heal Paste Infused Bandages"
+    },
+    {
+        "name": "Concussion",
+        "possible Symptoms": "Information to be added",
+        "treatment Aid Items": "Boosted Injector Injector Snake Oil"
+    },
+    {
+        "name": "Contusion",
+        "possible Symptoms": "Information to be added",
+        "treatment Aid Items": "Analgesic Poultice Bandages Infused Bandages Zipper Bandages"
+    },
+    {
+        "name": "Dislocated Limb",
+        "possible Symptoms": "Information to be added",
+        "treatment Aid Items": "Anchored Immobilizers Immobilizer"
+    },
+    {
+        "name": "Fractured Limb",
+        "possible Symptoms": "Information to be added",
+        "treatment Aid Items": "Anchored Immobilizers Immobilizer"
+    },
+    {
+        "name": "Fractured Skull",
+        "possible Symptoms": "Information to be added",
+        "treatment Aid Items": "Anchored Immobilizers Immobilizer"
+    },
+    {
+        "name": "Frostbite",
+        "possible Symptoms": "Information to be added",
+        "treatment Aid Items": "Analgesic Poultice Antibiotic Paste Heal Gel Heal Paste Infused Bandages"
+    },
+    {
+        "name": "Heatstroke",
+        "possible Symptoms": "Information to be added",
+        "treatment Aid Items": "Boosted Injector Injector Snake Oil"
+    },
+    {
+        "name": "Hernia",
+        "possible Symptoms": "Information to be added",
+        "treatment Aid Items": "Boosted Injector Injector Snake Oil"
+    },
+    {
+        "name": "Hypothermia",
+        "possible Symptoms": "Information to be added",
+        "treatment Aid Items": "Boosted Injector Injector Snake Oil"
+    },
+    {
+        "name": "Infection",
+        "possible Symptoms": "Information to be added",
+        "treatment Aid Items": "Analgesic Poultice Antibiotic Paste Antibiotics Antibiotic Cocktail Penicillin X"
+    },
+    {
+        "name": "Laceration",
+        "possible Symptoms": "Information to be added",
+        "treatment Aid Items": "Analgesic Poultice Bandages Infused Bandages Zipper Bandages"
+    },
+    {
+        "name": "Lung Damage",
+        "possible Symptoms": "Cough: Sporadic O2 damage and detection event",
+        "treatment Aid Items": "Boosted Injector Injector Snake Oil"
+    },
+    {
+        "name": "Poisoning",
+        "possible Symptoms": "Information to be added",
+        "treatment Aid Items": "Boosted Injector Injector Snake Oil"
+    },
+    {
+        "name": "Puncture Wound",
+        "possible Symptoms": "Information to be added",
+        "treatment Aid Items": "Analgesic Poultice Bandages Infused Bandages Zipper Bandages"
+    },
+    {
+        "name": "Radiation Poisoning",
+        "possible Symptoms": "Information to be added",
+        "treatment Aid Items": "Boosted Injector Injector Snake Oil"
+    },
+    {
+        "name": "Sprain",
+        "possible Symptoms": "Information to be added",
+        "treatment Aid Items": "Anchored Immobilizers Immobilizer"
+    },
+    {
+        "name": "Torn Muscle",
+        "possible Symptoms": "Information to be added",
+        "treatment Aid Items": "Anchored Immobilizers Immobilizer"
+    }
+]

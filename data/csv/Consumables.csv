@@ -1,0 +1,182 @@
+Name,Mass,Value,Description,Effect
+Addichrone, 0.10,380,Use to fight symptoms of withdrawal until a cure can be administered.,Suppresses Addiction symptoms for 10m
+Alien Genetic Material, 1.00,1375,Can be consumed to greatly increase,+500 Damage Resistance for 30s +500 Energy Resistance for 30s
+Alien Jerky, 0.30,50,"A strip of alien meat that's been dehydrated, salted, and flavored with a mild teriyaki sauce.",Restores 3 Health
+Alien Kebab, 0.30,105,"Cubes of roasted alien meat, served skewered on a wooden stick, kebab style.",Restores 12 Health +60 Energy Resistance for 8m
+Alien Liquor, 0.30,165,"Distilled alcohol, formed by fermenting certain alien plants.",+8 Carry Capacity for 5m -25% 02 Recovery for 5m
+Alien Sandwich, 0.30,155,A sandwich made from alien-sourced ingredients.,Restores 4 Health +60 Energy Resistance for 5m
+Alien Scramble, 0.50,185,A breakfast dish made from alien eggs and diced vegetables.,Restores 4 Health +60 Damage Resistance for 5m
+Alien Tea, 0.30,105,A strong tea made from a steeped alien plant.,Restores 2 Health +1% XP Gain for 15m
+Alien Tonic, 0.30,10.5,Carbonated water flavored with an alien extract of unknown origin.,Restores 2 Health +8% 02 Recovery for 3m
+AMP, 0.10,100,A steroid-based performance enhancer designed to temporarily boost leg strength.,+35% Movement Speed for 2m 2x Jump Height for 2m
+Analgesic Poultice,0.10,450,"Combines the effects of antibiotics, heal paste, and bandages. Used for treating afflictions.","Treats Burns, Contusions, Frostbite, Infections, Lacerations, and Puncture Wounds."
+Anchored Immobilizers, 0.10,400,"A reinforced immobilizer, for particularly bad injuries. Used for treating afflictions.","+150 Damage Resistance for 5m Treats Dislocated Limb, Fractured Limb, Fractured Skull, Sprain, and Torn Muscle."
+Antibiotic Paste,0.10,430,Combines the effects of antibiotics and heal paste. Used for treating afflictions.,"Treats Burns, Frostbite, and Infections."
+Antibiotics, 0.10,75,"Tried and true medicine, used to treat afflictions.",Treats infections
+Antibiotic Cocktail, 0.10,415,A mix of multiple antibiotics. Used for treating afflictions.,+20% 02 Recovery for 5m Treats Infections
+Baguette, 0.20,55,A classic loaf of French bread.,Restores 2 Health
+Bandages, 0.10,40,Wrapping for cuts and wounds. Used for treating afflictions.,"Treats Contusions, Lacerations, and Puncture Wounds."
+Battlestim, 0.10,525,A chem designed to improve pain,+250 Damage Resistance for 5m
+Beertini, 0.30,265,A mixture of beer and vodka. Definitely an acquired test.,+60 Damage Resistance for 3m +4 Carry Capacity for 5m -15% 02 Recovery for 3m
+Bitten Sandwich, 0.20,75,"A salami and cheese sandwich. Clearly delicious, as evidenced by the large bite taken out of it.",Restores 3 Health
+Blend, 0.50,380,A carbonated alcoholic beverage blended with caffeine and a potent secret ingredient.,Slows time by 16% for 10s +60 Damage Resistance for 3m -20% 02 Recovery for 3m
+Boba Alien Tea, 0.30,105,"Tea made from steeped alien leaves, with synthetic tapioca pearls.",Restores 2 Health +8 02 for 5m +1% XP Gain for 15m
+Boom Pop! Black Licorice, 0.30,75,Black licorice-flavored Boom Pop! soda.,Restores 2 Health +8% 02 Recovery for 3m
+Boom Pop! Orange, 0.30,75,Orange-flavored Boom Pop! soda.,Restores 2 Health +8% 02 Recovery for 3m
+Boom Pop! Rhubarb, 0.30,75,Rhubarb-flavored Boom Pop! soda.,Restores 2 Health +8% 02 Recovery for 3m
+Boosted Injector, 0.10,450,An improved injector. Used for treating afflictions.,"+20% 02 Recovery for 5m Treats Brain Injury, Concussion, Heatstroke, Hernia, Hypothermia, Lung Damage, Poisoning, and Radiation Poisoning."
+Boudicca, 0.10,560,Grants increased resistance to damage and fortifies oxygen.,+30 02 for 3m +300 Damage Resistance for 3m
+Bourbon, 0.30,240,"A strong bourbon whiskey, supposedly brewed using techniques from a place called ""Kentucky"" on Old Earth.",+6 Carry Capacity for 5m -25% 02 Recovery for 5m
+Butter, 0.30,55,"Bostaurus Laboratories' finest butter, unsalted.",Restores 2 Health
+Carrot, 0.20,35,"The nutritious, delicious carrot. Long considered the favorite food of Earth rabbits.",Restores 1 Health
+Can-uck! Bacon, 0.50,105,"CAN-uck! brand bacon, sold in their distinct and trademark can.",Restores 4 Health
+Can-uck! Pancakes Plus, 0.50,105,"CAN-uck! brand pancakes, with syrup, sold in their distinct and trademarked can.",Restore 4 Health
+Can-uck! Pilsner, 0.50,155,"CAN-uck! brand pilsner beer, sold in their distinct cooler can.",+40 Damage Resistance for 3m -10% 02 Recovery for 3m
+Can-uck! Tourtiere, 0.50,105,"CAN-uck! brand tourtiere, sold in their distinct and trademarked can.",Restores 4 Health
+Celery, 0.20,35,A stalk of celery. Especially delicious when paired with synthetic peanut butter.,Restores 1 Health
+Chandra Cabernet Sauvignon, 0.50,380,"Chandra Vineyards' dark red wine, with notes of blackberry and cedar.",+9% Persuasion chance for 5m -15% 02 Recovery for 5m
+Chandra Merlot, 0.50,380,"Chandra Vineyards' sweet red wine, with notes of vanilla and black cherries.",+9% Persuasion chance for 5m -15% 02 Recovery for 5m
+Chandra Pinot Noir, 0.50,380,"Changra Vineyards' medium-bodied red wine, with notes of cranberry and licorice.",+9% Persuasion chance for 5m -15% 02 Recovery for 5m
+Chandra Port, 0.50,380,"Chandra Vineyards' strong red wine, with notes of caramel and cinnamon. Best enjoyed as a digestif.",+9% Persuasion chance for 5m -15% 02 Recovery for 5m
+Chandra Riesling, 0.50,380,"Chandra Vineyards' sweet white wine, with notes of pineapple and lemon. Commonly enjoyed as an aperitif.",+9% Persuasion chance for 5m -15% 02 Recovery for 5m
+Chandra Sauvignon Blanc, 0.50,280,"Chandra Vineyards' light white wine, with notes of passion fruit and freshly cut grass.",+9% Persuasion chance for 5m -15% 02 Recovery for 5m
+Cheddar Snack Crackers, 0.30,90,Centauri Mills' cheddar cheese-flavored snack crackers.,Restores 4 Health
+Cheese, 0.30,55,Bostaurus Laboratories' finest cheese. Extra sharp.,Restores 2 Health
+Chunks Apple, 0.20,75,An apple-flavored Chunks food cube.,Restores 4 Health
+Chunks Apple - Packaged, 0.20,105,An apple-flavored Chunks food cube. Packaged for freshness.,Restores 4 Health
+Chunks Beef, 0.20,75,A beef-flavored Chunks food cube.,Restores 4 Health
+Chunks Cake - Packaged, 0.20,105,A cake-flavored Chinks food cube. Packaged for freshness,Restores 4 Health
+Chunks Choco, 0.20,75,A chocolate-flavored Chunks food cube.,Restores 4 Health
+Chunks Pie - Packaged, 0.20,105,A pumpkin pie-flavored Chunks food cube. Sealed for freshness.,Restores 4 Health
+Chunks Wine - Packaged, 0.20,265,A red wine-flavored Chunks food cube. Packaged for freshness.,+6% Persuasion chance for 3m -15% 02 Recovery for 3m
+Codos Crater, 0.50,210,"A  filburn Agriculture beer, popular throughout the Freestar Collective.",+80 Damage Resistance for 3m -15% 02 Recovery for 3m
+Container of Cereal, 0.30,70,"A plastic container full of delicious, nutritious breakfast cereal.",Restores 4 Health
+CQB-X, 0.10,525,A chem used to enhance close quarters combat effectiveness.,+25% Melee Damage for 5m
+Dark Lager, 0.50,155,Mass-produced generic beer.,+40 Damage Resistance for 3m -10% 02 Recovery for 3m
+Dawn's Roost Strip, 0.50,380,A grilled steak with mixed vegetables and mashed potatoes on the side.,Restores 12 Health +11 02 for 10m
+Distilled Water, 0.30,45,Water purified by reverse osmosis.,Restores 2 Health Actions use -16% 02 for 3m
+Drink Pack: Beer, 0.30,155,Advanced Nutrition's standard pack of beer.,+40 Damage Resistance for 3m -10% 02 Recovery for 3m.
+Drink Pack: Orange Juice, 0.30,75,Advanced Nutrition's standard pack of orange juice.,Restores 2 Health +5 02 for 5m
+Drink Pack: Red Wine, 0.30,240,Advanced Nutrition's standard pack of red wine.,+8% Persuasion chance for 3m -15% 02 Recovery for 3m
+Drink Pack: Vodka, 0.30,240,Advanced Nutrition's standard pack of vodka.,+6 Carry Capacity for 5m -25% 02 Recovery for 5m
+Drink Pack: Water, 0.30,55,Advanced Nutrition's standard pack of purified water.,Restores 2 Health Actions use -16% 02 for 3m
+Drink Pack: Whiskey, 0.30,240,"Advanced Nutrition's standard pack of whiskey,",+6 Carry Capacity for 5m -25% 02 Recovery for 5m
+Drink Pack: White Wine, 0.30,240,Advanced Nutrition's standard pack of white wine.,+8% Persuasion chance for 3m -15% 02 Recovery for 3m
+Erdebrau Dark Can, 0.50,155,"Erdebrau's dark lager, brewed with imitation wheat cultures and roasted malt.",+60 Damage Resistance for 3m -10% 02 recovery for 3m
+Erdebrau Lager Can, 0.50,155,"Erdebrau's lager, brewed with imitation wheat cultures and simulated hops.",+60 Damage Resistance for 3m -10% 02 Recovery for 3m
+Erdebrau Light Can, 0.50,155,"Erdebrau's light beer, brewed with imitation wheat cultures and simulated hopes. Half of the calories of Erdebrau Ale.",+60 Damage Resistance for 3m -10% 02 Recovery for 3m
+Erdebrau Pils Can, 0.50,155,"Erdenbrau's pilsner beer, brewed with imitation wheat cultures and simulated hops.",+60 Damage Resistance for 3m -10% 02 Recovery for 3m
+Fried Pickles, 0.50,185,Dill pickles rolled in beer batter and fried.,Restores 8 Health
+Frostwolf, 0.10,525,A cocktail of the combat enhancer whiteout and the military performance chem Reconstim.,+40% Damage for 2m +50% Movement Speed for 2m -50% Movement Noise for 2m
+Fullfood Spiced Worms, 0.30,75,"Fried and spiced alien worms. Guaranteed safe, and loaded with protein.",Restores 4 Health
+Grapes, 0.20,35,"Sweet red grapes. Enjoyed as a healthy snack, or fermented to make red wine.",Restores 1 Health
+Grilled Cheese Sandwich, 0.30,75,A classic grilled cheese sandwich.,Restores 4 Health
+Ham and Cheese Sandwich, 0.30,75,A ham and cheese sandwich on toasted bread. Sliced diagonally.,Restores 4 Health +6 02 for 5m
+Heal Gel, 0.10,510,A medicated gel for treating severe burns and frostbite. Used for treating afflictions.,+150 Damage Resistance for 5m Treat Burns and Frostbite
+Heal Paste, 0.10,80,A medicated cream for treating burns and frostbite. Used for treating afflictions.,Treats Burns and Frostbite
+Heart +, 0.10,450,Improves fortitude and pain tolerance.,+20% Health for 2m +200 Damage Resistance for 2m
+Hippolyta, 0.10,350,"A chem that lowers inhibitions and improves articulation, theoretically making the user more charming.",+20% Persuasion chance for 5m
+Immobilizer, 0.1,50,Designed to provide rigid support to injured limbs. Used to treat afflictions.,"Treats Dislocated Limb, Fractured Limb, Fractured Skill, Sprain, and Torn Muscle."
+Infused Bandages,0.10,330,Bandages saturated with heal paste. Used for treating afflictions.,"Treats Burns, Contusions, Frostbite, Lacerations, and Puncture Wounds."
+Injector, 0.10,55,Used to administer medication that treats afflictions.,"Treats Brain Injury, Concussion, Heatstroke, Hernia, Hypothermia, Lung Damage, Poisoning, and Radiation Poisoning."
+Instant Oatmeal, 0.30,90,Centauri Mills' steel-cut Irish oatmeal.,Restores 4 Health
+Jemison Wellington, 0.50,1055,"Beef tenderloin and prosciutto, baked in a pastry shell. Served with cream sauce.",Restores 12 Health +4 Carry Capacity for 5m
+Junk Flesh, 0.10,665,Purges the body of addictions.,Cures all Addictions
+Kefir, 0.30,140,A fermented milk drink with the consistency of a thin yogurt.,Restores 4 Health
+Latkes, 0.50,185,"Fritters made from a batter of potatoes, eggs, onions and either flour or matzo meal.",Restores 8 Health +11 02 for 8m
+Lemon, 0.20,35,"A fresh lemon, grown from seeds native to Earth.",Restores 1 Health
+Lettuce, 0.20,35,A head of leafy green lettuce. Commonly used as the base for salads or added to a sandwich.,Restores 1 Health
+Lime,0.2,35,Description,Restores 2 Health
+Liver Pate, 0.50,1160,"Several liver pate tartlets, served with a rich pea soup.",Restore 12 Health +8% 02 Recovery for 10m
+Marshmallow Treat Cereal, 0.30,90,Centauri Mills' most popular children's breakfast cereal.,Restores 4 Health
+Meal Pack - Chicken, 0.50,75,Advanced Nutrition's standard chicken meal.,Restores 4 Health
+Meal Pack - Eggs, 0.50,75,Advanced Nutrition's standard portion of hard-boiled eggs.,Restores 4 Health
+Meal Pack - Ramen, 0.50,75,Advanced Nutrition's standard noodle meal.,Restores 4 Health
+Meal Pack - Shrimp, 0.50,75,Advanced Nutrition's standard shrimp meal.,Restores 4 Health
+Meal Pack - Sushi, 0.50,75,Advanced Nutrition's standard sushi meal.,Restores 4 Health
+Meal Pack - Tofu, 0.50,75,Advanced Nutrition's standard tofu meal.,Restores 4 Health
+Meatloaf, 0.50,185,"Glazed meatloaf, made with ground beef, onions, and a tomato based-sauce.",Restores 8 Health +9 02 for 10m
+Med Pack, 0.00,525,The standard emergency medical kit of the Settled Systems.,Restores 4% Health/s for 9s
+Midnight Delight, 0.30,55,A snack made from a smattering of available ingredients.,Restores 4 Health
+Milk, 0.30,75,Milk that has been ultra-pasteurized for maximum freshness,Restores 2 Health
+Miso Soup Minislurp, 0.30,75,Oishii brand miso soup. Snack-sized.,Restore 2 Health
+Miso Soup Multipack, 1.50,155,Oishii brand muso soup. Packaged in bulk.,Restores 8 Health
+Mochi, 0.50,105,"Oishii brand marumochi snacks, made from sweetened rice. Single serving size.",Restore 4 Health
+Neurajack, 0.10,450,"An enhancement to the chem Synapse Alpha, known to improve cognition.",Research Projects require fewer resources for 10m +50% chance of Research Sudden Developments for 10m
+Onion, 0.20,35,A common yellow onion. Delicious sauteed and in soups.,Restores 1 Health
+Orange,??,??,Sweet and delicious. Grown from seeds originally harvested from Earth.,Restores 1 Health
+Opened Superfood Paste Kit, 0.50,140,An opened container of nutritious vegetable superfood paste. Not known for its taste...,Restore 4 Health
+Pale Ale, 0.50,155,Mass-produced generic beer.,+40 Damage Resistance for 3m -10% 02 Recovery for 3m
+Panache, 0.50,885,"A flamboyant array of four different foods, prepared as formed balls and dusted with red pepper.",Restores 8 Health +8% 02 Recovery for 5m
+Patty Melt, 0.50,295,"A hamburger patty smothered in cheese and grilled on toast, usually served with a side of chopped potatoes.",Restores 12 Health
+Peach, 0.20,35,"The Settled Systems has many varieties of peach - alien, synthetic and grown from Earth seeds. All are sweet and delicious.",Restores 1 Health
+Pear, 0.20,35,Explorers were shocked when they discovered an alien fruit with the exact shape and flavor of an Earth pear.,Restores 1 Health
+Penicillin X, 0.10,145,"A high-intensity antibiotic, designed to purge the body of infection. Used for treating afflictions.",+20 02 for 2m Treats Infections
+Pick-Me-Up,0.10,450,"A Trade Authority-licensed chem enhancing sustained muscular action, such as lifting and carrying. Created from Aqueous Hematite.",+50 Carry Capacity for 15m
+Pierogis, 0.50,350,"Potato-and-cheese pierogis, parboiled and fried.",Restores 12 Health
+Pizza Square, 0.50,90,Centauri Mills' classic square-sliced pizza.,Restores 4 Health
+Potato, 0.20,35,"Can be prepared many ways. Boiled, mashed, used in a stew - the recipes are nearly limitless.",Restores 1 Health
+Raisin Bran Cereal, 0.30,90,Centauri Mills' raisin bran cereal. A breakfast classic.,Restores 4 Health
+Ramen, 0.50,105,Oishii brand ramen noodles. Single serving size.,Restores 4 Health
+Ramen Minibite, 0.30,75,Oishii brand ramen noodles. Snack sized.,Restores 2 Health
+Reconstim, 0.10,525,"Refines muscular control and flexibility, improving low posture and quieting footfalls.",-30% Movement Noise for 10m
+Red Ale, 0.50,155,Mass-produced generic beer.,+40 Damage Resistance for 3m -10% 02 Recovery for 3m
+Red Harvest Amber Ale, 0.30,155,"A delicious, synthetically-cratted amber ale.",+60 Damage Resistance for 3m -10% 02 Recovery for 3m
+Red Harvest Double Malt Whiskey, 0.30,240,"A popular and powerful double malt whiskey, brewed by Red Harvest.",+6 Carry Capacity for 5m -25% 02 Recovery for 5m
+Red Harvest Lentils, 0.30,55,Red Harvest brand lentil beans. Manufactured using the company's propriety genetic modification technology.,Restores 2 Health
+Red Harvest Milk Stout, 0.30,155,"A delicious, synthetically-crafted milk stout.",+60 Damage Resistance for 3m -10% 02 Recovery for 3m
+Red Harvest Naan, 0.30,55,Red Harvest brand naan bread. Manufactured using the company's proprietary genetic modification technology.,Restores 2 Health
+Red Harvest Pale Ale, 0.30,155,"A delicious, synthetically-crafted pale ale",+60 Damage Resistance for 3m -10% 02 Recovery for 3m
+Red Harvest Rye, 0.30,55,"Red Harvest brand rye bread, Manufactured using the company's proprietary genetic modification technology.",Restores 2 Health
+Red Harvest Single Malt Whiskey, 0.30,240,"A smooth, sophisticated single malt whiskey, brewed by Red Harvest.",+4 Carry Capacity for 5m -25% 02 Recovery for 5m
+Red Harvest Wheat, 0.30,55,Red Harvest brand wheat bread. Manufactured using the company's proprietary genetic modification technology.,Restores 2 Health
+Red Harvest White, 0.30,55,Red Harvest brand white bread. Manufactured using the company's propriety genetic modification technology.,Restores 2 Health
+Red Trench,0.10,380,Improves pain tolerance and adrenaline production. Made by combining CQB-X and BattleStim.,+40% Melee Damage for 3m +300 Damage Resistance for 3m
+Ruben, 0.50,140,"A sandwich that combines corned beef, cheese, sauerkraut, and other ingredients. Typically served on rye bread.",Restores 8 Health +8 02 for 8m
+Sandwich, 0.30,75,A delicious salami and cheese sandwich. Made fresh.,Restores 4 Health
+Seaweed Minibite, 0.30,75,A snack of dried alien seaweed. Seasoned and dusted with sesame seeds. Snack-sized.,Restores 2 Health
+Ship Parts, 10.00,1250,Used to repair spaceship hull damage,Repairs 4% Ship Hull/s for 10s
+Smoked Salmon Fillet, 0.50,75,A packaged portion of smoked alien,Restores 4 Health
+Snack Pack - Choco Bites, 0.20,75,Advanced Nutrition's standard chocolate dessert.,Restores 2 Health
+Snack Pack - Gummi Bugs, 0.20,75,"Advanced Nutrition's standard gummi snack chews,",Restores 2 Health
+Snack Pack - Protein Bar, 0.20,75,Advanced Nutrition's standard energy bar.,Restores 4 Health
+Snake Oil, 0.10,125,Used to purge the body of toxins. (Initially developed as a hangover preventative.),"+20% 02 Recovery 2m Treats Brain injury. Concussion, Heatstroke, Hernia, Hypothermia, Lung Damage, Poisoning, and Radiation Poisoning."
+Soba, 0.50,105,Oishii brand soba noodles. Single serving size.,Restores 4 Health
+Soba Minibite, 0.30,75,Oishii brand soba noodles. Snack-size.,Restores 2 Health
+Solomon's Reserve, 0.50,210,A Filburn Agriculture brew for distribution throughout Freestar collective space.,+80 Damage Resistance for 3m -15% 02 Recovery for 3m
+Spaghetti Carbonara, 0.50,185,"A pasta dish containing eggs, ground pepper, and some kind of alien pork equivalent.",Restores 12 Health +9 02 for 8m
+Sparkling Water, 0.30,75,Clear sparkling water.,Restores 2 Health Actions use -16% 02 for 3m
+Sparkling Wine, 0.50,265,Sparkling white wine. Bracing and effervescent with a hint of tropical fruits.,+8% Persuasion chance for 5m -15% 02 Recovery for 5m
+Squall, 0.10,350,"A powerful combat enhancer. Dangerously addictive, and rumored to have been developed by the Crimson Fleet",+20% Damage for 2m +20% Movement Speed for 2m
+Superfood Paste Kit, 0.50,140,"A sealed container of nutritious, but definitely not delicious, superfood paste.",Restores 8 Health
+Superfood Paste Set, 0.40,140,"A full pack of various superfood paste items. Will sustain life, but known to taste like sewage.",Restores 8 Health
+Supernova, 0.30,525,A liqueur slush floated over a sour punch of exotic alien fruits.,+9% Persuasion chance for 5m +16 02 for 5m -25% O2 Recovery for 5m
+Sushi Rolls Minibite, 0.30,75,Oishii brand sushi rolls. Snack-sized.,Restores 2 Health
+Synapse Alpha, 0.10,525,"Enhance reasoning and reflexes, improving problem-the Sol ving skills.",Research Project require fewer resources for 10m
+Synthameat Chicken, 0.30,140,"Butcher's Best chicken. Made from Synthameat, the Settled Systems premier synthetic meat product.",Restores 2 Health
+Synthameat Ham,??,??,Descriotion,Effect/s
+Synthameat Multi, 0.30,140,"Butcher's Best animal protein blend. Made from Synthameat, the Settled Systems premiere synthetic meat product.",Restores 2 Health
+Synthameat Steak, 0.30,155,"Butcher's Best steak. Made from Synthameat, the Settled Systems premiere synthetic meat product.",Restores 2 Health
+Synthameat Turkey, 0.30,140,"Butcher's Best turkey. Made from Synthameat, the Settled Systems premiere synthetic meat product.",Restores 2 Health
+Synthameat Veal, 0.30,155,"Butcher's Best veal. Made from Synthameat, the Settled Systems premiere synthetic meat product.",Restores 2 Health
+UC Battlemeal, 0.50,210,A standard United Colonies field ration.,Restores 12 Health +4 Carry Capacity for 5m
+UC Battlemeal Multipack, 1.50,350,Standard United Colonies field rations Packaged in bulk.,Restores 16 Health +5 Carry Capacity for 8m
+Udon Multipack, 1.50,155,Oishii brand udon noodles. Packaged in bulk.,Restores 8 Health
+Ta'Ameya Pita, 0.50,295,"Two falafel-stuffed flatbreads, drizzled with yogurt sauce.",Restore 12 Health
+TerraBrew Classic,??,75,"TerraBrew's original, medium roast",Restores 2 Health +14% 02 Recovery for 3m
+TerraBrew Cappuccino,??,75,Description,Effect/s
+TerraBrew Latte, 0.30,75,TerraBrew's original cafe latte.,Restores 2 Health +14% 02 Recovery for 3m
+TerraBrew Espresso,??,75," TerraBrew's strong, Italian-style coffee.",Restores 2 Health +16% O2 Recovery for 3m
+The Deep, 0.50,1055,"Grilled pieces of alien salmon, served alongside mixed vegetables and mashed potatoes.",Restores 16 Health
+Toast, 0.10,35,"A slice of toasted white bread. Best enjoyed when buttered or jellied, but can be eaten ""as is"" in a pinch.",Restores 2 Health
+Tomato, 0.20,35,"A ripe tomato, of Earth origin",Restores 1 Health
+Tranquilitea lotus, 0.30,75,Tranquilitea's lotus flower tea.,Restore 2 Health +1% XP Gain for 15m
+Trauma Pack, 0.10,595,"An experimental trauma kit, incorporating strong general anesthetic and anti-fatigue medicines.",Restores 8% Health/s for 4s
+Trilo Bites, 0.50,740,"Small alien arthopods, sauteed and served with whipped bitter.",Restores 12 Health
+Udon Minibite,??,??,Oishii brand udon noodles. Snack-,Restores 2 Health
+Veggie Grinder, 0.50,265,A hearty hoagie of roast vegetables and mushrooms.,Restore 12 Health
+Watermelon, 0.50,35,Once a favorite of Earth summertime barbecues. Now synthetically grown.,Restores 2 Health
+Yellow Giant Splash, 0.30,140,"Peaches, oranges, and spices blended until smooth. Served chilled.",Restored 4 Health +20 02 for 5m
+Yogurt, 0.30,55,"Fullfood brand yogurt, served in a convenient foil pouch.",Restores 2 Health
+Yuko's Coffee, 0.30,75,"TerraBrew's original rich, creamy cappuccino... with a bit of extra ""punch""",Restores 2 Health +20% 02 Recovery for 3m
+Zipper Bandages, 0.10,360,Stronger and more effective bandages. Used for treating afflictions.,"+150 Damage Resistance for 5m Treats Contusions, Lacerations, and Puncture Wounds."

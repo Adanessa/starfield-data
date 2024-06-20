@@ -1,0 +1,26 @@
+Name,Type,Effect,Materials
+Balanced Boostpack,Pack Mod,Bootspack with balanced power output,Zero-G Gimbal x1 Monopropellant x2 Microsecond Regulator x1 Zero Wire x1
+Ballistic Shielding,Helmet Mod,Increases Damage Resistance,Nickel x1 Cosmetic x1
+Ballistic Shielding (Spacesuit),Spacesuit Mod,Increases Damage Resistance,Fiber x2 Cosmetic x1
+Basic Boostpack,Pack Mod,Entry-level boostpack,Monopropellant x1 Beryllium x2
+EM Shielding,Helmet Mod,Increases Electromagnetic Resistance,Copper x1 Cosmetic x1 Tungsten x2
+EM Shielding (Spacesuit),Spacesuit Mod,Increase Electromagnetic Resistance,Copper x2 Polytextile x3 Cosmetic x2
+Emergency Aid,Pack Mod,Administers emergency aiid whenihealth is low. Recharges a short time after use,Heart + x2 Sedative x3 Trauma Pack x2
+Energy Shielding,Helmet Mod,Increases Energy Resistance,Polymer x1 Cosmetic x1 Tungsten x2
+Energy Shielding (Spacesuit),Spacesuit Mod,Increases Energy Resistance.,Adhesive x2 Polymer x2 Polytextile x3
+Exo Servos,Spacesuit Mod,Increases Melee Damage,Semimetal Wafer x2 Positron Battery x1 Titanium x3
+Explosive Shielding,Helmet Mod,Reduces damage from explosives,Adhesive x2 Sterile Nanotubes x1 Titanium x1
+Extra Capacity,Pack Mod,Increases carrying capacity by 10 kilograms,Polymer x3 Aluminum x3 Sealant x2
+Gravitic Composites,Helmet Mod,Reduces detection from enemies,Microsecond Regulator x1 Caelumite x3 Adhesive x2
+Gravitic Composites (Spacesuits),Spacesuit Mod,Reduces detection from enemies,Adhesive x3 Caelumite x4 Microsecond Regulator x1
+Hazard Protection,Pack Mod,"Increases resistance to Airborne, Thermal, Corrosive, and Radiation hazards",Biosuppressant x2 Isotopic Coolant x1 Lead x2 Molecular Sieve x1
+Heavy Shielding,Helmet Mod,Increases all Damage Resistance,Adhesive x1 Polymer x1 High-Tensile Spidroin x1 Tungsten x1
+Heavy Shielding (Spacesuits),Spacesuit Mod,Increases all Damage Resistance,Tungsten x2 High-Tensile Spidroin x2 Adhesive x2 Polymer x1
+Medic,Pack Mod,Aid tems restore additional health and heal more quickly,Analgesic x2 Med Pack x2
+Optimized Servos,Spacesuit Mod,Reduces Oxygen cost for sprinting,Positron Battery x2 Microsecond Regulator x1
+Oxygen Reserve,Pack Mod,+10% oxygen capacity,Reactive Gauge x1 Mag Pressure Tank x1
+Pocketed,Spacesuit Mod,Increases carrying capacity,Sealant x2 Adhesive x1 Polytextile x1
+Power Boostpack,Pack Mod,"Bootspack with increased power output, ideal for navigating high-gravity enviroments",Zero-G Gimbal x1 Monopropellant x3 Tau Grade Rheostat x1 Beryllium x3
+Regeneration,Pack Mod,Slowly regenerate health outside of combat,Positron Battery x1 Amino Acid x3 Hypercatalyst x3 Emergency Kit x2
+Sensor Array,Helmet Mod,Increases the range for enemy detection on the Compass,Positron Battery x1 Adhesive x2 Zero Wire x1
+Skip Capacity Boostpack,Pack Mod,"Bootspack with low-duration, high-intensity output, sacrificing boost height for mobility",Zero-G Gimbal x1 Monopropellant x2 Beryllium x2

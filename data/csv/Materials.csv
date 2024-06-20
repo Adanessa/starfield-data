@@ -1,0 +1,43 @@
+Name,Symbol,Rarity,How to acquire,Mass,Value
+Aldumite,Ad,Unique,"Can be purchased from Vendors (Wen Tseng, Dietrich Sieghart) Found only on Schrödinger II in the Schrödinger System",1.9,84
+Alkanes,(HnCn),n/a,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart ) Found in Kreet (Moon of Anselon )", .60,13
+Aluminum,(Al),n/a,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Saburo Okadugbo) Found in Vectera (Moon of Anselon )",.50,7
+Amino Acids (Carapace),(NH2),,Found in ???,0.30,10
+Amino Acids (Hide),(NH2),,Found in ???,0.50,10
+Amino Acids,(NH2),,Found in ???,0.50,10
+Antimony,(Sb),,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Saburo Okadugbo)",.80,30
+Aqueous Hematite,Fe2O3,,"Found on Mars as individual nodes of ore. Does not spawn as ore veins, nor is it scannable from orbit",2.30,56
+Argon,(Ar),n/a,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Saburo Okadugbo) Found in Vectera ,  Kreet, Jemison , Kurtz, Nesoi",.50,5
+Benzene,(C6Hn),,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Manaaki) Found in Volii Alpha",.60,19
+Beryllium,(Be),,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart ) Found in ???",.50,12
+Caesium,(Cs),,Can be purchased from Vendors ( Dietrich Sieghart ) Found in Dalvin,.80,25
+Carboxylic Acids,(R-COC),n/a,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart ) Found in ???",0.60,12
+Chlorine,(Cl),n/a,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart ) Found in Jemison , Kurtz, Gagarin, Earth",.50,6
+Chlorosilanes,(SiH3Cl),n/a,"Can be purchased from Vendors (Wen Tseng, Dietrich Sieghart) Found in Jemison , Kurtz, Gagarin, Earth",.60,14
+Cobalt,(Co),,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Manaaki, Saburo Okadugbo) Found in Venus, Triton",.60,12
+Copper,(Cu),n/a,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Saburo Okadugbo) Found in Volii Upsilon",.60,10
+Dysprosium,(Dy),,"Can be purchased from Vendors (Wen Tseng, Dietrich Sieghart, Saburo Okadugbo) Found in Venus",1.40,56
+Europium,(Eu),,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in ???",1.00,40
+Fluorine,(F),,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava) Found in ???",0.50,12
+Gold,(Au),,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in ???",.80,24
+Helium-3,(He-3),,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in Luna, Kreet, Magreth",.60,14
+Iridium,(Ir),,Can be purchased from Vendors (???) Found in Nesoi,.70,14
+Iron,(Fe),n/a,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in Kreet, Luna, Nesoi",.60,8
+Lead,(Pb),n/a,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in Kreet, Earth , Magreth, Jemison",.70,10
+Lithium,(Li),,"Can be purchased from Vendors ( Wen Tseng , Saburo Okadugbo) Found in ???",.50,14
+Mercury,(Hg),,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava) Found in Earth",.80,22
+Neodymium,(Nd),,"Can be purchased from Vendors ( Wen Tseng , Amoli Bava, Saburo Okadugbo) Found in ???",.80,20
+Neon,(Ne),,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart ) Found in Kreet",.50,16
+Nickel,(Ni),n/a,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in Venus",.60,10
+Platinum,(Pt),,"Can be purchased from Vendors ( Wen Tseng , Amoli Bava) Found in ???",.80,24
+Plutonium,(Pu),,"Can be purchased from Vendors ( Wen Tseng , Amoli Bava) Found in Huygens VI-a",1.60,64
+Silver,(Ag),,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in Kreet",.60,20
+Tantalum,(Ta),,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in Nesoi",.90,23
+Tasine,(Ts),,Found in ???,1.20,52
+Tetrafluorides,(xF4),,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in ???",.70,18
+Titanium,(Ti),,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in ???",.50,12
+Tungsten,(W),,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in ???",.70,16
+Uranium,(U),n/a,"Can be purchased from Vendors Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in Nesoi",.70,14
+Vanadium,(V),,"Can be purchased from Vendors ( Wen Tseng , Dietrich Sieghart , Amoli Bava, Saburo Okadugbo) Found in ???",.70,24
+Water,(H2O),n/a,"Can be purchased from Vendors (Wen Tseng, Dietrich Sieghart, Amoli Bava) Found in Vectera , Jemison , Nesoi, Volii Alpha , Volii Upsilon , Kreet, Earth , Triton, Dalvin",.50,4
+Ytterbium,(YB),,__obtain__,1.20,38

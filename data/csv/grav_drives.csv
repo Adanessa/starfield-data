@@ -1,0 +1,23 @@
+Name,Brand,Class,Max Power,Grav Jump Thrust,Grav  Drive Health,Hull,Mass,Value,Requires
+Apollo GV100 Grav Drive,Deep Core,C,11,34,199,5,99,31300,Level 38
+Apollo GV200 Grav Drive,Deep Core,C,11,45,241,5,120,65100,Level 45
+Apollo GV300 Grav Drive, Deep Core,C,11,50,288,5,144,105500, Level 52
+Aurora 11G Grav Drive,Deep Core,B,10,27,105,5,52,13800,Level 20
+Aurora 12G Grav Drive,Deep Core,B,10,30,131,5,65,18100, Level 26
+Aurora 13G Grav Drive,Deep Core,B,10,33,162,5,81,24500, Level 32
+Helios 100 Grav Drive,Deep Core,A,9,16,52,5,26,6150,Level 3
+Helios 200 Grav Drive,Deep Core,A,9,19,57,5,28,7300,Level 8
+Helios 300 Grav Drive,Deep Core,A,9,26,68,5,34,9500, Level 14
+Helios 400 Grav Drive,Deep Core,A,9,27,84,5,42,12600, Level 21
+J-50 Gamma Grav Drive,Reladyne,C,11,34,218,5,109,35500,Level 38
+J-51 Gamma Grav Drive,Reladyne,C,11,45,261,5,130 ,72300,Level 46
+J-52 Gamma Grav Drive,Reladyne,C,11,50,308,5,154,118200, Level 53
+NG150 Grav Drive, Nova Galactic,A,9,12,47,5,23,5000,Level 3
+NG160 Grav Drive,Nova Galactic,A,8,13,52,5,26,5400,Level 3
+NG170 Grav Drive,Nova Galactic,A,9,14,61,5,30,5900,Level 3
+NG200 Grav Drive,Nova Galactic,B,10,18,76,5,38,7700,Level 5 
+NG210 Grav Drive,Nova Galactic,B,10,21,95,5,47,9750, Level 21
+NG220 Grav Drive,Nova Galactic,B,10,25,118,5,59,13300, Level 29
+NG300 Grav Drive,Nova Galactic,C,11,27,147,5,85,18200,  Level 12
+NG320 Grav Drive,Nova Galactic,C,11,38,147,5,112,35400, Level 42
+NG340 Grav Drive,Nova Galactic,C,12,45,147,5,130,57300, Level 46

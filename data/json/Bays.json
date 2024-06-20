@@ -1,0 +1,63 @@
+[
+    {
+        "name": "120LD Landing Bay",
+        "brand": "Deimos",
+        "mass": "3",
+        "hull": "2",
+        "value": "807",
+        "connects": "Top",
+        "requires": "Level 1",
+        "location": "Cydonia, Deimos Staryard, Gagarin Landing"
+    },
+    {
+        "name": "Hope 4 Landing Bay",
+        "brand": "Hopetech",
+        "mass": "1",
+        "hull": "1",
+        "value": "1000",
+        "connects": "Top",
+        "requires": "Level 1",
+        "location": "Akila City, HopeTown, Paradiso, Redmile, The Eleos Retreat"
+    },
+    {
+        "name": "NG-6 Landing Bay",
+        "brand": "Nova Galactic",
+        "mass": "2",
+        "hull": "2",
+        "value": "902",
+        "connects": "Top",
+        "requires": "Level 1",
+        "location": "Cydonia, Gagarin Landing, New Atlantis, New Homestead, Paradiso, The Den, The Eleos Retreat"
+    },
+    {
+        "name": "Ship Bed 3000 Landing Bay",
+        "brand": "Taiyo Astroneering",
+        "mass": "1",
+        "hull": "3",
+        "value": "1700",
+        "connects": null,
+        "requires": "Level 1",
+        "location": "Akila City, Neon, Redmile"
+    },
+    {
+        "name": "Stability Pro Landing Bay",
+        "brand": "Stroud-Eklund",
+        "mass": "2",
+        "hull": "1",
+        "value": "1000",
+        "connects": "Lef or Right",
+        "requires": "Level 1",
+        "location": "Akila City, Neon, Paradiso, Redmile, Stroud-Eklund Staryard, The Eleos Retreat"
+    },
+    {
+        "name": "Ship Bed 200 Landing Bay",
+        "brand": "Taiyo Astroneering",
+        "mass": "1",
+        "hull": "3",
+        "value": "1700",
+        "connects": "Front or Back",
+        "requires": "Level 1",
+        "location": "Red Mile, Akila City, Neon, The Clinic,"
+
+    }
+]

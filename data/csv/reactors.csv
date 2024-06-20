@@ -1,0 +1,53 @@
+Name,Brand,Class,Power Generated,Repair Rate,Reactor Health,Crew Capacity,Hull,Mass,Value,Requires
+330T Stellarator Reactor,Amundunn,A,14,1.14,23,1,310,23,4037,Level 1
+340T Stellarator Reactor,Amundunn,A,16,1.25,25,1,375,25,8407,Level 1
+350T Stellarator Reactor,Amundunn,A,18,1.39,28,1,405,28,13015,Level 11
+360T Stellarator Reactor,Amundunn,A,20,1.60,32,1,440,32,17860,Level 14
+370T Stellarator Reactor,Amun Dunn,A,23,1.85,37,1,550,37,26300,Level 25
+380T Stellarator Reactor,Amun Dunn,A,26,2.09,42,1,715,40,33700,Level 25
+101DS Mag Inertial Reactor,Dogstar,B,16,2.29,46,2,525,46,14400,Level 12 Piloting (Rank 3)
+102DS Mag Inertial Reactor,Dogstar,B,24,2.7,54,2,690,54,32800,Level25
+103DS Mag Inertial Reactor,Dogstar,B,31,3.09,62,2,930,62,49100,Level 44
+104DS Mag Inertial Reactor,Dogstar,B,39,3.54,71,2,1125,71,67800,Level60
+114MM Toroidal Reactor,Dogstar,A,16,1.10,22,1,325,22,7647,Level 3
+124MM Toroidal Reactor,Dogstar,A,18,1.20,24,1,355,24,12065,Level 6
+134MM Toroidal Reactor,Dogstar,A,20,1.35,27,1,420,27,16625,Level 12
+144MM Toroidal Reactor,Dogstar,A,23,1.5,35,1,520,30,24400,Level 22
+154MM Toroidal Reactor,Dogstar,A,26,2,35,1,600,35,31800,Level 30
+164MM Toroidal Reactor,Dogstar,A,29,2,40,1,760,42,39200,Level 46
+Z-Machine 3000 Reactor,Amun Dunn,B,28,3.25,65,2,890,65,41610,Level 41
+Z-Machine 4000 Reactor,Amun Dunn,B,35,3.75,75,2,995,75,57665,Level 49
+DC301 Fast Ignition Reactor,Deep Core,B,18,2.59,52,2,570,52,19095,Level 16
+Spheromak DC201 Reactor,Deep Core,A,28,1.95,39,1,680,39,35055,Level 38
+Spheromak DC202 Reactor,Deep Core,A,33,2.25,45,1,730,45,46265,Level 43
+Tokamak X-050 Reactor,Xiang,A,16,1.25,25,1,340,25,8850,Level 4
+Tokamak X-100 Reactor,Xiang,A,18,1.35,30,1,390,27,13400,Level 9
+Tokamak X-120S Reactor,Xiang,A,28,1.5,30,1,455,30,34500,Level 12
+Tokamak X-150 Reactor,Xiang,A,20,1.5,30,1,455,30,18300,Level 1
+Tokamak X-200 Reactor,Xiang,A,23,1.7,34,1,485,34,25500,Level 19
+Tokamak X-250 Reactor,Xiang,A,26,1.95,39,1,650,39,32900,Level 35
+Tokamak X-300 Reactor,Xiang,A,29,2.25,45,1,820,45,40600,Level 51
+Z-Machine 1000 Reactor,Amun Dunn,B,14,2.45,49,2,505,49,10640,Level 3
+Z-Machine 2000 Reactor,Amun Dunn,B,21,2.84,57,2,610,57,26125,Level 19
+Z-Machine 2020 Reactor,Amun Dunn,B,16,2.84,57,2,1100,57,16530,Level 24
+DC302 Fast Ignition Reactor,Deep Core,B,27,3,60,2,830,60,38475,Level 36
+DC303 Fast Ignition Reactor,Deep Core,B,35,3.45,69,2,1035,69,56145,Level 52
+Theta Pinch A9 Reactor,Amun Dunn,C,18,4.25,85,3,680,85,27455,Level 10
+Theta Pinch B9 Reactor,Amun Dunn,C,24,4.80,96,3,805,96,41800,Level 24
+Theta Pinch C9 Reactor,Amun Dunn,C,30,5.44,109,3,975,109,56620,(Rank 4)
+Theta Pinch D9 Reactor,Amun Dunn,C,37,6.09,122,3,1215,122,73435,Level 51
+SF10 Sheared Flow Reactor,Dogstar,C,20,4.05,81,3,705,81,30305,Leve 17
+SF20 Sheared Flow Reactor,Dogstar,C,27,4.55,91,3,850,91,46265,Level 27
+SF30 Sheared Flow Reactor,Dogstar,C,34,5.15,103,3,995,103,62795,Level 36
+SF40 Sheared Flow Reactor,Dogstar,C,40,5.80,116,3,1315,116,77615,Level 57
+Fusor DC401 Reactor,Deep Core,C,29,4.5,90,3,755,90,49875,Level 20
+Fusor DC402 Reactor,Deep Core,C,34,5.09,102,3,1020,102,62510,Level 38
+Fusor DC403 Reactor,Deep Core,C,38,5.75,115,3,1190,115,73530,Level 49
+Ion Beam H-1010 Reactor,Xiang,B,16,2.59,52,2,545,52,78000,Level14
+Ion Beam H-1020 Reactor,Xiang,B,24,3,60,2,730,60,34400,Level 28
+Ion Beam H-1030 Reactor,Xiang,B,31,3.45,69,2,975,69,51000,Level 48
+Pinch 5Z Reactor,Xiang,C,20,4.5,90,3,730,90,34200,Level19
+Pinch 6Z Reactor,Xiang,C,27,5.9,102,3,900,102,51600,Level 30
+Pinch 7Z Reactor,Xiang,C,32,5.75,115,3,1095,115,65200,Level 30
+Pinch 8A Reactor,Xiang,C,36,5.75,122,3,1950,135,75200,Level 52
+Pinch 8Z Reactor,Xiang,C,40,6.44,129,3,1350,129,85200,Level 60

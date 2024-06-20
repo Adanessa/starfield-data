@@ -1,0 +1,212 @@
+[
+    {
+        "name": "100G He3 Tank",
+        "brand": "Ballistic Solutions Inc.",
+        "grav Jump fuel": "50",
+        "fuel/Mass": "5.00",
+        "ratio": "5",
+        "hull": "10",
+        "mass": "1187",
+        "value": "None"
+    },
+    {
+        "name": "200G He3 Tank",
+        "brand": "Ballistic Solutions Inc.",
+        "grav Jump fuel": "70",
+        "fuel/Mass": "5.83",
+        "ratio": "5",
+        "hull": "12",
+        "mass": "1567",
+        "value": "None"
+    },
+    {
+        "name": "300G He3 Tank",
+        "brand": "Ballistic Solutions Inc.",
+        "grav Jump fuel": "100",
+        "fuel/Mass": "6.25",
+        "ratio": "5",
+        "hull": "16",
+        "mass": "2137",
+        "value": "None"
+    },
+    {
+        "name": "400G He3 Tank",
+        "brand": "Ballistic Solutions Inc.",
+        "grav Jump fuel": "140",
+        "fuel/Mass": "6.67",
+        "ratio": "5",
+        "hull": "21",
+        "mass": "2945",
+        "value": "None"
+    },
+    {
+        "name": "M10 Ulysses He3 Tank",
+        "brand": "Dogstar",
+        "grav Jump fuel": "50",
+        "fuel/Mass": "4.17",
+        "ratio": "5",
+        "hull": "12",
+        "mass": "1187",
+        "value": "None"
+    },
+    {
+        "name": "M20 Ulysses He3 Tank",
+        "brand": "Dogstar",
+        "grav Jump fuel": "70",
+        "fuel/Mass": "5.00",
+        "ratio": "5",
+        "hull": "14",
+        "mass": "1567",
+        "value": "None"
+    },
+    {
+        "name": "M30 Ulysses He3 Tank",
+        "brand": "Dogstar",
+        "grav Jump fuel": "100",
+        "fuel/Mass": "5.56",
+        "ratio": "5",
+        "hull": "18",
+        "mass": "2137",
+        "value": "None"
+    },
+    {
+        "name": "M40 Ulysses He3 Tank",
+        "brand": "Dogstar",
+        "grav Jump fuel": "150",
+        "fuel/Mass": "6.0",
+        "ratio": "5",
+        "hull": "25",
+        "mass": "3135",
+        "value": "None"
+    },
+    {
+        "name": "M50 Ulysses He3 Tank",
+        "brand": "Dogstar",
+        "grav Jump fuel": "250",
+        "fuel/Mass": "10.0",
+        "ratio": "5",
+        "hull": "25",
+        "mass": "5082",
+        "value": "(Rank 4)"
+    },
+    {
+        "name": "Titan 350 He3 Tank",
+        "brand": "Nautilus",
+        "grav Jump fuel": "75",
+        "fuel/Mass": "6.25",
+        "ratio": "5",
+        "hull": "12",
+        "mass": "1662",
+        "value": "None"
+    },
+    {
+        "name": "Titan 450 He3 Tank",
+        "brand": "Nautilus",
+        "grav Jump fuel": "110",
+        "fuel/Mass": "6.88",
+        "ratio": "5",
+        "hull": "16",
+        "mass": "2375",
+        "value": "None"
+    },
+    {
+        "name": "Titan 550 He3 Tank",
+        "brand": "Nautilus",
+        "grav Jump fuel": "160",
+        "fuel/Mass": "7.62",
+        "ratio": "5",
+        "hull": "21",
+        "mass": "3325",
+        "value": "None"
+    },
+    {
+        "name": "500T He3 Tank",
+        "brand": "Ballistic Solutions Inc.",
+        "grav Jump fuel": "210",
+        "fuel/Mass": "7.24",
+        "ratio": "5",
+        "hull": "29",
+        "mass": "4275",
+        "value": "(Rank 2)"
+    },
+    {
+        "name": "600T He3 Tank",
+        "brand": "Ballistic Solutions Inc.",
+        "grav Jump fuel": "290",
+        "fuel/Mass": "7.63",
+        "ratio": "5",
+        "hull": "38",
+        "mass": "5842",
+        "value": "(Rank 2)"
+    },
+    {
+        "name": "700T He3 Tank",
+        "brand": "Ballistic Solutions Inc.",
+        "grav Jump fuel": "400",
+        "fuel/Mass": "8.00",
+        "ratio": "5",
+        "hull": "50",
+        "mass": "7980",
+        "value": "(Rank 2)"
+    },
+    {
+        "name": "800T He3 Tank",
+        "brand": "Ballistic Solutions Inc.",
+        "grav Jump fuel": "550",
+        "fuel/Mass": "8.73",
+        "ratio": "5",
+        "hull": "63",
+        "mass": "10925",
+        "value": "(Rank 3)"
+    },
+    {
+        "name": "900T He3 Tank",
+        "brand": "Ballistic Solutions Inc.",
+        "grav Jump fuel": "650",
+        "fuel/Mass": "10.83",
+        "ratio": "5",
+        "hull": "60",
+        "mass": "12825",
+        "value": "(Rank 4)"
+    },
+    {
+        "name": "H10 Atlas He3 Tank",
+        "brand": "Dogstar",
+        "grav Jump fuel": "210",
+        "fuel/Mass": "6.36",
+        "ratio": "5",
+        "hull": "33",
+        "mass": "4275",
+        "value": "(Rank 2)"
+    },
+    {
+        "name": "H20 Atlas He3 Tank",
+        "brand": "Dogstar",
+        "grav Jump fuel": "300",
+        "fuel/Mass": "6.82",
+        "ratio": "5",
+        "hull": "44",
+        "mass": "6032",
+        "value": "(Rank 2)"
+    },
+    {
+        "name": "H30 Atlas He3 Tank",
+        "brand": "Dogstar",
+        "grav Jump fuel": "400",
+        "fuel/Mass": "7.14",
+        "ratio": "5",
+        "hull": "56",
+        "mass": "7980",
+        "value": "(Rank 2)"
+    },
+    {
+        "name": "H40 Atlas He3 Tank",
+        "brand": "Dogstar",
+        "grav Jump fuel": "550",
+        "fuel/Mass": "7.75",
+        "ratio": "5",
+        "hull": "71",
+        "mass": "10925",
+        "value": "(Rank 3)"
+    }
+]

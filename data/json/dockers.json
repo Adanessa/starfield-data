@@ -1,0 +1,66 @@
+[
+    {
+        "name": "100DP Slim Docker - Top",
+        "brand": "Deimos",
+        "hull": "3",
+        "value": "1662",
+        "mass": "1",
+        "required": " Level 1"
+    },
+    {
+        "name": "110DP Slim Docker - Top",
+        "brand": "Deimos",
+        "hull": "3",
+        "value": "1662",
+        "mass": "1",
+        "required": " Level 1"
+    },
+    {
+        "name": "NG-2 Docker - Top",
+        "brand": "Nova Galactic",
+        "hull": "1",
+        "value": "1116",
+        "mass": "1",
+        "required": " Level 1"
+    },
+    {
+        "name": "Connect-Pro Docker - Top",
+        "brand": "Stroud Eklund",
+        "hull": "2",
+        "value": "1053",
+        "mass": "2",
+        "required": " Level 1"
+    },
+    {
+        "name": "Connect-Pro Docker - Port",
+        "brand": "Stroud Eklund",
+        "hull": "2",
+        "value": "1053",
+        "mass": "2",
+        "required": " Level 1"
+    },
+    {
+        "name": "Extender Port 200 Docker - Top",
+        "brand": "Taiyo Astroneering",
+        "hull": "3",
+        "value": "900",
+        "mass": "2",
+        "required": " Level 1"
+    },
+    {
+        "name": "Hope 11 Docker - Fore",
+        "brand": "Hopetech",
+        "hull": " 1",
+        "value": "1000",
+        "mass": "2",
+        "required": " Level 1"
+    },
+    {
+        "name": "Hope 11 Docker - Port",
+        "brand": "Hopetech",
+        "hull": " 1",
+        "value": " 1000",
+        "mass": " 2",
+        "required": "  Level 1"
+    }
+]

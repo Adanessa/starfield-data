@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Deimos Companionway 1x1",
+        "brand": "Deimos",
+        "passenger Slots": "-",
+        "hull": "5",
+        "mass": "5",
+        "value": "997",
+        "requires": "None"
+    },
+    {
+        "name": "Deimos Companionway 2x1",
+        "brand": "Deimos",
+        "passenger Slots": "2",
+        "hull": "5",
+        "mass": "8",
+        "value": "1282",
+        "requires": "None "
+    },
+    {
+        "name": "Deimos Companionway 3x1",
+        "brand": "Deimos",
+        "passenger Slots": "2",
+        "hull": "5",
+        "mass": "10",
+        "value": "1472",
+        "requires": "None "
+    },
+    {
+        "name": "Nova Galactic Storeroom 1x1",
+        "brand": "Nova Galactic",
+        "passenger Slots": "-",
+        "hull": "5",
+        "mass": "5",
+        "value": "997",
+        "requires": "None "
+    },
+    {
+        "name": "Nova Galactic All-in-One Berth 2x1 A",
+        "brand": "Nova Galactic",
+        "passenger Slots": "2",
+        "hull": "5",
+        "mass": "8",
+        "value": "1282",
+        "requires": "None "
+    },
+    {
+        "name": "Nova Galactic Engineering Bay 3x1",
+        "brand": "Nova Galactic",
+        "passenger Slots": "1",
+        "hull": "5",
+        "mass": "10",
+        "value": "1472",
+        "requires": "None "
+    }
+]

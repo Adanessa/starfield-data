@@ -1,0 +1,43 @@
+Name,Brand,Cargo,Hull,Crew Stations,Value,Mass,Required
+Armstrong 10 Cockpit,Hopetech,200,5,2,3850,5,Level 1
+Armstrong 10R Cockpit,Hopetech,220,5,2,4500,6,Level 3
+Armstrong 20 Cockpit,Hopetech,240,5,2,5750,9,Level 4
+Armstrong 20E Cockpit,Hopetech,280,5,2,9800,9,Level 9
+Armstrong 20R Cockpit,Hopetech,260,5,2,7300,11,Level 16
+Cabot C3 Bridge,Nova Galactic,280,5,2,960,14,Level 1
+Cabot C3X Bridge,Nova Galactic, 300,5,2, 12800, 17,Level 19
+Cabot C4 Bridge,Nova Galactic, 320,5,2,17000,19,Level 25
+Commander 500 Bridge,Hopetech, 360,5,2,36200,30,Level 40
+DS10.1 Phobos Cockpit,Deimos,200,5,2 ,3657,5,Level 1
+DS10.2 Phobos Cockpit,Deimos,220,5,2 ,4322,6,Level 3
+DS20.1 Phobos Cockpit,Deimos,240,5,2 ,5462,9,Level 4
+DS20.2 Phobos Cockpit,Deimos,260,5,2 ,6935,11,Level 10
+DS20.3 Phobos Cockpit,Deimos,280,5,2 ,9310,15,Level 16
+DS30.1 Ares Bridge,Deimos,300,5,8,45700,17,Level 1
+DS30.2 Ares Bridge,Deimos,320,5,8,51100,22,Level 27 
+DS40.1 Ares Bridge,Deimos,340,5,8,57800,25,Level 32 
+DS40.2 Ares Bridge,Deimos,360,5,8,69100,30,Level 38 
+Himeji Bridge,Taiyo Astroneering,320,5,2,17000,19,Level 28 
+Himeji Command Bridge,Taiyo Astroneering,340,5,2,24900,25,Level 33
+Kon-Tiki B-300 Bridge,Stroud-Eklund,300,5,4,1510,15,Level 1
+Kon-Tiki B-310 Bridge,Stroud-Eklund,320,5,4,19200,17,Level 23
+Kon-Tiki B-400 Bridge,Stroud-Eklund,340,5,4,26500,28,Level 28
+Kon-Tiki B-500 Bridge,Stroud-Eklund, 360,5,6,44900,34, Level 34
+Kon-Tiki B-600 Bridge,Stroud-Eklund, 380,5,6,63700,35, Level 41
+Magellan C1 Cockpit,Nova Galactic,200,5,2 ,3705,6,Level 1
+Magellan C1X Cockpit,Nova Galactic,220,5,2 ,4417,7,Level 5
+Magellan C2 Cockpit,Nova Galactic,240,5,2 ,5605,10,Level 1
+Magellan C2X Cockpit,Nova Galactic,260,5,2 ,7077,12,Level 8
+Magellan C2X Cockpit (NASA),Nova Galactic,260,5,2 ,7077,12,Level 1
+Overseer 300 Bridge,Hopetech,300,5,2,12800,17,Level 1
+Overseer 300E Bridge,Hopetech,320,5,2,18200,22,Level 28
+Overseer 400 Bridge,Hopetech,340,5,2,24900,25,Level 33
+Samurai Cockpit,Taiyo Astroneering,200,5,2,3900,6,Level 1
+Samurai Enhanced Cockpit,Taiyo Astroneering,220,5,2,4650,7,Level 4
+Shogun Cockpit,Taiyo Astroneering,280,5,2,9600,14,Level 16
+Shogun Enhanced Cockpit,Taiyo Astroneering,300,5,2,12800,17,Level 22
+Viking CP-100 Cockpit,Stroud-Eklund,200,5,4,650,4,Level 1
+Viking CP-110 Cockpit,Stroud-Eklund,220,5,4,7200,5,Level 6
+Viking CP-200 Cockpit,Stroud-Eklund,240,5,4,8400,8,Level 8
+Viking CP-210 Cockpit,Stroud-Eklund, 260, 5,4,9900,10,Level 9
+Viking CP-220 Cockpit,Stroud-Eklund,280,5,4,12000,12,Level 12
